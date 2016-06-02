@@ -5,7 +5,7 @@ Visit the [site](https://devnet.kentico.com/open-source)!
 
 ## How to qualify
 
-In order for a project to be registered on DevNet it has to fulfill several requirements. It has to:
+In order for a project to be registered on DevNet it has to fulfill several requirements, such as:
 - be related to any of the Kentico products
 - function with the latest version of the related product
 - be well documented
