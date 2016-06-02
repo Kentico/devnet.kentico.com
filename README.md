@@ -16,7 +16,7 @@ In order for a project to be registered on DevNet it has to fulfill several requ
  - (a link to) license infromation
  - compatibility information
  - information about how the project is supported in case users have questions or find a bug
-- follow the [standard structure](## Recommended structure of your project)
+- follow the [standard structure](#recommended-structure-of-your-project)
 
 ## How to register a project
 Once your project meets the above-mentioned criteria you can add it by submitting a pull request to this repository.
