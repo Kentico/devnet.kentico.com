@@ -17,7 +17,7 @@ In order for a project to be registered on DevNet it has to fulfill several requ
  - (a link to) license infromation
  - compatibility information
  - information about how the project is supported in case users have questions or find a bug
-- follow the [standard structure](#recommended-structure-of-your-project)
+- follow the [recommended project structure](#recommended-project-structure)
 
 ## How to register a project
 Once your project meets the above-mentioned criteria you can add it by submitting a pull request to this repository.
@@ -46,7 +46,7 @@ The `.json` file contains details about your projects (it can contain multiple):
 
 Check out [kentico.json](https://github.com/Kentico/devnet.kentico.com/blob/master/os-projects/kentico.json) for an example of the file structure.
 
-## Recommended structure of your project
+## Recommended project structure
 
 ### Web parts
 
