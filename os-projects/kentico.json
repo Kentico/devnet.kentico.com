@@ -1,0 +1,26 @@
+[
+   {
+      "name":"KInspector",
+      "description":"Performance, health and security audit tool for Kentico.",
+      "url":"https://github.com/Kentico/KInspector",
+      "tags":[
+         "health",
+         "performance",
+         "security",
+         "monitoring",
+         "analysis"
+      ]
+   },
+   {
+      "name":"AD Import Service",
+      "description":"A windows service for Active Directory synchronization with Kentico.",
+      "url":"https://github.com/Kentico/ADImportService",
+      "tags":[
+         "active directory",
+         "ad",
+         "membership",
+         "import",
+         "authentication"
+      ]
+   }
+]
