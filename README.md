@@ -1,5 +1,6 @@
 # devnet.kentico.com/open-source
 Do you run an open-source project related to Kentico? Submit a Pull Request to add it to the list!
+
 Visit the [site](https://devnet.kentico.com/open-source)!
 
 ## How to qualify
@@ -21,9 +22,9 @@ In order for a project to be registered on DevNet it has to fulfill several requ
 ## How to register a project
 Once your project meets the above-mentioned criteria you can add it by submitting a pull request to this repository.
 
-Projects are located in the [os-projects](https://github.com/Kentico/devnet.kentico.com/tree/master/os-projects) folder grouped by organization name. To add your project create a new file named after your organization (or edit existing), ending with `.json`. [This guide](https://help.github.com/articles/creating-new-files/) shows you how to create the file directly in your browser without cloning the repository.
+Projects are located in the [os-projects](https://github.com/Kentico/devnet.kentico.com/tree/master/os-projects) folder grouped by organization name. To add your project create a new file named after your organization (or edit existing), ending with `.json`. [This guide](https://help.github.com/articles/creating-new-files/) shows you how to create the file directly in your browser without having to clone the repository to your machine.
 
-The file contains details about your projects:
+The `.json` file contains details about your projects (it can contain multiple):
 
 ```json
 [
