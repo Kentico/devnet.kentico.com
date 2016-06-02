@@ -22,5 +22,14 @@
          "import",
          "authentication"
       ]
+   },
+   {
+      "name":"Kentico MVC",
+      "description":"Development of ASP.NET MVC 5 web applications with Kentico.",
+      "url":"https://github.com/Kentico/Mvc",
+      "tags":[
+         "mvc",
+         "development models"
+      ]
    }
 ]
