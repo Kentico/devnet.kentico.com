@@ -18,6 +18,7 @@ In order for a project to be registered on DevNet it has to fulfill several requ
  - compatibility information
  - information about how the project is supported in case users have questions or find a bug
 - follow the [recommended project structure](#recommended-project-structure)
+- follow the [best practices for customization](https://docs.kentico.com/display/K9/Best+practices+for+customization) (if applicable)
 
 ## How to register a project
 Once your project meets the above-mentioned criteria you can add it by submitting a pull request to this repository.
@@ -49,6 +50,8 @@ Check out [kentico.json](https://github.com/Kentico/devnet.kentico.com/blob/mast
 ## Recommended project structure
 
 ### Web parts
-
+TODO
 
 ### Modules
+TODO
+https://docs.kentico.com/display/K9/Creating+installation+packages+for+modules
