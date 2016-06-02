@@ -1,7 +1,7 @@
-# devnet.kentico.com/open-source
+# Submit New Project to DevNet
 Do you run an open-source project related to Kentico? Submit a Pull Request to add it to the list!
 
-Visit the [site](https://devnet.kentico.com/open-source)!
+Visit the [devnet.kentico.com/open-source](https://devnet.kentico.com/open-source) to see all projects!
 
 ## How to qualify
 
