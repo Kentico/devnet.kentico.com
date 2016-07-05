@@ -17,7 +17,7 @@ In order for a project to be registered on DevNet it has to fulfill several requ
  - (a link to) license infromation
  - compatibility information
  - information about how the project is supported in case users have questions or find a bug
-- follow the [recommendations for open-sourcing Kentico components and modules](https://github.com/Kentico/devnet.kentico.com/wiki/Open-sourcing-Kentico-Components-and-Modules)
+- follow the object [naming conventions](https://docs.kentico.com/display/K9/Creating+installation+packages+for+modules#Creatinginstallationpackagesformodules-Conventionsfordatabaseobjects) (if applicable)
 - follow the [best practices for customization](https://docs.kentico.com/display/K9/Best+practices+for+customization) (if applicable)
 
 ## How to register a project
