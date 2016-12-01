@@ -24,6 +24,18 @@
       ]
    },
    {
+      "name":"AD Import Utility",
+      "description":"A windows application that allows importing of users and groups (roles) from Active Directory (AD) into Kentico.",
+      "url":"https://github.com/Kentico/ADImport",
+      "tags":[
+         "active directory",
+         "ad",
+         "membership",
+         "import",
+         "authentication"
+      ]
+   },
+   {
       "name":"Kentico MVC",
       "description":"Development of ASP.NET MVC 5 web applications with Kentico.",
       "url":"https://github.com/Kentico/Mvc",
