@@ -43,5 +43,15 @@
          "mvc",
          "development models"
       ]
+   },
+   {
+      "name":"Kentico AMP",
+      "description":"Accelerated Mobile Pages module for Kentico EMS.",
+      "url":"https://github.com/Kentico/kentico-amp",
+      "tags":[
+         "google-amp",
+         "amp-html",
+         "amp-filter"
+      ]
    }
 ]
