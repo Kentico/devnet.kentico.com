@@ -1,0 +1,12 @@
+[
+   {
+      "name": "posh-kentico",
+      "description": "PowerShell Administration module for Kentico CMS.",
+      "url": "https://github.com/clcrutch/posh-kentico",
+      "tags": [
+         "powershell",
+         "administration",
+         "kentico-cms"
+      ]
+   }
+]
