@@ -46,3 +46,5 @@ The `.json` file contains details about your projects (it can contain multiple):
 ```
 
 Check out [kentico.json](https://github.com/Kentico/devnet.kentico.com/blob/master/os-projects/kentico.json) for an example of the file structure.
+
+![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/devnet.kentico.com?pixel)
