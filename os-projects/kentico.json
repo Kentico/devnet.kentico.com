@@ -10,6 +10,17 @@
          "monitoring",
          "analysis"
       ]
+   },   
+   {
+      "name":"Disqus Thread",
+      "description":"Disqus thread web part for Kentico.",
+      "url":"https://github.com/Kentico/DisqusThread",
+      "tags":[
+         "community",
+         "forums",
+         "discussions",
+         "chat"
+      ]
    },
    {
       "name":"AD Import Service",
