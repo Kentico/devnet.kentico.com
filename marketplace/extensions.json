@@ -8,6 +8,11 @@
     "version": "1.0.0-beta1",
     "kenticoVersion": "12.0.29",
     "category": "mvc widget",
-    "tags": []
+    "tags": [
+      "mvc",
+      "youtube",
+       "video",
+       "inline-editor"
+    ]
   }
 ]
