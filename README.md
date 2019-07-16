@@ -16,7 +16,7 @@ In order for a project to be registered on DevNet it has to fulfill several requ
   - a clear description of the project
   - download & installation instructions
   - (a link to) contribution guidelines
-  - (a link to) license infromation
+  - (a link to) license information
   - compatibility information
   - information about how the project is supported in case users have questions or find a bug
 - follow the object [naming conventions](https://docs.kentico.com/k12sp/custom-development/creating-custom-modules/creating-installation-packages-for-modules#Creatinginstallationpackagesformodules-Conventionsfordatabaseobjects) (if applicable)
@@ -33,19 +33,34 @@ The `.json` file entry contains details about your projects:
 ```json
 [
    {
-      "name": "project name",
-      "description": "project description",
-      "url": "https://github.com/<owner>/<repository>",
-      "tags": [
-         "your",
-         "tags",
-         "here"
+    "name": "YouTube Video widget",
+    "description": "Widget allowing to select and render a YouTube video on site.",
+    "thumbnailUrl": "https://avatars1.githubusercontent.com/u/47349751",
+    "author": "kentico",
+    "sourceUrl": "https://github.com/Kentico/ems-mvc-components#warning-this-repo-is-in-development",
+    "version": "1.0.0",
+    "kenticoVersion": "12.0.29",
+    "category": "mvc widget",
+    "tags": [
+       "mvc",
+       "youtube",
+        "video",
+        "inline-editor"
       ]
-   },
-   {
-      "name": "another project..."
-   }
+  }
 ]
 ```
+
+| Property        | Type | Description|
+| ------------- |:-------------:| -----:|
+| name      | string | Name of the extension (max 40 characters).|
+| description      | string | Description of the extension (max 160 characters).|
+| thumbnailUrl      | string | Url to the thumbnail image (must be jpg/jpeg/png with 100x100px resolution and using the HTTPS)|
+| author      | string | Name of the author (max 40 characters).|
+| sourceUrl      | string | Url to the extension (must be using HTTPS).|
+| version      | string | Extension version (must follow semantic versioning).|
+| version      | string | Kentico supported version (must follow semantic versioning).|
+| category      | string | Category of the extension. (One of these string `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `other`)|
+| tag      | array of strings | List that tags you want to mark an extension with.|
 
 ![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/devnet.kentico.com?pixel)
