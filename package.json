@@ -1,0 +1,31 @@
+{
+  "name": "devnet-resources-kentico-com",
+  "version": "1.0.0",
+  "description": "Repository loading data for DevNet marketplace",
+  "scripts": {
+    "check": "node ./scripts/checkExtensionsFormat.js",
+    "check-debug": "node --nolazy --inspect-brk=9229 ./scripts/checkExtensionsFormat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kentico/devnet.kentico.com.git"
+  },
+  "keywords": [
+    "kentico",
+    "devnet",
+    "kentico-ems",
+    "open-souce",
+    "marketplace",
+    "extensions",
+    "components"
+  ],
+  "author": "Ondřej Chrastina <ondrej.chrastina@kentico.com> (https://github.com/Simply007)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kentico/devnet.kentico.com/issues"
+  },
+  "homepage": "https://github.com/Kentico/devnet.kentico.com#readme",
+  "devDependencies": {
+    "@hapi/joi": "^15.1.0"
+  }
+}
