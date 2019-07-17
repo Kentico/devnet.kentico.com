@@ -14,5 +14,21 @@
        "video",
        "inline-editor"
     ]
+  },
+    {
+    "name": "Dummy YouTube Video widget",
+    "description": "Widget allowing to select and render a YouTube video on site.",
+    "thumbnailUrl": "https://picsum.photos/id/1/5616/3744",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/ems-mvc-components#warning-this-repo-is-in-development",
+    "version": "3.0.0-beta1",
+    "kenticoVersion": "11.0.29",
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "other",
+       "mvc personalization condition type",
+       "inline-editor"
+    ]
   }
 ]
