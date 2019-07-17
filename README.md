@@ -29,7 +29,7 @@ In order for a project to be registered on DevNet it has to fulfill several requ
 
 Once your extension meets the above-mentioned criteria you can add it by submitting a pull request to this repository.
 
-Projects are located in the [manifest.json](https://github.com/Kentico/devnet.kentico.com/blob/master/marketplace/manifest.json) file. To add your project create a new entry in the json object. [This guide](https://help.github.com/en/articles/editing-files-in-another-users-repository) shows you how to propose new changes directly in your browser without having to clone the repository to your machine.
+Projects are located in the [manifest.json](https://github.com/Kentico/devnet.kentico.com/blob/master/marketplace/manifest.json) file. To add your project create a new entry in the JSON object. [This guide](https://help.github.com/en/articles/editing-files-in-another-users-repository) shows you how to propose new changes directly in your browser without having to clone the repository to your machine.
 
 The `.json` file entry contains details about your projects:
 
