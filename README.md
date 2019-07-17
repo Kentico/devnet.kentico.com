@@ -1,5 +1,9 @@
 # Submit a New Kentico EMS Extension to DevNet
 
+[![Build Status](https://api.travis-ci.com/Kentico/devnet.kentico.com.svg?branch=master)](https://travis-ci.com/Kentico/devnet.kentico.com)
+[![Live](https://img.shields.io/badge/live-brightgreen.svg)](https://devnet.kentico.com/marketplace)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kentico)
+
 ## :warning: Work in progress
 
 Do you run have an open-source project related to Kentico or some extension you want to share? Submit a Pull Request to add it to the list!
