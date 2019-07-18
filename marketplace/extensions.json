@@ -66,6 +66,23 @@
     ]
   },
   {
+    "name": "AD Import Utility",
+    "description": "A windows application that allows importing of users and groups (roles) from Active Directory (AD) into Kentico.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/ADImport",
+    "version": "12.0.0",
+    "kenticoVersion": "12.0.0",
+    "category": "utility",
+    "tags": [
+      "active directory",
+      "ad",
+      "membership",
+      "import",
+      "authentication"
+    ]
+  },
+  {
     "name": "Kentico AMP",
     "description": "Accelerated Mobile Pages module for Kentico EMS.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
