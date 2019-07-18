@@ -38,7 +38,7 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/DisqusThread",
-    "version": "1.1",
+    "version": "1.1.0",
     "kenticoVersion": "10.0.0",
     "category": "webpart",
     "tags": [
@@ -74,11 +74,11 @@
     "version": "12.0.0",
     "kenticoVersion": "12.0.0",
     "category": "module",
-    "tags":[
+    "tags": [
       "google-amp",
       "amp-html",
       "amp-filter"
-   ]
+    ]
   },
   {
     "name": "PoSH Kentico",
@@ -88,8 +88,12 @@
     "sourceUrl": "https://github.com/clcrutch/posh-kentico",
     "version": "0.2.0",
     "kenticoVersion": "11.0.0",
-    "category": "",
-    "tags": []
+    "category": "module",
+    "tags": [
+      "powershell",
+      "administration",
+      "kentico-cms"
+    ]
   },
   {
     "name": "Kentico MVC Widget Resolver",
@@ -105,7 +109,7 @@
       "kentico 12",
       "structured content",
       "rich text"
-   ]
+    ]
   },
   {
     "name": "Package Builder",
@@ -116,11 +120,11 @@
     "version": "1.0.0",
     "kenticoVersion": "11.0.0",
     "category": "utility",
-    "tags":[
+    "tags": [
       "module",
       "package",
       "command-line",
       "continuous integration"
-   ]
-  },
+    ]
+  }
 ]
