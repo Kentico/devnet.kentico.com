@@ -35,6 +35,8 @@ Once your extension meets the above-mentioned criteria you can add it by submitt
 
 Projects are located in the [manifest.json](https://github.com/Kentico/devnet.kentico.com/blob/master/marketplace/manifest.json) file. To add your project create a new entry in the JSON object. [This guide](https://help.github.com/en/articles/editing-files-in-another-users-repository) shows you how to propose new changes directly in your browser without having to clone the repository to your machine.
 
+### Example configuration
+
 The `.json` file entry contains details about your projects:
 
 ```json
@@ -42,7 +44,7 @@ The `.json` file entry contains details about your projects:
    {
     "name": "YouTube Video widget",
     "description": "Widget allowing to select and render a YouTube video on site.",
-    "thumbnailUrl": "https://avatars1.githubusercontent.com/u/47349751",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "kentico",
     "sourceUrl": "https://github.com/Kentico/ems-mvc-components#warning-this-repo-is-in-development",
     "version": "1.0.0",
@@ -62,13 +64,15 @@ The `.json` file entry contains details about your projects:
 | ------------- |:-------------:| -----:|
 | name      | string | Name of the extension (max 40 characters).|
 | description      | string | Description of the extension (max 160 characters).|
-| thumbnailUrl      | string | Url to the thumbnail image (must be jpg/jpeg/png with 100x100px resolution and using the HTTPS)|
+| thumbnailUrl*      | string | Url to the thumbnail image (must be jpg/jpeg/png with 100x100px resolution and using the HTTPS). |
 | author      | string | Name of the author (max 40 characters).|
 | sourceUrl      | string | Url to the extension (must be using HTTPS).|
 | version      | string | Extension version (must follow semantic versioning).|
 | version      | string | Kentico supported version (must follow semantic versioning).|
 | category      | string | Category of the extension. (One of these string `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `other`)|
 | tag      | array of strings | List that tags you want to mark an extension with.|
+
+> \* You could provide the icon to the [assets](/marketplace/assets) folder as a part of the pull request and use URL format as is showcased in the [example configuration](#example-configuration) for the `thumbnailUrl` configuration property.
 
 ## Updating an extension
 
