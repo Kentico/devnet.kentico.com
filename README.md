@@ -25,6 +25,7 @@ In order for a project to be registered on DevNet it has to fulfill several requ
   - (a link to) license information
   - compatibility information
   - information about how the project is supported in case users have questions or find a bug
+  - (optional, but recommended) a screenshot/gif of the extension
 - follow the object [naming conventions](https://docs.kentico.com/k12sp/custom-development/creating-custom-modules/creating-installation-packages-for-modules#Creatinginstallationpackagesformodules-Conventionsfordatabaseobjects) (if applicable)
 - follow the [best practices for customization](https://docs.kentico.com/k12sp/custom-development/best-practices-for-customization) (if applicable)
 - (just recommendation) be hosted here on GitHub
