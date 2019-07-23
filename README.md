@@ -66,16 +66,19 @@ The `.json` file entry contains details about your projects:
 | name      | string | Name of the extension (max 40 characters).|
 | description      | string | Description of the extension (max 160 characters).|
 | thumbnailUrl<sup>1</sup>      | string | Url to the thumbnail image (must be jpg/jpeg/png with 100x100px resolution and using the HTTPS). |
-| author      | string | Name of the author (max 40 characters).|
+| author<sup>2</sup>      | string | Name of the author and company if aplicable. (max 40 characters).|
 | sourceUrl      | string | Url to the extension (must be using HTTPS).|
-| version<sup>2</sup>      | string | Extension version (must follow [semantic versioning](http://semver.org)).|
+| version<sup>3</sup>      | string | Extension version (must follow [semantic versioning](http://semver.org)).|
 | kenticoVersion      | string | Kentico supported version (must follow [semantic versioning](http://semver.org)).|
 | category      | string | Category of the extension. (One of these string `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `other`)|
 | tag      | array of strings | List that tags you want to mark an extension with.|
 
 > <sup>1</sup> You could provide the icon to the [assets](/marketplace/assets) folder as a part of the pull request and use URL format as is showcased in the [example configuration](#example-configuration) for the `thumbnailUrl` configuration property.
 
-> <sup>2</sup> Recommended is to start version numbering from 1.0.0, but there are no limitations until the versioning foolowing the [semantic versioning](http://semver.org).
+> <sup>2</sup> If you want to bind your activity with Kentico Partner Program, provide the company name.
+
+> <sup>3</sup> Recommended is to start version numbering from 1.0.0, but there are no limitations until the versioning foolowing the [semantic versioning](http://semver.org).
+
 
 ## Updating an extension
 
