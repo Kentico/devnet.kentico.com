@@ -65,18 +65,20 @@ The `.json` file entry contains details about your projects:
 | ------------- |:-------------:| -----:|
 | name      | string | Name of the extension (max 40 characters).|
 | description      | string | Description of the extension (max 160 characters).|
-| thumbnailUrl*      | string | Url to the thumbnail image (must be jpg/jpeg/png with 100x100px resolution and using the HTTPS). |
+| thumbnailUrl<sup>1</sup>      | string | Url to the thumbnail image (must be jpg/jpeg/png with 100x100px resolution and using the HTTPS). |
 | author      | string | Name of the author (max 40 characters).|
 | sourceUrl      | string | Url to the extension (must be using HTTPS).|
-| version      | string | Extension version (must follow semantic versioning).|
-| version      | string | Kentico supported version (must follow semantic versioning).|
+| version<sup>2</sup>      | string | Extension version (must follow [semantic versioning](http://semver.org)).|
+| kenticoVersion      | string | Kentico supported version (must follow [semantic versioning](http://semver.org)).|
 | category      | string | Category of the extension. (One of these string `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `other`)|
 | tag      | array of strings | List that tags you want to mark an extension with.|
 
-> \* You could provide the icon to the [assets](/marketplace/assets) folder as a part of the pull request and use URL format as is showcased in the [example configuration](#example-configuration) for the `thumbnailUrl` configuration property.
+> <sup>1</sup> You could provide the icon to the [assets](/marketplace/assets) folder as a part of the pull request and use URL format as is showcased in the [example configuration](#example-configuration) for the `thumbnailUrl` configuration property.
+
+> <sup>2</sup> Recommended is to start version numbering from 1.0.0, but there are no limitations until the versioning foolowing the [semantic versioning](http://semver.org).
 
 ## Updating an extension
 
-If you release a new version of the extension, update the record entry in the `JSON` file and reference the older version from the description linked by the `sourceUrl` link.
+If you release a new version of the extension, update the record entry in the `JSON` file and reference the older version from the description linked by the `sourceUrl` link. We recommend to increment the major version in `version` when the major version of `kenticoVersion` is incremented.
 
 ![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/devnet.kentico.com?pixel)
