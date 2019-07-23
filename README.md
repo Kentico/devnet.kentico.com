@@ -79,6 +79,6 @@ The `.json` file entry contains details about your projects:
 
 ## Updating an extension
 
-If you release a new version of the extension, update the record entry in the `JSON` file and reference the older version from the description linked by the `sourceUrl` link. We recommend to increment the major version in `version` when the major version of `kenticoVersion` is incremented.
+If you release a new version of the extension, update the record entry in the `JSON` file and reference the older version from the description linked by the `sourceUrl` link. We recommend to increment the major version in `version` when the major version of `kenticoVersion` is incremented. When the extension is stored in GIT repository, it is possible to use [tags](https://git-scm.com/book/en/v2/Git-Basics-Tagging) or [branches](https://git-scm.com/docs/git-branch) to separate version source code.
 
 ![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/devnet.kentico.com?pixel)
