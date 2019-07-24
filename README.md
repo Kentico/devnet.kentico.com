@@ -80,7 +80,7 @@ The `.json` file entry contains details about your projects:
 
 > <sup>2</sup> If you want to bind your activity with Kentico Partner Program, provide the company name.
 
-> <sup>3</sup> Recommended is to start version numbering from `1.0.0`, but there are no limitations until the versioning following the [semantic versioning](http://semver.org). Specified version is supposed to be bound to the last entry of the `kenticoVersionsArray`.
+> <sup>3</sup> Recommended is to start version numbering from `1.0.0`, but there are no limitations until the versioning following the [semantic versioning](http://semver.org). Specified version is supposed to be bound to the last entry of the `kenticoVersions` array.
 
 > <sup>4</sup> Version of the Kentico EMS that the extension is referencing. The array is for keeping the record what version were the extension released in the past. Last one is assumed to be bound to the `version` record. Recommended approach is to have a table explaining what extension version is compatible with what Kentico EMS version in the description linked in `sourceUrl` attribute.
 
