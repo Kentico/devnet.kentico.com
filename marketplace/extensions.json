@@ -6,7 +6,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/ems-mvc-components#warning-this-repo-is-in-development",
     "version": "1.0.0-beta1",
-    "kenticoVersion": "12.0.29",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
     "category": "mvc widget",
     "tags": [
       "mvc",
@@ -22,7 +24,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/KInspector",
     "version": "3.9.0",
-    "kenticoVersion": "12.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
     "category": "module",
     "tags": [
       "health",
@@ -39,7 +43,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/DisqusThread",
     "version": "1.1.0",
-    "kenticoVersion": "10.0.0",
+    "kenticoVersions": [
+      "10.0.0"
+    ],
     "category": "webpart",
     "tags": [
       "community",
@@ -55,7 +61,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/ADImportService",
     "version": "1.1.0",
-    "kenticoVersion": "8.0.0",
+    "kenticoVersions": [
+      "8.0.0"
+    ],
     "category": "utility",
     "tags": [
       "active directory",
@@ -72,7 +80,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/ADImport",
     "version": "12.0.0",
-    "kenticoVersion": "12.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
     "category": "utility",
     "tags": [
       "active directory",
@@ -89,7 +99,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/kentico-amp",
     "version": "12.0.0",
-    "kenticoVersion": "12.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
     "category": "module",
     "tags": [
       "google-amp",
@@ -104,7 +116,9 @@
     "author": "Chris Crutchfield",
     "sourceUrl": "https://github.com/clcrutch/posh-kentico",
     "version": "0.2.0",
-    "kenticoVersion": "11.0.0",
+    "kenticoVersions": [
+      "11.0.0"
+    ],
     "category": "module",
     "tags": [
       "powershell",
@@ -119,7 +133,9 @@
     "author": "Lee Conlin",
     "sourceUrl": "https://github.com/hades200082/Kentico12-MVC-WidgetResolver",
     "version": "1.0.1",
-    "kenticoVersion": "12.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
     "category": "utility",
     "tags": [
       "mvc",
@@ -135,7 +151,9 @@
     "author": "Ntara",
     "sourceUrl": "https://github.com/Ntara/Kentico.PackageBuilder",
     "version": "1.0.0",
-    "kenticoVersion": "11.0.0",
+    "kenticoVersions": [
+      "11.0.0"
+    ],
     "category": "utility",
     "tags": [
       "module",
