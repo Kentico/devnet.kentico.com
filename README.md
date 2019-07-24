@@ -48,8 +48,11 @@ The `.json` file entry contains details about your projects:
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "kentico",
     "sourceUrl": "https://github.com/Kentico/ems-mvc-components#warning-this-repo-is-in-development",
-    "version": "1.0.0",
-    "kenticoVersion": "12.0.29",
+    "version": "1.1.42",
+    "kenticoVersions": [
+      "12.0.0"
+      "12.0.29"
+    ],
     "category": "mvc widget",
     "tags": [
        "mvc",
@@ -68,8 +71,8 @@ The `.json` file entry contains details about your projects:
 | thumbnailUrl<sup>1</sup>      | string | Url to the thumbnail image (must be jpg/jpeg/png with 100x100px resolution and using the HTTPS). |
 | author<sup>2</sup>      | string | Name of the author and company if aplicable. (max 40 characters).|
 | sourceUrl      | string | Url to the extension (must be using HTTPS).|
-| version<sup>3</sup>      | string | Extension version (must follow [semantic versioning](http://semver.org)).|
-| kenticoVersion      | string | Kentico supported version (must follow [semantic versioning](http://semver.org)).|
+| version<sup>3</sup>      | string | Last version of the extension version (must follow the [semantic versioning](http://semver.org)).|
+| kenticoVersions<sup>4</sup>      | array of strings | Kentico supported versions (version entries must follow the [semantic versioning](http://semver.org)).|
 | category      | string | Category of the extension. (One of these string `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `other`)|
 | tag      | array of strings | List that tags you want to mark an extension with.|
 
@@ -77,8 +80,9 @@ The `.json` file entry contains details about your projects:
 
 > <sup>2</sup> If you want to bind your activity with Kentico Partner Program, provide the company name.
 
-> <sup>3</sup> Recommended is to start version numbering from 1.0.0, but there are no limitations until the versioning foolowing the [semantic versioning](http://semver.org).
+> <sup>3</sup> Recommended is to start version numbering from `1.0.0`, but there are no limitations until the versioning following the [semantic versioning](http://semver.org). Specified version is supposed to be bound to the last entry of the `kenticoVersionsArray`.
 
+> <sup>4</sup> Version of the Kentico EMS that the extension is referencing. The array is for keeping the record what version were the extension released in the past. Last one is assumed to be bound to the `version` record. Recommended approach is to have a table explaining what extension version is compatible with what Kentico EMS version in the description linked in `sourceUrl` attribute.
 
 ## Updating an extension
 
