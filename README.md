@@ -82,7 +82,7 @@ The `.json` file entry contains details about your projects:
 
 > <sup>3</sup> Recommended is to start version numbering from `1.0.0`, but there are no limitations until the versioning following the [semantic versioning](http://semver.org). Specified version is supposed to be bound to the last entry of the `kenticoVersions` array.
 
-> <sup>4</sup> A Version of the Kentico EMS that the extension is referencing. The array is for keeping the record what version was the extension released in the past. The last one is assumed to be bound to the `version` record. A recommended approach is to have a table explaining what extension version is compatible with what Kentico EMS version in the description linked in `sourceUrl` attribute.
+> <sup>4</sup> A version of the Kentico EMS that the extension is referencing. The array is for keeping the record of what Kentico version was supported in past extension releases. The last one is assumed to be bound to the `version` record. A recommended approach is to have a table mapping the extension version to Kentico EMS version in the description linked in `sourceUrl` attribute.
 
 ## Updating an extension
 
