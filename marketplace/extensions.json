@@ -1,13 +1,13 @@
 [
   {
-    "name": "YouTube Video widget",
+    "name": "Video widget",
     "description": "Widget allowing to select and render a YouTube video on site.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/ems-mvc-components#warning-this-repo-is-in-development",
+    "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.Widget.Video#video-widget",
     "version": "1.0.0-beta1",
     "kenticoVersions": [
-      "12.0.29"
+      "12.0.31"
     ],
     "category": "mvc widget",
     "tags": [
