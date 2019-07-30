@@ -4,8 +4,6 @@
 [![Live](https://img.shields.io/badge/live-brightgreen.svg)](https://devnet.kentico.com/marketplace)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kentico)
 
-## :warning: Work in progress
-
 Do you run have an open-source project related to Kentico or some extension you want to share? Submit a Pull Request to add it to the list!
 
 Visit the [devnet.kentico.com/marketplace](https://devnet.kentico.com/marketplace) to see all extensions!
