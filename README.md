@@ -15,7 +15,7 @@ Visit the [devnet.kentico.com/marketplace](https://devnet.kentico.com/marketplac
 In order for a project to be registered on DevNet it has to fulfill several requirements, such as:
 
 - be related to any of the Kentico EMS products
-- function with the latest version of the related product
+- function with the latest major version of the related product
 - be well documented
 - open-source approach
 - contain a README file with:
@@ -82,7 +82,7 @@ The `.json` file entry contains details about your projects:
 
 > <sup>3</sup> Recommended is to start version numbering from `1.0.0`, but there are no limitations until the versioning following the [semantic versioning](https://semver.org). Specified version is supposed to be bound to the last entry of the `kenticoVersions` array.
 
-> <sup>4</sup> A version of the Kentico EMS that the extension is referencing. The array is for keeping the record of what Kentico version was supported in past extension releases. The last one is assumed to be bound to the `version` record. A recommended approach is to have a table mapping the extension version to Kentico EMS version in the description linked in `sourceUrl` attribute.
+> <sup>4</sup> A version of the Kentico EMS that the extension is referencing. The array is for keeping the record of what Kentico version was supported in past extension releases. The last one is assumed to be bound to the `version` record. A recommended approach is to have a table mapping the extension version to Kentico EMS version in the description linked in `sourceUrl` attribute. Use `12.0.29` for Kentico 12 Service pack.
 
 ## Updating an extension
 
