@@ -163,20 +163,22 @@
     ]
   },
   {
-    "name": "Bootstrap 4 Layout Tool",
-    "description": "Kentico MVC Page Builder Section that allows you to configure the number of columns, sizes, additional classes, etc.",
-    "thumbnailUrl": "https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon.ico",
-    "author": "Trevor Fayas -Heartland Business Systems",
-    "sourceUrl": "https://github.com/KenticoDevTrev/BootstrapLayoutTool/blob/master/README.md",
-    "version": "12.0.1",
+    "name": "Tiny MCE Wysiwyg Editor",
+    "description": "Adds TinyMCE 5 wysiwyg editor capabilities for MVC. Includes Editable Text, Rich Text, and the TinyMCE Inline form component.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Troy Landers -Heartland Business Systems",
+    "sourceUrl": "https://github.com/KenticoDevTrev/TinyMCE_Wysiwyg",
+    "version": "12.29.0",
     "kenticoVersions": [
       "12.0.29"
     ],
-    "category": "sections",
+    "category": "mvc widget",
     "tags": [
-      "section",
-      "bootstrap",
-      "columns"
+      "wysiwyg",
+      "tinymce",
+      "rich text",
+	  "editable text",
+	  "html"
     ]
   }
 ]
