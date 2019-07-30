@@ -161,5 +161,24 @@
       "command-line",
       "continuous integration"
     ]
+  },
+  {
+    "name": "Relationships Extended",
+    "description": "Extends the Relationships to allow usage of Ad-hoc relationships (which allow order by) within the Relationship UI, add Node Categories, UI templates and tools to manage Many-To-Many relationships between Nodes and Objects and Objects to Objects, with Ordering support, and Macros and methods to leverage these features.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Trevor Fayas -Heartland Business Systems",
+    "sourceUrl": "https://github.com/KenticoDevTrev/RelationshipsExtended",
+    "version": "12.29.0",
+    "kenticoVersions": [
+      "12.29.0"
+    ],
+    "category": "module",
+    "tags": [
+      "relationships",
+      "many to many",
+      "related pages",
+      "category",
+	  "categories"
+    ]
   }
 ]
