@@ -19,6 +19,7 @@ const extensionSchema = Joi.object().keys({
     'mvc form component',
     'mvc inline editor',
     'mvc personalization condition type',
+    'integration',
     'other')
     .required(),
   tags: Joi.array().items(Joi.string())
