@@ -4,18 +4,18 @@
 [![Live](https://img.shields.io/badge/live-brightgreen.svg)](https://devnet.kentico.com/marketplace)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kentico)
 
-Do you run have an open-source project related to Kentico or some extension you want to share? Submit a Pull Request to add it to the list!
+Are you developing an open-source project or an extension related to Kentico and want to share it with the developer's community? Submit a Pull Request and share it on the [DevNet marketplace](https://devnet.kentico.com/marketplace)!
 
-Visit the [devnet.kentico.com/marketplace](https://devnet.kentico.com/marketplace) to see all extensions!
+Visit [devnet.kentico.com/marketplace](https://devnet.kentico.com/marketplace) to see all available extensions.
 
 ## How to qualify
 
-In order for a project to be registered on DevNet it has to fulfill several requirements, such as:
+To register your project on DevNet, it needs to satisfy the following requirements. The project needs to:
 
 - be related to any of the Kentico EMS products
-- function with the latest major version of the related product
-- be well documented
-- open-source approach
+- be compatible with the latest major version of the related product
+- utilize the open-source approach
+- have satisfactory documentation
 - contain a README file with:
   - a clear description of the project
   - download & installation instructions
@@ -24,66 +24,67 @@ In order for a project to be registered on DevNet it has to fulfill several requ
   - compatibility information
   - information about how the project is supported in case users have questions or find a bug
   - (optional, but recommended) a screenshot/gif of the extension
-- follow the object [naming conventions](https://docs.kentico.com/k12sp/custom-development/creating-custom-modules/creating-installation-packages-for-modules#Creatinginstallationpackagesformodules-Conventionsfordatabaseobjects) (if applicable)
-- follow the [best practices for customization](https://docs.kentico.com/k12sp/custom-development/best-practices-for-customization) (if applicable)
-- (just recommendation) be hosted here on GitHub
+-   follow [naming conventions](https://kentico.com/CMSPages/DocLinkMapper.ashx?version=latest&link=module_create_package#Creatinginstallationpackagesformodules-Conventionsfordatabaseobjects) for Kentico objects (if applicable)
+-   follow [best practices for customization](https://kentico.com/CMSPages/DocLinkMapper.ashx?version=latest&link=customization_best_practices) (if applicable)
+-   (recommended) be hosted on GitHub
 
-## How to register an extension
+## Registering extensions
 
-Once your extension meets the above-mentioned criteria you can add it by submitting a pull request to this repository.
+If your extension meets the above-mentioned criteria, you can create a pull request in this repository. Projects are located in the [`extensions.json`](/marketplace/extensions.json) file. To add your project, create a new entry in the JSON object.
 
-Projects are located in the [extensions.json](/marketplace/extensions.json) file. To add your project create a new entry in the JSON object. [This guide](https://help.github.com/en/articles/editing-files-in-another-users-repository) shows you how to propose new changes directly in your browser without having to clone the repository to your machine.
+You can propose changes to a file [directly in your browser](https://help.github.com/en/articles/editing-files-in-another-users-repository) without having to clone the repository, doing the changes locally, and committing.
 
 ### Example configuration
 
-The `.json` file entry contains details about your projects:
+The [`extensions.json`](/marketplace/extensions.json) file contains details about available extensions. Add a new entry to submit an extension:
 
 ```json
 [
-   {
-    "name": "YouTube Video widget",
-    "description": "Widget allowing to select and render a YouTube video on site.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
-    "author": "kentico",
-    "sourceUrl": "https://github.com/Kentico/ems-mvc-components#warning-this-repo-is-in-development",
-    "version": "1.1.42",
-    "kenticoVersions": [
-      "12.0.0"
-      "12.0.29"
-    ],
-    "category": "mvc widget",
-    "tags": [
-       "mvc",
-       "youtube",
-        "video",
-        "inline-editor"
-      ]
-  }
+  ...
+
+  {
+   "name": "Video widget",
+   "description": "Widget allowing to select and render a YouTube video on site.",
+   "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+   "author": "Kentico",
+   "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.Widget.Video#video-widget",
+   "version": "1.0.0-beta1",
+   "kenticoVersions": [
+     "12.0.31"
+   ],
+   "category": "mvc widget",
+   "tags": [
+     "mvc",
+     "youtube",
+     "video",
+     "inline-editor"
+   ]
+ }
 ]
 ```
 
-| Property        | Type | Description|
-| ------------- |:-------------:| -----:|
-| name      | string | Name of the extension (max 40 characters).|
-| description      | string | Description of the extension (max 160 characters).|
-| thumbnailUrl<sup>1</sup>      | string | Url to the thumbnail image (must be jpg/jpeg/png with 100x100px resolution and using the HTTPS). |
-| author<sup>2</sup>      | string | Name of the author and company if aplicable. (max 40 characters).|
-| sourceUrl      | string | Url to the extension (must be using HTTPS).|
-| version<sup>3</sup>      | string | Last version of the extension version (must follow the [semantic versioning](https://semver.org)).|
-| kenticoVersions<sup>4</sup>      | array of strings | Kentico supported versions (version entries must follow the [semantic versioning](https://semver.org)).|
-| category      | string | Category of the extension. (One of these string `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `integration`, `other`)|
-| tag      | array of strings | List that tags you want to mark an extension with.|
+| Property        | Type | Description |
+| ------------- |:-------------:| :----- |
+| name      | string | Name of the extension (max. 40 characters). |
+| description      | string | Description of the extension (max. 160 characters). |
+| thumbnailUrl<sup>1</sup>      | string | Url to the thumbnail image (must be jpg/jpeg/png with 100x100px resolution and accessed using secure HTTPS). |
+| author<sup>2</sup>      | string | Name of the author and/or company (max. 40 characters). |
+| sourceUrl      | string | URL to access the extension (must use secure HTTPS). |
+| version<sup>3</sup>      | string | Latest version of the extension (must follow the [semantic versioning](https://semver.org)). |
+| kenticoVersions<sup>4</sup>      | array of strings | supported Kentico versions (version entries must follow the [semantic versioning](https://semver.org)). |
+| category      | string | Category of the extension. Use one of the following: `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `integration`, `other`. |
+| tags      | array of strings | List of tags you want to apply to the extension. |
 
-> <sup>1</sup> You could provide the icon to the [assets](/marketplace/assets) folder as a part of the pull request and use URL format as is showcased in the [example configuration](#example-configuration) for the `thumbnailUrl` configuration property.
+> <sup>1</sup> You can store the icon in the [/marketplace/assets](/marketplace/assets) folder as a part of the pull request and use URL format as showcased in the [example configuration](#example-configuration).
 
-> <sup>2</sup> If you want to bind your activity with Kentico Partner Program, provide the company name.
+> <sup>2</sup> If you want your submissions to count towards the [Kentico Partners program](https://www.kentico.com/partners), you need to provide the company name.
 
-> <sup>3</sup> Recommended is to start version numbering from `1.0.0`, but there are no limitations until the versioning following the [semantic versioning](https://semver.org). Specified version is supposed to be bound to the last entry of the `kenticoVersions` array.
+> <sup>3</sup> It is recommended to start your version numbering from `1.0.0`, but there are no limitations other than the versioning needs to follow the [semantic versioning](https://semver.org). Specified extension version needs to be compatible with the latest specified Kentico version.
 
-> <sup>4</sup> A version of the Kentico EMS that the extension is referencing. The array is for keeping the record of what Kentico version was supported in past extension releases. The last one is assumed to be bound to the `version` record. A recommended approach is to have a table mapping the extension version to Kentico EMS version in the description linked in `sourceUrl` attribute. Use `12.0.29` for Kentico 12 Service pack.
+> <sup>4</sup> The version of the Kentico EMS with which the extension is compatible. The array is used to keep track of what Kentico versions were supported in previous extension releases. The latest Kentico version needs to be bound with the `version` property. A recommended approach is to keep a table mapping the extension version to Kentico EMS version in the readme file of the project. Use `12.0.29` for Kentico 12 Service pack.
 
-## Updating an extension
+## Updating extensions
 
-If you release a new version of the extension, update the record entry in the `JSON` file and reference the older version from the description linked by the `sourceUrl` link. We recommend to increment the major version in `version` when the major version of `kenticoVersion` is incremented. When the extension is stored in GIT repository, it is possible to use [tags](https://git-scm.com/book/en/v2/Git-Basics-Tagging) or [branches](https://git-scm.com/docs/git-branch) to separate version source code.
+If you release a new version of the extension, submit a pull request with an updated entry in the [`extensions.json`](/marketplace/extensions.json) file and provide a link to the older version in the readme file of the project. We recommend incrementing the major version in `version` when the major version of `kenticoVersion` is incremented.
 
 ![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/devnet.kentico.com?pixel)
