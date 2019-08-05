@@ -180,5 +180,102 @@
       "category",
 	  "categories"
     ]
+  },
+  {
+    "name": "Siteimprove for Kentico",
+    "description": "The Siteimprove for Kentico extension bridges the gap between the Kentico content management system and the Siteimprove Intelligence Platform.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "BizStream",
+    "sourceUrl": "http://www.toolkitforkentico.com/extensions/siteimprove-for-kentico",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "10.0.0",
+      "11.0.0",
+      "12.0.0"
+    ],
+    "category": "integration",
+    "tags": [
+      "integration"
+    ]
+  },
+  {
+    "name": "Connect for Kentico",
+    "description": "Easily connect Kentico online forms to popular CRM & marketing automation software including Microsoft Dynamics 365, Marketo, Zoho, and more.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "BizStream",
+    "sourceUrl": "http://www.bizstreamtoolkit.com/extensions/connect-for-kentico",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "10.0.0",
+      "11.0.0"
+    ],
+    "category": "integration",
+    "tags": [
+      "integration"
+    ]
+  },
+  {
+    "name": "Kentico Power BI reports",
+    "description": "Monitor your business and get answers quickly with rich dashboards available on every device.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://devnet.kentico.com/old-marketplace/integration/kentico-power-bi-reports",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "10.0.0",
+      "11.0.0",
+      "12.0.0"
+    ],
+    "category": "integration",
+    "tags": [
+      "integration"
+    ]
+  },
+  {
+    "name": "CRM Connect 2.0",
+    "description": "RM Connect for Kentico enables the seamless integration of your digital marketing and sales efforts.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "EMAKINA CEE",
+    "sourceUrl": "http://kentico-emakina.de/crm-connect",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "10.0.0",
+      "11.0.0"
+    ],
+    "category": "integration",
+    "tags": [
+      "integration"
+    ]
+  },
+  {
+    "name": "Compare for Kentico",
+    "description": "Compare for Kentico takes the fear out of deployments by allowing you to visually compare differences between multiple Kentico environments.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "BizStream",
+    "sourceUrl": "http://www.bizstreamtoolkit.com/products/compare",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "10.0.0"
+    ],
+    "category": "integration",
+    "tags": [
+      "integration"
+    ]
+  },
+  {
+    "name": "Sage Pay Payment Gateway for Kentico",
+    "description": "Sage Pay is a secure credit card and debit card payment solution. It is used by thousands of online and mail order businesses across the UK and Eire.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Discover IT",
+    "sourceUrl": "http://www.ecommerce-connect.co.uk/Sage-Pay-Payment-Gateway-for-Kentico.aspx",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "10.0.0",
+      "11.0.0"
+    ],
+    "category": "integration",
+    "tags": [
+      "integration"
+    ]
   }
 ]
