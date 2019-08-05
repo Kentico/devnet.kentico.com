@@ -72,7 +72,7 @@ The [`extensions.json`](/marketplace/extensions.json) file contains details abou
 | sourceUrl      | string | URL to access the extension (must use secure HTTPS). |
 | version<sup>3</sup>      | string | Latest version of the extension (must follow the [semantic versioning](https://semver.org)). |
 | kenticoVersions<sup>4</sup>      | array of strings | supported Kentico versions (version entries must follow the [semantic versioning](https://semver.org)). |
-| category      | string | Category of the extension. Use one of the following: `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `other`. |
+| category      | string | Category of the extension. Use one of the following: `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `integration`, `other`. |
 | tags      | array of strings | List of tags you want to apply to the extension. |
 
 > <sup>1</sup> You can store the icon in the [/marketplace/assets](/marketplace/assets) folder as a part of the pull request and use URL format as showcased in the [example configuration](#example-configuration).
