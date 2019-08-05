@@ -71,7 +71,7 @@ The `.json` file entry contains details about your projects:
 | sourceUrl      | string | Url to the extension (must be using HTTPS).|
 | version<sup>3</sup>      | string | Last version of the extension version (must follow the [semantic versioning](https://semver.org)).|
 | kenticoVersions<sup>4</sup>      | array of strings | Kentico supported versions (version entries must follow the [semantic versioning](https://semver.org)).|
-| category      | string | Category of the extension. (One of these string `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `other`)|
+| category      | string | Category of the extension. (One of these string `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `integration`, `other`)|
 | tag      | array of strings | List that tags you want to mark an extension with.|
 
 > <sup>1</sup> You could provide the icon to the [assets](/marketplace/assets) folder as a part of the pull request and use URL format as is showcased in the [example configuration](#example-configuration) for the `thumbnailUrl` configuration property.
