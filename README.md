@@ -8,7 +8,7 @@ Are you developing an open-source project or an extension related to Kentico and
 
 Visit [devnet.kentico.com/marketplace](https://devnet.kentico.com/marketplace) to see all available extensions.
 
-## Registration requirements
+## How to qualify
 
 To register your project on DevNet, it needs to satisfy the following requirements. The project needs to:
 
