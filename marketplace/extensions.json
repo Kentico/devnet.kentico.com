@@ -204,7 +204,7 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "BizStream",
     "sourceUrl": "http://www.bizstreamtoolkit.com/extensions/connect-for-kentico",
-    "version": "1.0.0",
+    "version": "2.0.69,
     "kenticoVersions": [
       "10.0.0",
       "11.0.0"
