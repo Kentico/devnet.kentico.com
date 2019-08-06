@@ -67,7 +67,7 @@ The [`extensions.json`](/marketplace/extensions.json) file contains details abou
 | ------------- |:-------------:| :----- |
 | name      | string | Name of the extension (max. 40 characters). |
 | description      | string | Description of the extension (max. 160 characters). |
-| thumbnailUrl<sup>1</sup>      | string | Url to the thumbnail image (must be jpg/jpeg/png with 100x100px resolution and accessed using secure HTTPS). |
+| thumbnailUrl<sup>1</sup>      | string | Url to the thumbnail image describing the extension, or the author (must be jpg/jpeg/png with 100x100px resolution and accessed using secure HTTPS). |
 | author<sup>2</sup>      | string | Name of the author and/or company (max. 40 characters). |
 | sourceUrl      | string | URL to access the extension (must use secure HTTPS). |
 | version<sup>3</sup>      | string | Latest version of the extension (must follow the [semantic versioning](https://semver.org)). |
@@ -75,7 +75,7 @@ The [`extensions.json`](/marketplace/extensions.json) file contains details abou
 | category      | string | Category of the extension. Use one of the following: `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `integration`, `other`. |
 | tags      | array of strings | List of tags you want to apply to the extension. |
 
-> <sup>1</sup> You can store the icon in the [/marketplace/assets](/marketplace/assets) folder as a part of the pull request and use URL format as showcased in the [example configuration](#example-configuration).
+> <sup>1</sup> You can store the icon in the [/marketplace/assets](/marketplace/assets) folder as a part of the pull request and use URL format as showcased in the [example configuration](#example-configuration). Kentico Icon is reserved for extesnions developed by Kentico.
 
 > <sup>2</sup> If you want your submissions to count towards the [Kentico Partners program](https://www.kentico.com/partners), you need to provide the company name.
 
