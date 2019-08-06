@@ -75,7 +75,7 @@ The [`extensions.json`](/marketplace/extensions.json) file contains details abou
 | category      | string | Category of the extension. Use one of the following: `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `integration`, `other`. |
 | tags      | array of strings | List of tags you want to apply to the extension. |
 
-> <sup>1</sup> You can store the icon in the [/marketplace/assets](/marketplace/assets) folder as a part of the pull request and use URL format as showcased in the [example configuration](#example-configuration). Kentico Icon is reserved for extesnions developed by Kentico.
+> <sup>1</sup> You can store the icon in the [/marketplace/assets](/marketplace/assets) folder as a part of the pull request and use URL format as showcased in the [example configuration](#example-configuration). [Kentico icon](/marketplace/assets/kentico-icon.png) is reserved for extesnions developed by Kentico.
 
 > <sup>2</sup> If you want your submissions to count towards the [Kentico Partners program](https://www.kentico.com/partners), you need to provide the company name.
 
