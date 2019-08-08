@@ -1,165 +1,19 @@
 [
   {
-    "name": "Video widget",
-    "description": "Widget allowing to select and render a YouTube video on site.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
-    "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.Widget.Video#video-widget",
-    "version": "1.0.0-beta1",
+    "name": "Bootstrap 4 Layout Tool",
+    "description": "Kentico MVC Page Builder Section that allows you to configure the number of columns, sizes, additional classes, etc.",
+    "thumbnailUrl": "https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon.ico",
+    "author": "Trevor Fayas -Heartland Business Systems",
+    "sourceUrl": "https://github.com/KenticoDevTrev/BootstrapLayoutTool/blob/master/README.md",
+    "version": "12.0.1",
     "kenticoVersions": [
-      "12.0.31"
+      "12.0.29"
     ],
-    "category": "mvc widget",
+    "category": "mvc section",
     "tags": [
-      "mvc",
-      "youtube",
-      "video",
-      "inline-editor"
-    ]
-  },
-  {
-    "name": "KInspector",
-    "description": "Performance, health and security audit tool for Kentico.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
-    "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/KInspector",
-    "version": "3.9.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
-    "category": "module",
-    "tags": [
-      "health",
-      "performance",
-      "security",
-      "monitoring",
-      "analysis"
-    ]
-  },
-  {
-    "name": "Disqus Thread",
-    "description": "Disqus thread web part for Kentico.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
-    "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/DisqusThread",
-    "version": "1.1.0",
-    "kenticoVersions": [
-      "10.0.0"
-    ],
-    "category": "webpart",
-    "tags": [
-      "community",
-      "forums",
-      "discussions",
-      "chat"
-    ]
-  },
-  {
-    "name": "AD Import Service",
-    "description": "A windows service for Active Directory synchronization with Kentico.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
-    "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/ADImportService",
-    "version": "1.1.0",
-    "kenticoVersions": [
-      "8.0.0"
-    ],
-    "category": "utility",
-    "tags": [
-      "active directory",
-      "ad",
-      "membership",
-      "import",
-      "authentication"
-    ]
-  },
-  {
-    "name": "AD Import Utility",
-    "description": "A windows application that allows importing of users and groups (roles) from Active Directory (AD) into Kentico.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
-    "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/ADImport",
-    "version": "12.0.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
-    "category": "utility",
-    "tags": [
-      "active directory",
-      "ad",
-      "membership",
-      "import",
-      "authentication"
-    ]
-  },
-  {
-    "name": "Kentico AMP",
-    "description": "Accelerated Mobile Pages module for Kentico EMS.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
-    "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/kentico-amp",
-    "version": "12.0.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
-    "category": "module",
-    "tags": [
-      "google-amp",
-      "amp-html",
-      "amp-filter"
-    ]
-  },
-  {
-    "name": "PoSH Kentico",
-    "description": "PowerShell Administration module for Kentico CMS.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/clcrutch-icon.png",
-    "author": "Chris Crutchfield",
-    "sourceUrl": "https://github.com/clcrutch/posh-kentico",
-    "version": "0.2.0",
-    "kenticoVersions": [
-      "11.0.0"
-    ],
-    "category": "module",
-    "tags": [
-      "powershell",
-      "administration",
-      "kentico-cms"
-    ]
-  },
-  {
-    "name": "Kentico MVC Widget Resolver",
-    "description": "Allows the use of Portal Engine style widgets within RichText fields to provide structured content to Kentico 12 MVC sites.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/hades200082-icon.jpg",
-    "author": "Lee Conlin",
-    "sourceUrl": "https://github.com/hades200082/Kentico12-MVC-WidgetResolver",
-    "version": "1.0.1",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
-    "category": "utility",
-    "tags": [
-      "mvc",
-      "kentico 12",
-      "structured content",
-      "rich text"
-    ]
-  },
-  {
-    "name": "Package Builder",
-    "description": "A command-line utility allowing more finite control over the creation of Kentico module packages and support for continuous integration.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/Ntara-icon.png",
-    "author": "Ntara",
-    "sourceUrl": "https://github.com/Ntara/Kentico.PackageBuilder",
-    "version": "1.0.0",
-    "kenticoVersions": [
-      "11.0.0"
-    ],
-    "category": "utility",
-    "tags": [
-      "module",
-      "package",
-      "command-line",
-      "continuous integration"
+      "section",
+      "bootstrap",
+      "columns"
     ]
   }
 ]
