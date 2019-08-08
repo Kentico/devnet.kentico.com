@@ -2,7 +2,7 @@
   {
     "name": "Page Builder Containers",
     "description": "Adds Page Builder Containers / Html before and after to Kentico MVC (Similar to Webpart Containers in Portal Engine)",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/PageBuilderContainers",
     "version": "12.29.2",
