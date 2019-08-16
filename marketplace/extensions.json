@@ -294,5 +294,24 @@
       "bootstrap",
       "columns"
     ]
+  },
+  {
+    "name": "Tiny MCE Wysiwyg Editor",
+    "description": "Adds TinyMCE 5 wysiwyg editor capabilities for MVC. Includes Editable Text, Rich Text, and the TinyMCE Inline form component.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/tinymce.png",
+    "author": "Troy Landers -Heartland Business Systems",
+    "sourceUrl": "https://github.com/KenticoDevTrev/TinyMCE_Wysiwyg",
+    "version": "12.29.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "wysiwyg",
+      "tinymce",
+      "rich text",
+	  "editable text",
+	  "html"
+    ]
   }
 ]
