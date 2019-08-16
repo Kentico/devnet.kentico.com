@@ -281,7 +281,7 @@
   {
     "name": "Bootstrap 4 Layout Tool",
     "description": "Kentico MVC Page Builder Section that allows you to configure the number of columns, sizes, additional classes, etc.",
-    "thumbnailUrl": "https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon.ico",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/bootstrap-icon.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/BootstrapLayoutTool/blob/master/README.md",
     "version": "12.29.2",
