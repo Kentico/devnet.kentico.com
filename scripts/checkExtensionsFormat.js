@@ -37,7 +37,7 @@ const extensionValid = (extension) => {
 const extensionsValid = () => {
   if (!Array.isArray(extensions)) {
     console.error('Extensions are not an array');
-    return 1;
+    return false;
   }
 
   for (const extension of extensions) {
@@ -53,7 +53,7 @@ const extensionsValid = () => {
 if(extensionsValid()) {
   return 0;
 } else {
-  return 1;
+  process.exit(1);
 }
 
 module.exports = {
