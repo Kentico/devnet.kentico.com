@@ -295,7 +295,7 @@
       "columns"
     ]
   },
-   {
+  {
     "name": "Tiny MCE Wysiwyg Editor",
     "description": "Adds TinyMCE 5 wysiwyg editor capabilities for MVC. Includes Editable Text, Rich Text, and the TinyMCE Inline form component.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/tinymce.png",
