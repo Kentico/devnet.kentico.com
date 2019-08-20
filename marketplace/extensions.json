@@ -330,5 +330,22 @@
       "page builder",
       "widgets"
     ]
+  },
+  {
+    "name": "Bing Maps MVC Widget",
+    "description": "Bing Maps widget allows editors to place a map to Page Builder sections. Its center (GPS coordinates) and zoom can be configured via configuration dialog.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ondrabus/kentico-mvcwidget-bing-maps/master/bingmaps.png",
+    "author": "Ondrabus",
+    "sourceUrl": "https://github.com/ondrabus/kentico-mvcwidget-bing-maps",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "bing",
+      "maps"
+    ]
   }
 ]
