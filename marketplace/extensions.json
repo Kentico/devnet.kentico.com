@@ -164,7 +164,7 @@
   },
   {
     "name": "Relationships Extended",
-    "description": "Extends the Relationships to allow usage of Ad-hoc relationships (which allow order by) within the Relationship UI, add Node Categories, UI templates and tools to manage Many-To-Many relationships between Nodes and Objects and Objects to Objects, with Ordering support, and Macros and methods to leverage these features.",
+    "description": "Extends the Relationships to allow usage of Ad-hoc relationships (which allow order by) within the Relationship UI.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/RelationshipsExtended",
@@ -186,7 +186,7 @@
     "description": "The Siteimprove for Kentico extension bridges the gap between the Kentico content management system and the Siteimprove Intelligence Platform.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "BizStream",
-    "sourceUrl": "http://www.toolkitforkentico.com/extensions/siteimprove-for-kentico",
+    "sourceUrl": "https://www.toolkitforkentico.com/extensions/siteimprove-for-kentico",
     "version": "2.0.69",
     "kenticoVersions": [
       "10.0.0",
@@ -203,7 +203,7 @@
     "description": "Easily connect Kentico online forms to popular CRM & marketing automation software including Microsoft Dynamics 365, Marketo, Zoho, and more.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "BizStream",
-    "sourceUrl": "http://www.bizstreamtoolkit.com/extensions/connect-for-kentico",
+    "sourceUrl": "https://www.bizstreamtoolkit.com/extensions/connect-for-kentico",
     "version": "2.0.69",
     "kenticoVersions": [
       "10.0.0",
@@ -236,7 +236,7 @@
     "description": "CRM Connect for Kentico enables the seamless integration of your digital marketing and sales efforts.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "EMAKINA CEE",
-    "sourceUrl": "http://kentico-emakina.de/crm-connect",
+    "sourceUrl": "https://kentico-emakina.de/crm-connect",
     "version": "1.0.0",
     "kenticoVersions": [
       "10.0.0",
@@ -252,7 +252,7 @@
     "description": "Compare for Kentico takes the fear out of deployments by allowing you to visually compare differences between multiple Kentico environments.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "BizStream",
-    "sourceUrl": "http://www.bizstreamtoolkit.com/products/compare",
+    "sourceUrl": "https://www.bizstreamtoolkit.com/products/compare",
     "version": "1.0.0",
     "kenticoVersions": [
       "10.0.0"
@@ -267,7 +267,7 @@
     "description": "Sage Pay is a secure credit card and debit card payment solution. It is used by thousands of online and mail order businesses across the UK and Eire.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "Discover IT",
-    "sourceUrl": "http://www.ecommerce-connect.co.uk/Sage-Pay-Payment-Gateway-for-Kentico.aspx",
+    "sourceUrl": "https://www.ecommerce-connect.co.uk/Sage-Pay-Payment-Gateway-for-Kentico.aspx",
     "version": "1.0.0",
     "kenticoVersions": [
       "10.0.0",
@@ -316,7 +316,7 @@
   },
   {
     "name": "Partial Widget Page",
-    "description": "Allows you to render a Page Builder page as a partial to be included on another page.  Similar to Portal Engine's Page Placeholder.  Useful for adding Page Builder content to things such as Mega Menus, Footer elements, etc.",
+    "description": "Allows you to render a Page Builder page as a partial to be included on another page. Similar to Portal Engine's Page Placeholder.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/PartialWidgetPage",
@@ -329,6 +329,23 @@
       "page placeholder",
       "page builder",
       "widgets"
+    ]
+  },
+  {
+    "name": "Bing Maps MVC Widget",
+    "description": "Bing Maps widget allows editors to place a map to Page Builder sections. Its center (GPS coordinates) and zoom can be configured via configuration dialog.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ondrabus/kentico-mvcwidget-bing-maps/master/bingmaps.png",
+    "author": "Ondrabus",
+    "sourceUrl": "https://github.com/ondrabus/kentico-mvcwidget-bing-maps",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "bing",
+      "maps"
     ]
   }
 ]
