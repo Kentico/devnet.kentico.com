@@ -42,6 +42,7 @@ const extensionsValid = () => {
 
   for (const extension of extensions) {
     if(!extensionValid(extension)){
+      console.log(`Tested extension ${extension.name ? extension.name : JSON.stringify(extension, 2)}.`);
       return false;
     }
   }
