@@ -366,7 +366,7 @@
   },
   {
     "name": "Menus Modules",
-    "description": "The menus module allows navigation menus to be created and managed in a central location so that the same menu can be added to multiple pages and updated in one place.",
+    "description": "The menus module allows simple navigation menus to be created and managed in a central location.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/netconstruct-icon.png",
     "author": "NetConstruct",
     "sourceUrl": "",
