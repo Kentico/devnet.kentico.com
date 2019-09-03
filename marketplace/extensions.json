@@ -1,5 +1,23 @@
 [
 {
+    "name": "YouTube Video widget",
+    "description": "Widget Enables to insert the video from specified YouTube URL location.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/kentico12-mvc-widgets/master/Kentico.MVC.Widgets/Kentico.MVC.Widgets.YouTubeVideo/YouTube.jpg",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Kentico.MVC.Widgets/Kentico.MVC.Widgets.YouTubeVideo",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "youtube",
+      "youtue video",
+	  "Video"
+    ]
+  }, 
+{
     "name": "Link button widget",
     "description": "Widget displays a hyperlink to a specified target URL. The link can be rendered in text format.",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/kentico12-mvc-widgets/master/rbt-logo-new_224x224.jpg",
