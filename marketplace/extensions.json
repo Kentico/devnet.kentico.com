@@ -35,7 +35,7 @@
     ]
   },
   {
-    "name": "Rich Text Editor (widget + inline editor)",
+    "name": "Rich Text Editor Widget",
     "description": "The rich text widget allows content editors to edit rich text in a ""WYSIWYG"" manner.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
@@ -49,12 +49,11 @@
       "mvc",
       "rich-text",
       "wysiwyg",
-      "froala",
-      "inline-editor"
+      "froala"
     ]
   },
   {
-    "name": "Rich Text Editor (inline editor)",
+    "name": "Rich Text Inline Editor",
     "description": "The rich text inline editor for editing rich text in a ""WYSIWYG"" manner.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
@@ -63,7 +62,7 @@
     "kenticoVersions": [
       "12.0.38"
     ],
-    "category": "inline editor",
+    "category": "mvc inline editor",
     "tags": [
       "mvc",
       "rich-text",
