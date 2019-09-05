@@ -36,7 +36,7 @@
   },
   {
     "name": "Rich Text Editor Widget",
-    "description": "The rich text widget allows content editors to edit rich text in a ""WYSIWYG"" manner.",
+    "description": "The rich text widget allows content editors to edit rich text in a \"WYSIWYG\" manner.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.Widget.RichText#rich-text-widget",
@@ -54,7 +54,7 @@
   },
   {
     "name": "Rich Text Inline Editor",
-    "description": "The rich text inline editor for editing rich text in a ""WYSIWYG"" manner.",
+    "description": "The rich text inline editor for editing rich text in a \"WYSIWYG\" manner.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.InlineEditor.RichText#rich-text-inline-editor",
