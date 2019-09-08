@@ -1,5 +1,5 @@
 [
-{
+  {
     "name": "Link button widget",
     "description": "Widget displays a hyperlink to a specified target URL. The link can be rendered in text format.",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/rbt-logo.png",
@@ -15,8 +15,8 @@
       "Link",
       "Link button"
     ]
-  }, 
- {
+  },
+  {
     "name": "Video widget",
     "description": "Widget allowing to select and render a YouTube video on site.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
@@ -195,7 +195,7 @@
       "many to many",
       "related pages",
       "category",
-	  "categories"
+      "categories"
     ]
   },
   {
@@ -327,8 +327,8 @@
       "wysiwyg",
       "tinymce",
       "rich text",
-	  "editable text",
-	  "html"
+      "editable text",
+      "html"
     ]
   },
   {
@@ -393,7 +393,9 @@
     ],
     "category": "mvc form component",
     "tags": [
-      "color", "picker", "hex"
+      "color",
+      "picker",
+      "hex"
     ]
   },
   {
@@ -408,7 +410,28 @@
     ],
     "category": "mvc form component",
     "tags": [
-      "date", "picker", "datetime", "date time"
+      "date",
+      "picker",
+      "datetime",
+      "date time"
+    ]
+  },
+  {
+    "name": "Font Awesome Form Component",
+    "description": "Adds the ability for a content editor to select a Font Awesome 5.x icon from a modal popup.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "Liam Goldfinch - NetConstruct",
+    "sourceUrl": "https://github.com/liamgold/font-awesome-form-component",
+    "version": "12.29.2",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc form component",
+    "tags": [
+      "icon",
+      "picker",
+      "fontawesome",
+      "font awesome"
     ]
   }
 ]
