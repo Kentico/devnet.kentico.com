@@ -448,4 +448,21 @@
       "date", "picker", "datetime", "date time"
     ]
   }
+	{
+   "name": "Adding RTL for Application Dashboard",
+   "description": "adding the Right To Left for Application Dashboard, work with MVC and the Portal Engine",
+   "thumbnailUrl": "https://www.ltechpro.com/getattachment/Services/Kentico/adding-the-Right-To-Left-for-Application-Dashboard/mirror-site.png",
+   "author": "LTech Pro",
+   "sourceUrl": "https://www.ltechpro.com/en-us/services/kentico/adding-the-right-to-left-for-application-dashboard",
+   "version": "1.0",
+   "kenticoVersions": [
+      "11.0.0",
+      "12.0.0"
+   ],
+   "category": "Dashboard",
+   "tags": [
+     "RTL",
+     "Arabic",
+   ]
+ }
 ]
