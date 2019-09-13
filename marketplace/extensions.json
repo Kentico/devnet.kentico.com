@@ -290,7 +290,7 @@
     "description": "CRM Connect for Kentico enables the seamless integration of your digital marketing and sales efforts.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "EMAKINA CEE",
-    "sourceUrl": "https://kentico-emakina.de/crm-connect",
+    "sourceUrl": "http://kentico-emakina.de/crm-connect",
     "version": "1.0.0",
     "kenticoVersions": [
       "10.0.0",
