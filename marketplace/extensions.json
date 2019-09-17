@@ -447,7 +447,7 @@
     "tags": [
       "date", "picker", "datetime", "date time"
     ]
-  }
+  },
   {
     "name": "Lightbox gallery",
     "description": "Lightbox gallery widget allows editors to place a simple lightbox gallery to Page Builder sections. Its data source can be configured to page attachments, media library images or external URLs.",
