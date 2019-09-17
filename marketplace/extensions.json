@@ -448,4 +448,22 @@
       "date", "picker", "datetime", "date time"
     ]
   }
+  {
+    "name": "Lightbox gallery",
+    "description": "Lightbox gallery widget allows editors to place a simple lightbox gallery to Page Builder sections. Its data source can be configured to page attachments, media library images or external URLs.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ondrabus/kentico-mvcwidget-lightbox-gallery/master/gallery.png",
+    "author": "Ondrabus",
+    "sourceUrl": "https://github.com/ondrabus/kentico-mvcwidget-lightbox-gallery",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "bing",
+      "lightbox",
+      "gallery"
+    ]
+  },
 ]
