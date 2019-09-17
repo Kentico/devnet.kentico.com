@@ -53,6 +53,43 @@
     ]
   },
   {
+    "name": "Rich Text Editor Widget",
+    "description": "The rich text widget allows content editors to edit rich text in a \"WYSIWYG\" manner.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.Widget.RichText#rich-text-widget",
+    "version": "1.0.0-beta1",
+    "kenticoVersions": [
+      "12.0.38"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "rich-text",
+      "wysiwyg",
+      "froala"
+    ]
+  },
+  {
+    "name": "Rich Text Inline Editor",
+    "description": "The rich text inline editor for editing rich text in a \"WYSIWYG\" manner.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.InlineEditor.RichText#rich-text-inline-editor",
+    "version": "1.0.0-beta1",
+    "kenticoVersions": [
+      "12.0.38"
+    ],
+    "category": "mvc inline editor",
+    "tags": [
+      "mvc",
+      "rich-text",
+      "wysiwyg",
+      "froala",
+      "inline-editor"
+    ]
+  },
+  {
     "name": "KInspector",
     "description": "Performance, health and security audit tool for Kentico.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
@@ -271,7 +308,7 @@
     "description": "CRM Connect for Kentico enables the seamless integration of your digital marketing and sales efforts.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "EMAKINA CEE",
-    "sourceUrl": "https://kentico-emakina.de/crm-connect",
+    "sourceUrl": "http://kentico-emakina.de/crm-connect",
     "version": "1.0.0",
     "kenticoVersions": [
       "10.0.0",
