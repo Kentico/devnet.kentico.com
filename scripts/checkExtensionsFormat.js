@@ -6,7 +6,7 @@ const extensionSchema = Joi.object().keys({
   description: Joi.string().max(160).required(),
   thumbnailUrl: Joi.string().uri({ scheme: 'https' }).required(),
   author: Joi.string().max(40).required(),
-  sourceUrl: Joi.string().uri({ scheme: 'https' }).required(),
+  sourceUrl: Joi.string().uri({ scheme: ['https', 'http'] }).required(),
   version: Joi.string().regex(/^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(-(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*)(\.(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*))*)?(\+[0-9a-zA-Z-]+(\.[0-9a-zA-Z-]+)*)?$/).required(),
   kenticoVersions: Joi.array().items(Joi.string().regex(/^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(-(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*)(\.(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*))*)?(\+[0-9a-zA-Z-]+(\.[0-9a-zA-Z-]+)*)?$/).required()),
   category: Joi.any().valid(
