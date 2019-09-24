@@ -474,7 +474,7 @@
   {
     "name": "Lightbox gallery",
     "description": "Lightbox gallery widget allows editors to place a simple lightbox gallery to Page Builder sections. Its data source can be configured to page attachments, media library images or external URLs.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/ondrabus/kentico-mvcwidget-lightbox-gallery/master/gallery.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kentico/devnet.kentico.com/master/marketplace/assets/lightbox-gallery.png",
     "author": "Ondrabus",
     "sourceUrl": "https://github.com/ondrabus/kentico-mvcwidget-lightbox-gallery",
     "version": "1.0.0",
