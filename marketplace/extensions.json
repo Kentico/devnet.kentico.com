@@ -470,5 +470,29 @@
       "fontawesome",
       "font awesome"
     ]
-  }
+  },
+  {
+   "name": "Email Marketing & Surveys",
+   "description": "High-volume email marketing & survey platform. Synchronize Kentico Contact Groups & Macro conditions with SensorPro tags.",
+   "thumbnailUrl": "http://e.sensorpro.net/images/logos/sensorpro-kentico-icon.png",
+   "author": "SensorPro",
+   "sourceUrl": "https://github.com/SensorPro/KenticoContacts",
+   "version": "1.0.0",
+   "kenticoVersions": [
+     "11.0.0",
+	 "11.0.49",
+	 "12.0.29",
+	 "12.0.40"
+   ],
+   "category": "Integration",
+   "tags": [
+     "Integration",
+     "Email",
+     "Surveys",
+     "Marketing",
+	 "High-Volume",
+	 "NPS",
+	 "Feedback"
+   ]
+ }
 ]
