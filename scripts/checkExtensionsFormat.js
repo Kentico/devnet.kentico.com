@@ -6,7 +6,7 @@ const extensionSchema = Joi.object().keys({
   description: Joi.string().max(160).required(),
   thumbnailUrl: Joi.string().uri({ scheme: 'https' }).required(),
   author: Joi.string().max(40).required(),
-  sourceUrl: Joi.string().uri({ scheme: 'https' }).required(),
+  sourceUrl: Joi.string().uri({ scheme: ['https', 'http'] }).required(),
   version: Joi.string().regex(/^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(-(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*)(\.(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*))*)?(\+[0-9a-zA-Z-]+(\.[0-9a-zA-Z-]+)*)?$/).required(),
   kenticoVersions: Joi.array().items(Joi.string().regex(/^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(-(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*)(\.(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*))*)?(\+[0-9a-zA-Z-]+(\.[0-9a-zA-Z-]+)*)?$/).required()),
   category: Joi.any().valid(
@@ -37,11 +37,12 @@ const extensionValid = (extension) => {
 const extensionsValid = () => {
   if (!Array.isArray(extensions)) {
     console.error('Extensions are not an array');
-    return 1;
+    return false;
   }
 
   for (const extension of extensions) {
     if(!extensionValid(extension)){
+      console.log(`Tested extension ${extension.name ? extension.name : JSON.stringify(extension, 2)}.`);
       return false;
     }
   }
@@ -53,7 +54,7 @@ const extensionsValid = () => {
 if(extensionsValid()) {
   return 0;
 } else {
-  return 1;
+  process.exit(1);
 }
 
 module.exports = {
