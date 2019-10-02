@@ -484,7 +484,7 @@
 	 "12.0.29",
 	 "12.0.40"
    ],
-   "category": "Module",
+   "category": "module",
    "tags": [
      "Integration",
      "Email",
