@@ -474,7 +474,7 @@
   {
    "name": "Email Marketing & Surveys",
    "description": "High-volume email marketing & survey platform. Synchronize Kentico Contact Groups & Macro conditions with SensorPro tags.",
-   "thumbnailUrl": "http://e.sensorpro.net/images/logos/sensorpro-kentico-icon.png",
+   "thumbnailUrl": "https://e.sensorpro.net/images/logos/sensorpro-kentico-icon.png",
    "author": "SensorPro",
    "sourceUrl": "https://github.com/SensorPro/KenticoContacts",
    "version": "1.0.0",
