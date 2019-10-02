@@ -472,6 +472,24 @@
     ]
   },
   {
+    "name": "Lightbox gallery",
+    "description": "Widget allows editors to place Lightbox gallery to Page Builder sections displaying page attachments, media library images or external URLs.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kentico/devnet.kentico.com/master/marketplace/assets/lightbox-gallery.png",
+    "author": "Ondrabus",
+    "sourceUrl": "https://github.com/ondrabus/kentico-mvcwidget-lightbox-gallery",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "bing",
+      "lightbox",
+      "gallery"
+    ]
+  },
+  {
     "name": "MVC Caching for Kentico",
     "description": "Adds Automated+Manual Data Caching and Rendering Caching for Kentico MVC that is tied in with Kentico's Cache and dependencies.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
