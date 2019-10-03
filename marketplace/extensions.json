@@ -494,7 +494,8 @@
 	 "NPS",
 	 "Feedback"
    ]
- }
+ },
+ {
     "name": "Lightbox gallery",
     "description": "Widget allows editors to place Lightbox gallery to Page Builder sections displaying page attachments, media library images or external URLs.",
     "thumbnailUrl": "https://raw.githubusercontent.com/kentico/devnet.kentico.com/master/marketplace/assets/lightbox-gallery.png",
