@@ -472,6 +472,23 @@
     ]
   },
   {
+
+    "name": "Map Location Form Component",
+    "description": "Adds the ability for a content editor to capture a latitude/longitude value by clicking a location on a map.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "Liam Goldfinch - NetConstruct",
+    "sourceUrl": "https://github.com/liamgold/map-location-form-component",
+    "version": "12.29.2",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc form component",
+    "tags": [
+      "map",
+      "location"
+ ]
+  },
+  {
    "name": "Email Marketing & Surveys",
    "description": "High-volume email marketing & survey platform. Synchronize Kentico Contact Groups & Macro conditions with SensorPro tags.",
    "thumbnailUrl": "https://e.sensorpro.net/images/logos/sensorpro-kentico-icon.png",
@@ -527,6 +544,7 @@
     "tags": [
       "cache",
       "caching"
+
     ]
   }
 ]
