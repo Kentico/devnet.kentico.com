@@ -472,6 +472,30 @@
     ]
   },
   {
+   "name": "Email Marketing & Surveys",
+   "description": "High-volume email marketing & survey platform. Synchronize Kentico Contact Groups & Macro conditions with SensorPro tags.",
+   "thumbnailUrl": "https://e.sensorpro.net/images/logos/sensorpro-kentico-icon.png",
+   "author": "SensorPro",
+   "sourceUrl": "https://github.com/SensorPro/KenticoContacts",
+   "version": "1.0.0",
+   "kenticoVersions": [
+     "11.0.0",
+	 "11.0.49",
+	 "12.0.29",
+	 "12.0.40"
+   ],
+   "category": "module",
+   "tags": [
+     "integration",
+     "Email",
+     "Surveys",
+     "Marketing",
+	 "High-Volume",
+	 "NPS",
+	 "Feedback"
+   ]
+ },
+ {
     "name": "Lightbox gallery",
     "description": "Widget allows editors to place Lightbox gallery to Page Builder sections displaying page attachments, media library images or external URLs.",
     "thumbnailUrl": "https://raw.githubusercontent.com/kentico/devnet.kentico.com/master/marketplace/assets/lightbox-gallery.png",
