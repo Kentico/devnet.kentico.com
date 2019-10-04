@@ -359,7 +359,7 @@
     "kenticoVersions": [
       "12.0.33"
     ],
-    "category": "modules",
+    "category": "module",
     "tags": [
       "menu",
       "navigation"
