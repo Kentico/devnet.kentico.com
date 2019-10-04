@@ -351,7 +351,7 @@
   },
   {
     "name": "Menus Modules",
-    "description": "The menus module allows navigation menus to be created and managed in a central location so that the same menu can be added to multiple pages and updated in one place.",
+    "description": "This module allows navigation menus to be managed in a central location so that the same menu can be added to multiple pages and updated in one place.",
     "thumbnailUrl": "https://raw.githubusercontent.com/netconstruct/menus-module/master/assets/NC-GitHub-Logo.png",
     "author": "NetConstruct",
     "sourceUrl": "https://github.com/netconstruct/menus-module",
