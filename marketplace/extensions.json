@@ -546,7 +546,7 @@
       "caching"
 
     ]
-  }
+  },
 	{
    "name": "Adding RTL for Application Dashboard",
    "description": "adding the Right To Left for Application Dashboard, work with MVC and the Portal Engine",
