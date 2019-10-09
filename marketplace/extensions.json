@@ -546,5 +546,22 @@
       "caching"
 
     ]
+  },
+  {
+    "name": "Disqus Thread MVC Widget",
+    "description": "Disqus thread MVC widget for Kentico.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/avivasolutionsnl/kentico-mvc-widget-disqus/master/aviva-solutions.png",
+    "author": "Aviva Solutions",
+    "sourceUrl": "https://github.com/avivasolutionsnl/kentico-mvc-widget-disqus",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.38"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "comments",
+      "disqus"
+    ]
   }
 ]
