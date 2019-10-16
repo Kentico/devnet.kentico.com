@@ -1,8 +1,27 @@
 [
-  {
+
+{
+    "name": "YouTube Video widget",
+    "description": "Widget Enables to insert the video from specified YouTube URL location.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Kentico.MVC.Widgets/Kentico.MVC.Widgets.YouTubeVideo",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "youtube",
+      "youtue video",
+	  "Video"
+    ]
+  }, 
+{
     "name": "Link button widget",
     "description": "Widget displays a hyperlink to a specified target URL. The link can be rendered in text format.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/rbt-logo.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
     "author": "Ray Business Technologies Pvt Ltd.",
     "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Kentico.MVC.Widgets/Kentico.MVC.Widgets.LinkButton",
     "version": "1.0.0",
@@ -350,6 +369,22 @@
     ]
   },
   {
+    "name": "Menus Modules",
+    "description": "This module allows navigation menus to be managed in a central location so that the same menu can be added to multiple pages and updated in one place.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/netconstruct/menus-module/master/assets/NC-GitHub-Logo.png",
+    "author": "NetConstruct",
+    "sourceUrl": "https://github.com/netconstruct/menus-module",
+    "version": "2.0.1",
+    "kenticoVersions": [
+      "12.0.33"
+    ],
+    "category": "module",
+    "tags": [
+      "menu",
+      "navigation"
+    ]
+  },
+  {
     "name": "Tiny MCE Wysiwyg Editor",
     "description": "Adds TinyMCE 5 wysiwyg editor capabilities for MVC. Includes Editable Text, Rich Text, and the TinyMCE Inline form component.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/tinymce.png",
@@ -472,6 +507,65 @@
     ]
   },
   {
+
+    "name": "Map Location Form Component",
+    "description": "Adds the ability for a content editor to capture a latitude/longitude value by clicking a location on a map.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "Liam Goldfinch - NetConstruct",
+    "sourceUrl": "https://github.com/liamgold/map-location-form-component",
+    "version": "12.29.2",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc form component",
+    "tags": [
+      "map",
+      "location"
+ ]
+  },
+  {
+   "name": "Email Marketing & Surveys",
+   "description": "High-volume email marketing & survey platform. Synchronize Kentico Contact Groups & Macro conditions with SensorPro tags.",
+   "thumbnailUrl": "https://e.sensorpro.net/images/logos/sensorpro-kentico-icon.png",
+   "author": "SensorPro",
+   "sourceUrl": "https://github.com/SensorPro/KenticoContacts",
+   "version": "1.0.0",
+   "kenticoVersions": [
+     "11.0.0",
+	 "11.0.49",
+	 "12.0.29",
+	 "12.0.40"
+   ],
+   "category": "module",
+   "tags": [
+     "integration",
+     "Email",
+     "Surveys",
+     "Marketing",
+	 "High-Volume",
+	 "NPS",
+	 "Feedback"
+   ]
+ },
+ {
+    "name": "Lightbox gallery",
+    "description": "Widget allows editors to place Lightbox gallery to Page Builder sections displaying page attachments, media library images or external URLs.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kentico/devnet.kentico.com/master/marketplace/assets/lightbox-gallery.png",
+    "author": "Ondrabus",
+    "sourceUrl": "https://github.com/ondrabus/kentico-mvcwidget-lightbox-gallery",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "bing",
+      "lightbox",
+      "gallery"
+    ]
+  },
+  {
     "name": "MVC Caching for Kentico",
     "description": "Adds Automated+Manual Data Caching and Rendering Caching for Kentico MVC that is tied in with Kentico's Cache and dependencies.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
@@ -485,7 +579,44 @@
     "tags": [
       "cache",
       "caching"
+
     ]
+  },
+  {
+    "name": "Disqus Thread MVC Widget",
+    "description": "Disqus thread MVC widget for Kentico.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/avivasolutionsnl/kentico-mvc-widget-disqus/master/aviva-solutions.png",
+    "author": "Aviva Solutions",
+    "sourceUrl": "https://github.com/avivasolutionsnl/kentico-mvc-widget-disqus",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.38"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "comments",
+      "disqus"
+    ]
+  },
+  {
+    "name": "Kentico Kontent publishing module",
+    "description": "Synchronizes all published content and assets from a specific site in Kentico EMS to a specific project in Kentico Kontent using the Content Management API.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/ems-module-cloud-publishing",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "integration",
+    "tags": [
+      "headless",
+      "headless_API",
+      "API",
+      "Kontent"
+    ]
+
   },
   {
     "name": "Automatic Generic User Roles",
