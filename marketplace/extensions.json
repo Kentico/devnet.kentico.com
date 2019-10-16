@@ -369,6 +369,22 @@
     ]
   },
   {
+    "name": "Menus Modules",
+    "description": "This module allows navigation menus to be managed in a central location so that the same menu can be added to multiple pages and updated in one place.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/netconstruct/menus-module/master/assets/NC-GitHub-Logo.png",
+    "author": "NetConstruct",
+    "sourceUrl": "https://github.com/netconstruct/menus-module",
+    "version": "2.0.1",
+    "kenticoVersions": [
+      "12.0.33"
+    ],
+    "category": "module",
+    "tags": [
+      "menu",
+      "navigation"
+    ]
+  },
+  {
     "name": "Tiny MCE Wysiwyg Editor",
     "description": "Adds TinyMCE 5 wysiwyg editor capabilities for MVC. Includes Editable Text, Rich Text, and the TinyMCE Inline form component.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/tinymce.png",
@@ -565,5 +581,23 @@
       "caching"
 
     ]
-  }
+  },
+ {
+    "name": "Kentico Kontent publishing module",
+    "description": "Synchronizes all published content and assets from a specific site in Kentico EMS to a specific project in Kentico Kontent using the Content Management API.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/ems-module-cloud-publishing",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "integration",
+    "tags": [
+      "headless",
+      "headless_API",
+      "API",
+      "Kontent"
+    ]
+  }	
 ]
