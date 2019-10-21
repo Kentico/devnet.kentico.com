@@ -668,5 +668,24 @@
       "fullCalendar",
       "events"
     ]
+  },
+  {
+    "name": "YouTube Video Selector",
+    "description": "Enables the editor to search for videos on YouTube using plain text to lookup by title, description or video ID. Further advanced settings allow for finer control of the video embed.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/mattnield/kentico-youtube-selector-widget/master/youtube_social_icon_red.png",
+    "author": "Matt Nield - Ridgeway",
+    "sourceUrl": "https://github.com/mattnield/kentico-youtube-selector-widget",
+    "version": "12.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "YouTube",
+      "mvc",
+      "video",
+      "inline",
+      "video search"
+    ]
   }
 ]
