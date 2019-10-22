@@ -675,7 +675,7 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/mattnield/kentico-youtube-selector-widget/master/youtube_social_icon_red.png",
     "author": "Matt Nield - Ridgeway",
     "sourceUrl": "https://github.com/mattnield/kentico-youtube-selector-widget",
-    "version": "12.0.0",
+    "version": "1.0.0",
     "kenticoVersions": [
       "12.0.0"
     ],
