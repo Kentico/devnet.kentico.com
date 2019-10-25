@@ -687,5 +687,25 @@
       "inline",
       "video search"
     ]
+  },
+  {
+    "name": "Recombee Product Recommendations",
+    "description": "Product recommendation module integrated with Recombee: AI-powered recommending service.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/Recombee.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/ems-mvc-module-recombee",
+    "version": "1.0.3",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "integration",
+    "tags": [
+      "Recommendations",
+      "Product_recommendations",
+      "AI",
+      "Artificial_Recommendations",
+      "Recombee", 
+      "ecommerce"
+    ]
   }
 ]
