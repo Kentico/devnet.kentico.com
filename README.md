@@ -85,9 +85,9 @@ The [`extensions.json`](/marketplace/extensions.json) file contains details abou
 
 ## Extension Ideas/Suggestions 
 
-Let the community know what would be valuable for you! Maybe youre desired piece of functionality is already out there.
+Let the community know what would be valuable for you! Maybe your desired piece of functionality is already out there.
 
-If you have an idea for the MVC widget, MVC inline editor, MVC from component, or any other extension for Kentico EMS, feel free to submit a feature request issue, describe you extension and label it by `extension-idea`. 
+If you have an idea for the MVC widget, MVC inline editor, MVC from component, or any other extension for Kentico EMS, feel free to submit a feature request issue, describe your extension and label it by `extension-idea`. 
 
 ## Updating extensions
 
