@@ -83,6 +83,12 @@ The [`extensions.json`](/marketplace/extensions.json) file contains details abou
 
 > <sup>4</sup> The version of the Kentico EMS with which the extension is compatible. The array is used to keep track of what Kentico versions were supported in previous extension releases. The latest Kentico version needs to be bound with the `version` property. A recommended approach is to keep a table mapping the extension version to Kentico EMS version in the readme file of the project. Use `12.0.29` for Kentico 12 Service pack.
 
+## Extension Ideas/Suggestions 
+
+Let the community know what would be valuable for you! Maybe your desired piece of functionality is already out there.
+
+If you have an idea for the MVC widget, MVC inline editor, MVC from component, or any other extension for Kentico EMS, feel free to submit a feature request issue, describe your extension and label it by `extension-idea`. 
+
 ## Updating extensions
 
 If you release a new version of the extension, submit a pull request with an updated entry in the [`extensions.json`](/marketplace/extensions.json) file and provide a link to the older version in the readme file of the project. We recommend incrementing the major version in `version` when the major version of `kenticoVersion` is incremented.

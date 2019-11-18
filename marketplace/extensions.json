@@ -614,10 +614,43 @@
     "tags": [
       "cache",
       "caching"
-
     ]
   },
- {
+  {
+    "name": "Content components",
+    "description": "Content Components provide a way of constructing your Page Types in Kentico using composition rather than inheritance.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "Chris Meagher",
+    "sourceUrl": "https://github.com/CMeeg/kentico-contrib/tree/master/src/Meeg.Kentico.ContentComponents",
+    "version": "0.1.0",
+    "kenticoVersions": [
+      "12.0.39"
+    ],
+    "category": "module",
+    "tags": [
+      "content",
+      "content modelling",
+      "page types"
+    ]
+  },
+  {
+    "name": "Disqus Thread MVC Widget",
+    "description": "Disqus thread MVC widget for Kentico.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/avivasolutionsnl/kentico-mvc-widget-disqus/master/aviva-solutions.png",
+    "author": "Aviva Solutions",
+    "sourceUrl": "https://github.com/avivasolutionsnl/kentico-mvc-widget-disqus",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.38"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "comments",
+      "disqus"
+    ]
+  },
+  {
     "name": "Kentico Kontent publishing module",
     "description": "Synchronizes all published content and assets from a specific site in Kentico EMS to a specific project in Kentico Kontent using the Content Management API.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
@@ -634,5 +667,80 @@
       "API",
       "Kontent"
     ]
-  }	
+  },
+  {
+    "name": "Automatic Generic User Roles",
+    "description": "Restores Kentico 12's generic Roles of _authenticated_ _notauthenticated_ and _everyone_ with code to automatically create and maintain these listings.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "Trevor Fayas -Heartland Business Systems",
+    "sourceUrl": "https://github.com/KenticoDevTrev/AutomaticGenericUserRoles",
+    "version": "12.29.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "utility",
+    "tags": [
+      "utility",
+      "other"
+
+    ]
+  },
+  {
+    "name": "FullCalendar MVC Widget",
+    "description": "Kentico MVC FullCalendar widget allows you to render various content as calendar events.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/drilic/kentico-mvcwidget-fullcalendar/master/exlrt-logo-clear.png",
+    "author": "Dragoljub Ilic (EXLRT)",
+    "sourceUrl": "https://github.com/drilic/kentico-mvcwidget-fullcalendar/",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.41"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "widget", 
+      "calendar",
+      "fullCalendar",
+      "events"
+    ]
+  },
+  {
+    "name": "YouTube Video Selector",
+    "description": "Enables the editor to search for videos on YouTube using plain-text to lookup by title or ID. Advanced settings allow for control of the video embed.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/mattnield/kentico-youtube-selector-widget/master/youtube_social_icon_red.png",
+    "author": "Matt Nield - Ridgeway",
+    "sourceUrl": "https://github.com/mattnield/kentico-youtube-selector-widget",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "YouTube",
+      "mvc",
+      "video",
+      "inline",
+      "video search"
+    ]
+  },
+  {
+    "name": "Recombee Product Recommendations",
+    "description": "Product recommendation module integrated with Recombee: AI-powered recommending service.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/Recombee.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/ems-mvc-module-recombee",
+    "version": "1.0.3",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "integration",
+    "tags": [
+      "Recommendations",
+      "Product_recommendations",
+      "AI",
+      "Artificial_Recommendations",
+      "Recombee", 
+      "ecommerce"
+    ]
+  }
 ]
