@@ -1,5 +1,40 @@
 [
-
+{
+    "name": "Editable Image Widget",
+    "description": "It displays map obtained from the Google maps service using Latitude and Longitude",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Kentico.MVC.Widgets/Kentico.MVC.Widgets.GoogleMap",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "Google Map",
+      "Google",
+	  "Map"
+    ]
+  }, 
+{
+    "name": "Editable Image Widget",
+    "description": "It will render the image which can be seleted from media library and allows editors to add class, alt text, dimensions and redirection link to image",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Kentico.MVC.Widgets/Kentico.MVC.Widgets.EditableImage",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "mvc",
+      "Editable Image",
+      "Editable",
+	  "Image"
+    ]
+  }, 
 {
     "name": "YouTube Video widget",
     "description": "Widget Enables to insert the video from specified YouTube URL location.",
