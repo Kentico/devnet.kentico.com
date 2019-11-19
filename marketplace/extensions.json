@@ -1,5 +1,4 @@
 [
-
 {
     "name": "Dynamic Routing",
     "description": "Automatic page route mapping to Controller, Controller+Action, or View using Attributes.  Based on Automatic Url Slugs with custom Urls allowed.",
@@ -740,5 +739,5 @@
       "routing",
       "url"
     ]
-  },
+  }
 ]
