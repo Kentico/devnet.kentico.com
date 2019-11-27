@@ -3,7 +3,7 @@
     "name": "Dynamic Routing",
     "description": "Automatic page route mapping to Controller, Controller+Action, or View using Attributes.  Based on Automatic Url Slugs with custom Urls allowed.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/DynamicRouting.png",
-    "author": "Trevor Fayas (Heartland Business Systems) + Sean Wright (WiredViews)",
+    "author": "Trevor Fayas-HBS, Sean Wright-WiredViews",
     "sourceUrl": "https://github.com/KenticoDevTrev/DynamicRouting",
     "version": "12.29.0",
     "kenticoVersions": [
@@ -727,7 +727,7 @@
     "name": "Dynamic Routing (MVC Only)",
     "description": "Automatic page route mapping to Controller, Controller+Action, or View using Attributes.  Customization Required.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/DynamicRouting.png",
-    "author": "Trevor Fayas (Heartland Business Systems) + Sean Wright (WiredViews)",
+    "author": "Trevor Fayas-HBS, Sean Wright-WiredViews",
     "sourceUrl": "https://github.com/KenticoDevTrev/DynamicRouting/tree/DynamicRouting-Only",
     "version": "12.29.1",
     "kenticoVersions": [
