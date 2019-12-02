@@ -755,5 +755,21 @@
       "ImageMagick",
       "Image optimization"
     ]
+  },
+  {
+    "name": "TinyPNG Image Optimization",
+    "description": "Automatically shrink images using TinyPNG API during uploading to Media Library or as a Page Attachment. Applicable for Kentico 12 CMS.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/delete_logo_100x100.png",
+    "author": "Dmitry Bastron, Delete Ltd.",
+    "sourceUrl": "https://github.com/diger74/DeleteAgency.Kentico12.TinyPng",
+    "version": "1.1.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
+    "category": "module",
+    "tags": [
+      "TinyPNG",
+      "Image optimization"
+    ]
   }
 ]
