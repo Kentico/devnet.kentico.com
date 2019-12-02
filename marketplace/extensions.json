@@ -1,28 +1,10 @@
 [
 {
     "name": "Editable Image Widget",
-    "description": "It displays map obtained from the Google maps service using Latitude and Longitude",
-    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
-    "author": "Ray Business Technologies Pvt Ltd.",
-    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Kentico.MVC.Widgets/Kentico.MVC.Widgets.GoogleMap",
-    "version": "1.0.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
-    "category": "mvc widget",
-    "tags": [
-      "mvc",
-      "Google Map",
-      "Google",
-	  "Map"
-    ]
-  }, 
-{
-    "name": "Editable Image Widget",
     "description": "It will render the image which can be seleted from media library and allows editors to add class, alt text, dimensions and redirection link to image",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
     "author": "Ray Business Technologies Pvt Ltd.",
-    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Kentico.MVC.Widgets/Kentico.MVC.Widgets.EditableImage",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.LinkButton",
     "version": "1.0.0",
     "kenticoVersions": [
       "12.0.0"
@@ -33,6 +15,23 @@
       "Editable Image",
       "Editable",
 	  "Image"
+]
+  }, 
+  {
+    "name": "Dynamic Routing",
+    "description": "Automatic page route mapping to Controller, Controller+Action, or View using Attributes.  Based on Automatic Url Slugs with custom Urls allowed.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/DynamicRouting.png",
+    "author": "Trevor Fayas-HBS, Sean Wright-WiredViews",
+    "sourceUrl": "https://github.com/KenticoDevTrev/DynamicRouting",
+    "version": "12.29.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "utility",
+    "tags": [
+      "dynamic routing",
+      "routing",
+      "url"
     ]
   }, 
 {
@@ -40,7 +39,7 @@
     "description": "Widget Enables to insert the video from specified YouTube URL location.",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
     "author": "Ray Business Technologies Pvt Ltd.",
-    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Kentico.MVC.Widgets/Kentico.MVC.Widgets.YouTubeVideo",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.YouTubeVideo",
     "version": "1.0.0",
     "kenticoVersions": [
       "12.0.0"
@@ -741,6 +740,38 @@
       "Artificial_Recommendations",
       "Recombee", 
       "ecommerce"
+    ]
+  },{
+    "name": "Dynamic Routing (MVC Only)",
+    "description": "Automatic page route mapping to Controller, Controller+Action, or View using Attributes.  Customization Required.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/DynamicRouting.png",
+    "author": "Trevor Fayas-HBS, Sean Wright-WiredViews",
+    "sourceUrl": "https://github.com/KenticoDevTrev/DynamicRouting/tree/DynamicRouting-Only",
+    "version": "12.29.1",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "utility",
+    "tags": [
+      "dynamic routing",
+      "routing",
+      "url"
+    ]
+  },
+  {
+    "name": "ImageMagick Image Optimization",
+    "description": "Automatically shrink images using ImageMagick library during uploading to a Media Library or as a Page Attachment. Applicable for Kentico 12 CMS.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/delete_logo_100x100.png",
+    "author": "Dmitry Bastron, Delete Ltd.",
+    "sourceUrl": "https://github.com/diger74/DeleteAgency.Kentico12.ImageMagick",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
+    "category": "module",
+    "tags": [
+      "ImageMagick",
+      "Image optimization"
     ]
   }
 ]
