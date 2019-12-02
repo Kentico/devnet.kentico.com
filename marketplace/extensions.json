@@ -1,5 +1,4 @@
-[
-{
+[{
     "name": "Editable Image Widget",
     "description": "It will render the image which can be seleted from media library and allows editors to add class, alt text, dimensions and redirection link to image",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
@@ -14,9 +13,9 @@
       "mvc",
       "Editable Image",
       "Editable",
-	  "Image"
-]
-  }, 
+      "Image"
+    ]
+  },
   {
     "name": "Dynamic Routing",
     "description": "Automatic page route mapping to Controller, Controller+Action, or View using Attributes.  Based on Automatic Url Slugs with custom Urls allowed.",
@@ -33,8 +32,8 @@
       "routing",
       "url"
     ]
-  }, 
-{
+  },
+  {
     "name": "YouTube Video widget",
     "description": "Widget Enables to insert the video from specified YouTube URL location.",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
@@ -49,10 +48,10 @@
       "mvc",
       "youtube",
       "youtue video",
-	  "Video"
+      "Video"
     ]
-  }, 
-{
+  },
+  {
     "name": "Link button widget",
     "description": "Widget displays a hyperlink to a specified target URL. The link can be rendered in text format.",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
@@ -555,33 +554,33 @@
     "tags": [
       "map",
       "location"
- ]
+    ]
   },
   {
-   "name": "Email Marketing & Surveys",
-   "description": "High-volume email marketing & survey platform. Synchronize Kentico Contact Groups & Macro conditions with SensorPro tags.",
-   "thumbnailUrl": "https://e.sensorpro.net/images/logos/sensorpro-kentico-icon.png",
-   "author": "SensorPro",
-   "sourceUrl": "https://github.com/SensorPro/KenticoContacts",
-   "version": "1.0.0",
-   "kenticoVersions": [
-     "11.0.0",
-	 "11.0.49",
-	 "12.0.29",
-	 "12.0.40"
-   ],
-   "category": "module",
-   "tags": [
-     "integration",
-     "Email",
-     "Surveys",
-     "Marketing",
-	 "High-Volume",
-	 "NPS",
-	 "Feedback"
-   ]
- },
- {
+    "name": "Email Marketing & Surveys",
+    "description": "High-volume email marketing & survey platform. Synchronize Kentico Contact Groups & Macro conditions with SensorPro tags.",
+    "thumbnailUrl": "https://e.sensorpro.net/images/logos/sensorpro-kentico-icon.png",
+    "author": "SensorPro",
+    "sourceUrl": "https://github.com/SensorPro/KenticoContacts",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "11.0.0",
+      "11.0.49",
+      "12.0.29",
+      "12.0.40"
+    ],
+    "category": "module",
+    "tags": [
+      "integration",
+      "Email",
+      "Surveys",
+      "Marketing",
+      "High-Volume",
+      "NPS",
+      "Feedback"
+    ]
+  },
+  {
     "name": "Lightbox gallery",
     "description": "Widget allows editors to place Lightbox gallery to Page Builder sections displaying page attachments, media library images or external URLs.",
     "thumbnailUrl": "https://raw.githubusercontent.com/kentico/devnet.kentico.com/master/marketplace/assets/lightbox-gallery.png",
@@ -697,7 +696,7 @@
     "category": "mvc widget",
     "tags": [
       "mvc",
-      "widget", 
+      "widget",
       "calendar",
       "fullCalendar",
       "events"
@@ -738,10 +737,10 @@
       "Product_recommendations",
       "AI",
       "Artificial_Recommendations",
-      "Recombee", 
+      "Recombee",
       "ecommerce"
     ]
-  },{
+  }, {
     "name": "Dynamic Routing (MVC Only)",
     "description": "Automatic page route mapping to Controller, Controller+Action, or View using Attributes.  Customization Required.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/DynamicRouting.png",
@@ -788,6 +787,24 @@
     "tags": [
       "TinyPNG",
       "Image optimization"
+    ]
+  },
+  {
+    "name": "CKEditor4 Wysiwyg Editor",
+    "description": "Adds CKEditor4 Wysiwyg editor capabilities for MVC. Includes CKEditor4 Widget and Inline Editor.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/TimLemke/CKEditor4_Wysiwyg/master/SeventyeightDigitalLogo.jpg",
+    "author": "Tim Lemke - Seventyeight Digital Inc.",
+    "sourceUrl": "https://github.com/TimLemke/CKEditor4_Wysiwyg",
+    "version": "12.29.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": [
+      "wysiwyg",
+      "ckeditor4",
+      "editable text",
+      "html"
     ]
   }
 ]
