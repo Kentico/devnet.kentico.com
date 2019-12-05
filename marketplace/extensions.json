@@ -789,5 +789,22 @@
       "TinyPNG",
       "Image optimization"
     ]
-  }
+  },	
+  {
+   "name": "Carousel widget",
+   "description": "Carousel widget for Kentico MVC",
+   "thumbnailUrl": "https://raw.githubusercontent.com/Machmin/FLS.Kentico.Marketplace/master/FLS.Kentico.MvcWidget.Carousel/fls.png",
+   "author": "First line software",
+   "sourceUrl": "https://github.com/Machmin/FLS.Kentico.Marketplace/tree/master/FLS.Kentico.MvcWidget.Carousel",
+   "version": "0.0.9",
+   "kenticoVersions": [
+     "12.0.29"
+   ],
+   "category": "mvc widget",
+   "tags": [
+     "mvc",
+     "carousel",
+	 "image"
+   ]
+ }
 ]
