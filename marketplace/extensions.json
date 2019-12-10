@@ -1,22 +1,15 @@
 [
-{
+  {
     "name": "Editable Image Widget",
     "description": "It will render the image which can be seleted from media library and allows editors to add class, alt text, dimensions and redirection link to image",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
     "author": "Ray Business Technologies Pvt Ltd.",
     "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.LinkButton",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
+    "kenticoVersions": ["12.0.0"],
     "category": "mvc widget",
-    "tags": [
-      "mvc",
-      "Editable Image",
-      "Editable",
-	  "Image"
-]
-  }, 
+    "tags": ["mvc", "Editable Image", "Editable", "Image"]
+  },
   {
     "name": "Dynamic Routing",
     "description": "Automatic page route mapping to Controller, Controller+Action, or View using Attributes.  Based on Automatic Url Slugs with custom Urls allowed.",
@@ -24,50 +17,31 @@
     "author": "Trevor Fayas-HBS, Sean Wright-WiredViews",
     "sourceUrl": "https://github.com/KenticoDevTrev/DynamicRouting",
     "version": "12.29.0",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "utility",
-    "tags": [
-      "dynamic routing",
-      "routing",
-      "url"
-    ]
-  }, 
-{
+    "tags": ["dynamic routing", "routing", "url"]
+  },
+  {
     "name": "YouTube Video widget",
     "description": "Widget Enables to insert the video from specified YouTube URL location.",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
     "author": "Ray Business Technologies Pvt Ltd.",
     "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.YouTubeVideo",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
+    "kenticoVersions": ["12.0.0"],
     "category": "mvc widget",
-    "tags": [
-      "mvc",
-      "youtube",
-      "youtue video",
-	  "Video"
-    ]
-  }, 
-{
+    "tags": ["mvc", "youtube", "youtue video", "Video"]
+  },
+  {
     "name": "Link button widget",
     "description": "Widget displays a hyperlink to a specified target URL. The link can be rendered in text format.",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
     "author": "Ray Business Technologies Pvt Ltd.",
     "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Kentico.MVC.Widgets/Kentico.MVC.Widgets.LinkButton",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
+    "kenticoVersions": ["12.0.0"],
     "category": "mvc widget",
-    "tags": [
-      "mvc",
-      "Link",
-      "Link button"
-    ]
+    "tags": ["mvc", "Link", "Link button"]
   },
   {
     "name": "Video widget",
@@ -76,16 +50,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.Widget.Video#video-widget",
     "version": "1.0.0-beta1",
-    "kenticoVersions": [
-      "12.0.31"
-    ],
+    "kenticoVersions": ["12.0.31"],
     "category": "mvc widget",
-    "tags": [
-      "mvc",
-      "youtube",
-      "video",
-      "inline-editor"
-    ]
+    "tags": ["mvc", "youtube", "video", "inline-editor"]
   },
   {
     "name": "Rich Text Editor Widget",
@@ -94,16 +61,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.Widget.RichText#rich-text-widget",
     "version": "1.0.0-beta1",
-    "kenticoVersions": [
-      "12.0.38"
-    ],
+    "kenticoVersions": ["12.0.38"],
     "category": "mvc widget",
-    "tags": [
-      "mvc",
-      "rich-text",
-      "wysiwyg",
-      "froala"
-    ]
+    "tags": ["mvc", "rich-text", "wysiwyg", "froala"]
   },
   {
     "name": "Rich Text Inline Editor",
@@ -112,17 +72,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.InlineEditor.RichText#rich-text-inline-editor",
     "version": "1.0.0-beta1",
-    "kenticoVersions": [
-      "12.0.38"
-    ],
+    "kenticoVersions": ["12.0.38"],
     "category": "mvc inline editor",
-    "tags": [
-      "mvc",
-      "rich-text",
-      "wysiwyg",
-      "froala",
-      "inline-editor"
-    ]
+    "tags": ["mvc", "rich-text", "wysiwyg", "froala", "inline-editor"]
   },
   {
     "name": "KInspector",
@@ -131,17 +83,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/KInspector",
     "version": "3.9.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
+    "kenticoVersions": ["12.0.0"],
     "category": "module",
-    "tags": [
-      "health",
-      "performance",
-      "security",
-      "monitoring",
-      "analysis"
-    ]
+    "tags": ["health", "performance", "security", "monitoring", "analysis"]
   },
   {
     "name": "Disqus Thread",
@@ -150,16 +94,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/DisqusThread",
     "version": "1.1.0",
-    "kenticoVersions": [
-      "10.0.0"
-    ],
+    "kenticoVersions": ["10.0.0"],
     "category": "webpart",
-    "tags": [
-      "community",
-      "forums",
-      "discussions",
-      "chat"
-    ]
+    "tags": ["community", "forums", "discussions", "chat"]
   },
   {
     "name": "AD Import Service",
@@ -168,17 +105,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/ADImportService",
     "version": "1.1.0",
-    "kenticoVersions": [
-      "8.0.0"
-    ],
+    "kenticoVersions": ["8.0.0"],
     "category": "utility",
-    "tags": [
-      "active directory",
-      "ad",
-      "membership",
-      "import",
-      "authentication"
-    ]
+    "tags": ["active directory", "ad", "membership", "import", "authentication"]
   },
   {
     "name": "AD Import Utility",
@@ -187,17 +116,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/ADImport",
     "version": "12.0.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
+    "kenticoVersions": ["12.0.0"],
     "category": "utility",
-    "tags": [
-      "active directory",
-      "ad",
-      "membership",
-      "import",
-      "authentication"
-    ]
+    "tags": ["active directory", "ad", "membership", "import", "authentication"]
   },
   {
     "name": "Kentico AMP",
@@ -206,15 +127,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/kentico-amp",
     "version": "12.0.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
+    "kenticoVersions": ["12.0.0"],
     "category": "module",
-    "tags": [
-      "google-amp",
-      "amp-html",
-      "amp-filter"
-    ]
+    "tags": ["google-amp", "amp-html", "amp-filter"]
   },
   {
     "name": "PoSH Kentico",
@@ -223,15 +138,9 @@
     "author": "Chris Crutchfield",
     "sourceUrl": "https://github.com/clcrutch/posh-kentico",
     "version": "0.2.0",
-    "kenticoVersions": [
-      "11.0.0"
-    ],
+    "kenticoVersions": ["11.0.0"],
     "category": "module",
-    "tags": [
-      "powershell",
-      "administration",
-      "kentico-cms"
-    ]
+    "tags": ["powershell", "administration", "kentico-cms"]
   },
   {
     "name": "Kentico MVC Widget Resolver",
@@ -240,16 +149,9 @@
     "author": "Lee Conlin",
     "sourceUrl": "https://github.com/hades200082/Kentico12-MVC-WidgetResolver",
     "version": "1.0.1",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
+    "kenticoVersions": ["12.0.0"],
     "category": "utility",
-    "tags": [
-      "mvc",
-      "kentico 12",
-      "structured content",
-      "rich text"
-    ]
+    "tags": ["mvc", "kentico 12", "structured content", "rich text"]
   },
   {
     "name": "Package Builder",
@@ -258,16 +160,9 @@
     "author": "Ntara",
     "sourceUrl": "https://github.com/Ntara/Kentico.PackageBuilder",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "11.0.0"
-    ],
+    "kenticoVersions": ["11.0.0"],
     "category": "utility",
-    "tags": [
-      "module",
-      "package",
-      "command-line",
-      "continuous integration"
-    ]
+    "tags": ["module", "package", "command-line", "continuous integration"]
   },
   {
     "name": "Relationships Extended",
@@ -276,9 +171,7 @@
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/RelationshipsExtended",
     "version": "12.29.0",
-    "kenticoVersions": [
-      "12.29.0"
-    ],
+    "kenticoVersions": ["12.29.0"],
     "category": "module",
     "tags": [
       "relationships",
@@ -295,15 +188,9 @@
     "author": "BizStream",
     "sourceUrl": "https://www.toolkitforkentico.com/extensions/siteimprove-for-kentico",
     "version": "2.0.69",
-    "kenticoVersions": [
-      "10.0.0",
-      "11.0.0",
-      "12.0.0"
-    ],
+    "kenticoVersions": ["10.0.0", "11.0.0", "12.0.0"],
     "category": "integration",
-    "tags": [
-      "integration"
-    ]
+    "tags": ["integration"]
   },
   {
     "name": "Connect for Kentico",
@@ -312,14 +199,9 @@
     "author": "BizStream",
     "sourceUrl": "https://www.bizstreamtoolkit.com/extensions/connect-for-kentico",
     "version": "2.0.69",
-    "kenticoVersions": [
-      "10.0.0",
-      "11.0.0"
-    ],
+    "kenticoVersions": ["10.0.0", "11.0.0"],
     "category": "integration",
-    "tags": [
-      "integration"
-    ]
+    "tags": ["integration"]
   },
   {
     "name": "Kentico Power BI reports",
@@ -328,15 +210,9 @@
     "author": "Kentico",
     "sourceUrl": "https://devnet.kentico.com/old-marketplace/integration/kentico-power-bi-reports",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "10.0.0",
-      "11.0.0",
-      "12.0.0"
-    ],
+    "kenticoVersions": ["10.0.0", "11.0.0", "12.0.0"],
     "category": "integration",
-    "tags": [
-      "integration"
-    ]
+    "tags": ["integration"]
   },
   {
     "name": "CRM Connect 2.0",
@@ -345,14 +221,9 @@
     "author": "EMAKINA CEE",
     "sourceUrl": "http://kentico-emakina.de/crm-connect",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "10.0.0",
-      "11.0.0"
-    ],
+    "kenticoVersions": ["10.0.0", "11.0.0"],
     "category": "integration",
-    "tags": [
-      "integration"
-    ]
+    "tags": ["integration"]
   },
   {
     "name": "Compare for Kentico",
@@ -361,13 +232,9 @@
     "author": "BizStream",
     "sourceUrl": "https://www.bizstreamtoolkit.com/products/compare",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "10.0.0"
-    ],
+    "kenticoVersions": ["10.0.0"],
     "category": "integration",
-    "tags": [
-      "integration"
-    ]
+    "tags": ["integration"]
   },
   {
     "name": "Sage Pay Payment Gateway for Kentico",
@@ -376,14 +243,9 @@
     "author": "Discover IT",
     "sourceUrl": "https://www.ecommerce-connect.co.uk/Sage-Pay-Payment-Gateway-for-Kentico.aspx",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "10.0.0",
-      "11.0.0"
-    ],
+    "kenticoVersions": ["10.0.0", "11.0.0"],
     "category": "integration",
-    "tags": [
-      "integration"
-    ]
+    "tags": ["integration"]
   },
   {
     "name": "Bootstrap 4 Layout Tool",
@@ -392,15 +254,9 @@
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/BootstrapLayoutTool/blob/master/README.md",
     "version": "12.29.2",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "mvc section",
-    "tags": [
-      "section",
-      "bootstrap",
-      "columns"
-    ]
+    "tags": ["section", "bootstrap", "columns"]
   },
   {
     "name": "Menus Modules",
@@ -409,14 +265,9 @@
     "author": "NetConstruct",
     "sourceUrl": "https://github.com/netconstruct/menus-module",
     "version": "2.0.1",
-    "kenticoVersions": [
-      "12.0.33"
-    ],
+    "kenticoVersions": ["12.0.33"],
     "category": "module",
-    "tags": [
-      "menu",
-      "navigation"
-    ]
+    "tags": ["menu", "navigation"]
   },
   {
     "name": "Tiny MCE Wysiwyg Editor",
@@ -425,17 +276,9 @@
     "author": "Troy Landers -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/TinyMCE_Wysiwyg",
     "version": "12.29.0",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "mvc widget",
-    "tags": [
-      "wysiwyg",
-      "tinymce",
-      "rich text",
-      "editable text",
-      "html"
-    ]
+    "tags": ["wysiwyg", "tinymce", "rich text", "editable text", "html"]
   },
   {
     "name": "Partial Widget Page",
@@ -444,15 +287,9 @@
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/PartialWidgetPage",
     "version": "12.29.2",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "utility",
-    "tags": [
-      "page placeholder",
-      "page builder",
-      "widgets"
-    ]
+    "tags": ["page placeholder", "page builder", "widgets"]
   },
   {
     "name": "Bing Maps MVC Widget",
@@ -461,15 +298,9 @@
     "author": "Ondrabus",
     "sourceUrl": "https://github.com/ondrabus/kentico-mvcwidget-bing-maps",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "mvc widget",
-    "tags": [
-      "mvc",
-      "bing",
-      "maps"
-    ]
+    "tags": ["mvc", "bing", "maps"]
   },
   {
     "name": "Page Builder Containers",
@@ -478,14 +309,9 @@
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/PageBuilderContainers",
     "version": "12.29.2",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "utility",
-    "tags": [
-      "webpart containers",
-      "containers"
-    ]
+    "tags": ["webpart containers", "containers"]
   },
   {
     "name": "Color Picker",
@@ -494,15 +320,9 @@
     "author": "Joshua Hess - Heartland Business Systems",
     "sourceUrl": "https://github.com/farmergeek94/ColorPickerFormComponent",
     "version": "12.29.4",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "mvc form component",
-    "tags": [
-      "color",
-      "picker",
-      "hex"
-    ]
+    "tags": ["color", "picker", "hex"]
   },
   {
     "name": "Date Time Picker",
@@ -511,16 +331,9 @@
     "author": "Joshua Hess - Heartland Business Systems",
     "sourceUrl": "https://github.com/farmergeek94/DatePickerFormComponent",
     "version": "12.29.1",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "mvc form component",
-    "tags": [
-      "date",
-      "picker",
-      "datetime",
-      "date time"
-    ]
+    "tags": ["date", "picker", "datetime", "date time"]
   },
   {
     "name": "Font Awesome Form Component",
@@ -529,75 +342,50 @@
     "author": "Liam Goldfinch - NetConstruct",
     "sourceUrl": "https://github.com/liamgold/font-awesome-form-component",
     "version": "12.29.2",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "mvc form component",
-    "tags": [
-      "icon",
-      "picker",
-      "fontawesome",
-      "font awesome"
-    ]
+    "tags": ["icon", "picker", "fontawesome", "font awesome"]
   },
   {
-
     "name": "Map Location Form Component",
     "description": "Adds the ability for a content editor to capture a latitude/longitude value by clicking a location on a map.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "Liam Goldfinch - NetConstruct",
     "sourceUrl": "https://github.com/liamgold/map-location-form-component",
     "version": "12.29.2",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "mvc form component",
-    "tags": [
-      "map",
-      "location"
- ]
+    "tags": ["map", "location"]
   },
   {
-   "name": "Email Marketing & Surveys",
-   "description": "High-volume email marketing & survey platform. Synchronize Kentico Contact Groups & Macro conditions with SensorPro tags.",
-   "thumbnailUrl": "https://e.sensorpro.net/images/logos/sensorpro-kentico-icon.png",
-   "author": "SensorPro",
-   "sourceUrl": "https://github.com/SensorPro/KenticoContacts",
-   "version": "1.0.0",
-   "kenticoVersions": [
-     "11.0.0",
-	 "11.0.49",
-	 "12.0.29",
-	 "12.0.40"
-   ],
-   "category": "module",
-   "tags": [
-     "integration",
-     "Email",
-     "Surveys",
-     "Marketing",
-	 "High-Volume",
-	 "NPS",
-	 "Feedback"
-   ]
- },
- {
+    "name": "Email Marketing & Surveys",
+    "description": "High-volume email marketing & survey platform. Synchronize Kentico Contact Groups & Macro conditions with SensorPro tags.",
+    "thumbnailUrl": "https://e.sensorpro.net/images/logos/sensorpro-kentico-icon.png",
+    "author": "SensorPro",
+    "sourceUrl": "https://github.com/SensorPro/KenticoContacts",
+    "version": "1.0.0",
+    "kenticoVersions": ["11.0.0", "11.0.49", "12.0.29", "12.0.40"],
+    "category": "module",
+    "tags": [
+      "integration",
+      "Email",
+      "Surveys",
+      "Marketing",
+      "High-Volume",
+      "NPS",
+      "Feedback"
+    ]
+  },
+  {
     "name": "Lightbox gallery",
     "description": "Widget allows editors to place Lightbox gallery to Page Builder sections displaying page attachments, media library images or external URLs.",
     "thumbnailUrl": "https://raw.githubusercontent.com/kentico/devnet.kentico.com/master/marketplace/assets/lightbox-gallery.png",
     "author": "Ondrabus",
     "sourceUrl": "https://github.com/ondrabus/kentico-mvcwidget-lightbox-gallery",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "mvc widget",
-    "tags": [
-      "mvc",
-      "bing",
-      "lightbox",
-      "gallery"
-    ]
+    "tags": ["mvc", "bing", "lightbox", "gallery"]
   },
   {
     "name": "MVC Caching for Kentico",
@@ -606,14 +394,9 @@
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/MVCCaching",
     "version": "12.29.0",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "utility",
-    "tags": [
-      "cache",
-      "caching"
-    ]
+    "tags": ["cache", "caching"]
   },
   {
     "name": "Content components",
@@ -622,15 +405,9 @@
     "author": "Chris Meagher",
     "sourceUrl": "https://github.com/CMeeg/kentico-contrib/tree/master/src/Meeg.Kentico.ContentComponents",
     "version": "0.1.0",
-    "kenticoVersions": [
-      "12.0.39"
-    ],
+    "kenticoVersions": ["12.0.39"],
     "category": "module",
-    "tags": [
-      "content",
-      "content modelling",
-      "page types"
-    ]
+    "tags": ["content", "content modelling", "page types"]
   },
   {
     "name": "Disqus Thread MVC Widget",
@@ -639,15 +416,9 @@
     "author": "Aviva Solutions",
     "sourceUrl": "https://github.com/avivasolutionsnl/kentico-mvc-widget-disqus",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "12.0.38"
-    ],
+    "kenticoVersions": ["12.0.38"],
     "category": "mvc widget",
-    "tags": [
-      "mvc",
-      "comments",
-      "disqus"
-    ]
+    "tags": ["mvc", "comments", "disqus"]
   },
   {
     "name": "Kentico Kontent publishing module",
@@ -656,16 +427,9 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/ems-module-cloud-publishing",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "integration",
-    "tags": [
-      "headless",
-      "headless_API",
-      "API",
-      "Kontent"
-    ]
+    "tags": ["headless", "headless_API", "API", "Kontent"]
   },
   {
     "name": "Automatic Generic User Roles",
@@ -674,15 +438,9 @@
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/AutomaticGenericUserRoles",
     "version": "12.29.0",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "utility",
-    "tags": [
-      "utility",
-      "other"
-
-    ]
+    "tags": ["utility", "other"]
   },
   {
     "name": "FullCalendar MVC Widget",
@@ -691,17 +449,9 @@
     "author": "Dragoljub Ilic (EXLRT)",
     "sourceUrl": "https://github.com/drilic/kentico-mvcwidget-fullcalendar/",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "12.0.41"
-    ],
+    "kenticoVersions": ["12.0.41"],
     "category": "mvc widget",
-    "tags": [
-      "mvc",
-      "widget", 
-      "calendar",
-      "fullCalendar",
-      "events"
-    ]
+    "tags": ["mvc", "widget", "calendar", "fullCalendar", "events"]
   },
   {
     "name": "YouTube Video Selector",
@@ -710,17 +460,9 @@
     "author": "Matt Nield - Ridgeway",
     "sourceUrl": "https://github.com/mattnield/kentico-youtube-selector-widget",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
+    "kenticoVersions": ["12.0.0"],
     "category": "mvc widget",
-    "tags": [
-      "YouTube",
-      "mvc",
-      "video",
-      "inline",
-      "video search"
-    ]
+    "tags": ["YouTube", "mvc", "video", "inline", "video search"]
   },
   {
     "name": "Recombee Product Recommendations",
@@ -729,34 +471,27 @@
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/ems-mvc-module-recombee",
     "version": "1.0.3",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "integration",
     "tags": [
       "Recommendations",
       "Product_recommendations",
       "AI",
       "Artificial_Recommendations",
-      "Recombee", 
+      "Recombee",
       "ecommerce"
     ]
-  },{
+  },
+  {
     "name": "Dynamic Routing (MVC Only)",
     "description": "Automatic page route mapping to Controller, Controller+Action, or View using Attributes.  Customization Required.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/DynamicRouting.png",
     "author": "Trevor Fayas-HBS, Sean Wright-WiredViews",
     "sourceUrl": "https://github.com/KenticoDevTrev/DynamicRouting/tree/DynamicRouting-Only",
     "version": "12.29.1",
-    "kenticoVersions": [
-      "12.0.29"
-    ],
+    "kenticoVersions": ["12.0.29"],
     "category": "utility",
-    "tags": [
-      "dynamic routing",
-      "routing",
-      "url"
-    ]
+    "tags": ["dynamic routing", "routing", "url"]
   },
   {
     "name": "ImageMagick Image Optimization",
@@ -765,14 +500,9 @@
     "author": "Dmitry Bastron, Delete Ltd.",
     "sourceUrl": "https://github.com/diger74/DeleteAgency.Kentico12.ImageMagick",
     "version": "1.0.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
+    "kenticoVersions": ["12.0.0"],
     "category": "module",
-    "tags": [
-      "ImageMagick",
-      "Image optimization"
-    ]
+    "tags": ["ImageMagick", "Image optimization"]
   },
   {
     "name": "TinyPNG Image Optimization",
@@ -781,9 +511,7 @@
     "author": "Dmitry Bastron, Delete Ltd.",
     "sourceUrl": "https://github.com/diger74/DeleteAgency.Kentico12.TinyPng",
     "version": "1.1.0",
-    "kenticoVersions": [
-      "12.0.0"
-    ],
+    "kenticoVersions": ["12.0.0"],
     "category": "module",
     "tags": [
       "TinyPNG",
@@ -806,5 +534,27 @@
      "carousel",
 	 "image"
    ]
- }
+ },
+    {
+    "name": "CKEditor4 Wysiwyg Editor",
+    "description": "Adds CKEditor4 Wysiwyg editor capabilities for MVC. Includes CKEditor4 Widget and Inline Editor.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/TimLemke/CKEditor4_Wysiwyg/master/SeventyeightDigitalLogo.jpg",
+    "author": "Tim Lemke - Seventyeight Digital Inc.",
+    "sourceUrl": "https://github.com/TimLemke/CKEditor4_Wysiwyg",
+    "version": "12.29.0",
+    "kenticoVersions": ["12.0.29"],
+    "category": "mvc widget",
+    "tags": ["wysiwyg", "ckeditor4", "editable text", "html"]
+  },
+  {
+    "name": "Placeholder Image Widget",
+    "description": "Placeholder Image Widget using placeholder images created by https://placeholder.com/ for Kentico 12 MVC.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/TimLemke/PlaceholderImageWidget/master/SeventyeightDigitalLogo.jpg",
+    "author": "Tim Lemke - Seventyeight Digital Inc.",
+    "sourceUrl": "https://github.com/TimLemke/PlaceholderImageWidget",
+    "version": "12.29.0",
+    "kenticoVersions": ["12.0.29"],
+    "category": "mvc widget",
+    "tags": ["Placeholder", "Images", "Widget"]
+  }
 ]
