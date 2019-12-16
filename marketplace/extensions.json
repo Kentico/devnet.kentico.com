@@ -556,5 +556,16 @@
     "kenticoVersions": ["12.0.29"],
     "category": "mvc widget",
     "tags": ["Placeholder", "Images", "Widget"]
+  },
+  {
+    "name": "Masonry Image Gallery Widget",
+    "description": "Masonry image gallery widget using https://masonry.desandro.com/ for Kentico 12 MVC",
+    "thumbnailUrl": "https://raw.githubusercontent.com/TimLemke/MasonryImageGalleryWidget/master/SeventyeightDigitalLogo.jpg",
+    "author": "Tim Lemke - Seventyeight Digital Inc.",
+    "sourceUrl": "https://github.com/TimLemke/MasonryImageGalleryWidget",
+    "version": "12.29.0",
+    "kenticoVersions": ["12.0.29"],
+    "category": "mvc widget",
+    "tags": ["Masonry", "Image", "Gallery"]
   }
 ]
