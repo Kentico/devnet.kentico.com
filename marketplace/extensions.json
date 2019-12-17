@@ -567,5 +567,16 @@
     "kenticoVersions": ["12.0.29"],
     "category": "mvc widget",
     "tags": ["Masonry", "Image", "Gallery"]
+  },
+  {
+    "name": "Plyr Media Player Widget",
+    "description": "Media player widget using https://plyr.io/ for Kentico 12 MVC",
+    "thumbnailUrl": "https://raw.githubusercontent.com/TimLemke/PlyrMediaPlayerWidget/master/SeventyeightDigitalLogo.jpg",
+    "author": "Tim Lemke - Seventyeight Digital Inc.",
+    "sourceUrl": "https://github.com/TimLemke/PlyrMediaPlayerWidget",
+    "version": "12.29.0",
+    "kenticoVersions": ["12.0.29"],
+    "category": "mvc widget",
+    "tags": ["Media", "Player", "HTML5", "Audio", "Video", "Youtube", "Vimeo"]
   }
 ]
