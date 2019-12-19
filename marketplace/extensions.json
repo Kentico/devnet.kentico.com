@@ -578,7 +578,7 @@
     "kenticoVersions": ["12.0.29"],
     "category": "mvc widget",
     "tags": ["Media", "Player", "HTML5", "Audio", "Video", "Youtube", "Vimeo"]
-  }
+  },
   {
 	"name": "URL Redirection Module",
 	"description": "A module that adds support for adding and managing URL redirects through the Kentico CMS interface.",
