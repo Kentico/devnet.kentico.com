@@ -579,4 +579,15 @@
     "category": "mvc widget",
     "tags": ["Media", "Player", "HTML5", "Audio", "Video", "Youtube", "Vimeo"]
   }
+  {
+	"name": "URL Redirection Module",
+	"description": "A module that adds support for adding and managing URL redirects through the Kentico CMS interface.",
+	"thumbnailUrl": "https://github.com/silvertech/KenticoURLRedirectionModule/blob/master/silvertech-logo.png?raw=true",
+	"author": "SilverTech, Inc.",
+	"sourceUrl": "https://github.com/silvertech/KenticoURLRedirectionModule",
+	"version": "12.0.2",
+	"kenticoVersions": ["12.0.52"],
+	"category": "module",
+	"tags": ["url", "redirection", "module"]
+  }
 ]
