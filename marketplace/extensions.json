@@ -610,5 +610,16 @@
 	"kenticoVersions": ["12.0.52"],
 	"category": "module",
 	"tags": ["url", "redirection", "module"]
+  },
+  {
+    "name": "Kentico Authorization",
+    "description": "Kentico Authorization Attribute for Kentico MVC, provides a [KenticoAuthorize] Attribute that you can add to your ActionResult methods that can allows for permissions on: User Authenticated, User Names, User Roles, Page ACL Permissions, Resource/Module Permissions.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "Trevor Fayas -Heartland Business Systems",
+    "sourceUrl": "https://github.com/KenticoDevTrev/KenticoAuthorization",
+    "version": "12.29.0",
+    "kenticoVersions": ["12.0.29"],
+    "category": "utility",
+    "tags": ["authorization", "ACL", "permissions", "dynamic routing"]
   }
 ]
