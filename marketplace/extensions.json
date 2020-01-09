@@ -13,6 +13,45 @@
     "tags": ["mvc", "Editable Image", "Editable", "Image"]
   },
   {
+    "name": "Image Video Carousel",
+    "description": "Displays Image and Video slides in a carousel using content tree pages.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.ImageVideoCarousel",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": ["mvc", "Image and Video Carousel", "Image Carousel","Video Carousel","Image Slider", "Video Slider","Image","Video", "Slider","Corousel"]
+  },
+  {
+    "name": "Image Card",
+    "description": "Displays the Image Cards with Image, Caption and TargetUrl using content tree Pages.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.ImageCard",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": ["mvc", "Image Card", "Image with caption and target link","Image","Card"]
+  },
+   {
+    "name": "Repeater",
+    "description": "Displays the content of specified page type pages based on the assigned view.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.Repeater",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": ["mvc", "Repeater widget", "Repeater"]
+  },
+  {
     "name": "Google Map Widget",
     "description": "It displays map obtained from the Google maps service using Latitude,Longitude and Google API Key.",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
