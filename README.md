@@ -65,7 +65,7 @@ The [`extensions.json`](/marketplace/extensions.json) file contains details abou
 
 | Property        | Type | Description |
 | ------------- |:-------------:| :----- |
-| name      | string | Name of the extension (max. 40 characters). Dashes are not allowed. |
+| name      | string | Name of the extension (max. 40 characters). |
 | description      | string | Description of the extension (max. 160 characters). |
 | thumbnailUrl<sup>1</sup>      | string | Url to the thumbnail image describing the extension, or the author (must be jpg/jpeg/png with 100x100px resolution and accessed using secure HTTPS). |
 | author<sup>2</sup>      | string | Name of the author and/or company (max. 40 characters). |
