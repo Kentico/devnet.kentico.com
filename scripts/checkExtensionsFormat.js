@@ -39,6 +39,12 @@ const extensionsValid = () => {
     console.error('Extensions are not an array');
     return false;
   }
+  
+  // path segments are lowercased encoded extensions' names so we need them to be unique   
+  if (Joi.array().unique((a, b) => a.name.toLocaleLowerCase() === b.name.toLocaleLowerCase())) {
+    console.error(`Multiple extensions with same name are not supported.`);
+    return false;    
+  }
 
   for (const extension of extensions) {
     if(!extensionValid(extension)){

@@ -649,5 +649,16 @@
 	"kenticoVersions": ["12.0.52"],
 	"category": "module",
 	"tags": ["url", "redirection", "module"]
+  },
+  {
+	"name": "Automated Image Compressor",
+	"description": "A utility to automatically compress images uploaded into a kentico media library.",
+	"thumbnailUrl": "https://raw.githubusercontent.com/QubaDigitalUK/KenticoCMS.Compressor/master/quba.jpg",
+	"author": "Quba",
+	"sourceUrl": "https://github.com/QubaDigitalUK/KenticoCMS.Compressor",
+	"version": "1.0.0",
+	"kenticoVersions": ["12.0.52"],
+	"category": "utility",
+	"tags": ["image", "compression", "performance", "utility"]
   }
 ]
