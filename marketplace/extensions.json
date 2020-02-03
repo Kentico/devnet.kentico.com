@@ -97,7 +97,7 @@
     "description": "Widget displays a hyperlink to a specified target URL. The link can be rendered in text format.",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
     "author": "Ray Business Technologies Pvt Ltd.",
-    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Kentico.MVC.Widgets/Kentico.MVC.Widgets.LinkButton",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.LinkButton",
     "version": "1.0.0",
     "kenticoVersions": ["12.0.0"],
     "category": "mvc widget",
