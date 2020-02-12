@@ -398,7 +398,7 @@
   {
     "name": "Font Awesome Form Component",
     "description": "Adds the ability for a content editor to select a Font Awesome 5.x icon from a modal popup.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/liamgold/font-awesome-form-component/master/img/netconstruct.png",
     "author": "Liam Goldfinch - NetConstruct",
     "sourceUrl": "https://github.com/liamgold/font-awesome-form-component",
     "version": "12.29.2",
@@ -409,7 +409,7 @@
   {
     "name": "Map Location Form Component",
     "description": "Adds the ability for a content editor to capture a latitude/longitude value by clicking a location on a map.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/liamgold/map-location-form-component/master/img/netconstruct.png",
     "author": "Liam Goldfinch - NetConstruct",
     "sourceUrl": "https://github.com/liamgold/map-location-form-component",
     "version": "12.29.2",
