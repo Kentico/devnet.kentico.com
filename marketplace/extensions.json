@@ -1,7 +1,7 @@
 [
  {
     "name": "Textmetrics for Kentico",
-    "description": "Textmetrics is the easiest way to create high quality content that is found and converts. With the Content Quality analysis you will make sure that your content matches your target audience, in terms of readability, tone of voice, credibility and sentiment. With the SEO optimization suggestions you’ll make sure your content is SEO friendly.",
+    "description": "Textmetrics enables organizations to create high quality and SEO friendly content that matches your target audience and complies to your brand and styleguides.",
     "thumbnailUrl": "https://raw.githubusercontent.com/iNalgiev/devnet.kentico.com/master/marketplace/assets/textmetrics_icon.png",
     "author": "Textmetrics",
     "sourceUrl": "https://github.com/iNalgiev/Textmetrics.Kentico",
