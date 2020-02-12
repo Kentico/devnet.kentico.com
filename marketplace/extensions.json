@@ -1,4 +1,17 @@
 [
+ {
+    "name": "Textmetrics for Kentico",
+    "description": "Textmetrics is the easiest way to create high quality content that is found and converts. With the Content Quality analysis you will make sure that your content matches your target audience, in terms of readability, tone of voice, credibility and sentiment. With the SEO optimization suggestions you’ll make sure your content is SEO friendly.",
+    "thumbnailUrl": "https://github.com/iNalgiev/devnet.kentico.com/blob/master/marketplace/assets/textmetrics_icon.png",
+    "author": "Textmetrics",
+    "sourceUrl": "https://github.com/iNalgiev/Textmetrics.Kentico",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
+    "category": "module",
+    "tags": ["cms", "module", "text", "seo", "content", "quality", "optimization", "tool"]
+  },
   {
     "name": "Editable Image Widget",
     "description": "It will render the image which can be seleted from media library and allows editors to add class, alt text, dimensions and redirection link to image",
