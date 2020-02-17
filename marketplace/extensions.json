@@ -1,4 +1,5 @@
 [
+
 {
     "name": "Registration Form Widget",
     "description": "It displays a form that allows visitors to register on the website as new users.",
@@ -24,6 +25,20 @@
     ],
     "category": "mvc widget",
     "tags": ["mvc", "Logon", "Form", "Logon Form","LogonForm","Login Form"]
+  },
+ {
+    "name": "Textmetrics for Kentico",
+    "description": "Textmetrics enables organizations to create high quality and SEO friendly content that matches your target audience and complies to your brand and styleguides.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/iNalgiev/devnet.kentico.com/master/marketplace/assets/textmetrics_icon.png",
+    "author": "Textmetrics",
+    "sourceUrl": "https://github.com/iNalgiev/Textmetrics.Kentico",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
+    "category": "module",
+    "tags": ["cms", "module", "text", "seo", "content", "quality", "optimization", "tool"]
+
   },
   {
     "name": "Editable Image Widget",
@@ -424,7 +439,7 @@
   {
     "name": "Font Awesome Form Component",
     "description": "Adds the ability for a content editor to select a Font Awesome 5.x icon from a modal popup.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/liamgold/font-awesome-form-component/master/img/netconstruct.png",
     "author": "Liam Goldfinch - NetConstruct",
     "sourceUrl": "https://github.com/liamgold/font-awesome-form-component",
     "version": "12.29.2",
@@ -435,7 +450,7 @@
   {
     "name": "Map Location Form Component",
     "description": "Adds the ability for a content editor to capture a latitude/longitude value by clicking a location on a map.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/liamgold/map-location-form-component/master/img/netconstruct.png",
     "author": "Liam Goldfinch - NetConstruct",
     "sourceUrl": "https://github.com/liamgold/map-location-form-component",
     "version": "12.29.2",
