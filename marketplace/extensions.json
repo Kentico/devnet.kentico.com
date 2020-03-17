@@ -505,7 +505,7 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "Chris Meagher",
     "sourceUrl": "https://github.com/CMeeg/kentico-contrib/tree/master/src/Meeg.Kentico.ContentComponents",
-    "version": "0.1.0",
+    "version": "0.3.0",
     "kenticoVersions": ["12.0.39"],
     "category": "module",
     "tags": ["content", "content modelling", "page types"]
