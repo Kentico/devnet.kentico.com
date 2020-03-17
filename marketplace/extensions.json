@@ -684,10 +684,10 @@
 	"name": "URL Redirection Module",
 	"description": "A module that adds support for adding and managing URL redirects through the Kentico CMS interface.",
 	"thumbnailUrl": "https://github.com/silvertech/KenticoURLRedirectionModule/blob/master/silvertech-logo.png?raw=true",
-	"author": "SilverTech, Inc.",
+	"author": "SilverTech, Inc. and HBS",
 	"sourceUrl": "https://github.com/silvertech/KenticoURLRedirectionModule",
-	"version": "12.0.2",
-	"kenticoVersions": ["12.0.52"],
+	"version": "12.0.3",
+	"kenticoVersions": ["12.0.29"],
 	"category": "module",
 	"tags": ["url", "redirection", "module"]
   },
