@@ -1,4 +1,31 @@
 [
+
+{
+    "name": "Registration Form Widget",
+    "description": "It displays a form that allows visitors to register on the website as new users.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.RegistrationForm",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": ["mvc", "Registration", "Form", "Registration Form","RegistrationForm"]
+  },
+  {
+    "name": "Logon Form Widget",
+    "description": "Displays a Logon form that allows users to log into the website. Authentication requires a valid user name and password.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.LogonForm",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": ["mvc", "Logon", "Form", "Logon Form","LogonForm","Login Form"]
+  },
  {
     "name": "Textmetrics for Kentico",
     "description": "Textmetrics enables organizations to create high quality and SEO friendly content that matches your target audience and complies to your brand and styleguides.",
@@ -11,6 +38,7 @@
     ],
     "category": "module",
     "tags": ["cms", "module", "text", "seo", "content", "quality", "optimization", "tool"]
+
   },
   {
     "name": "Editable Image Widget",
@@ -477,7 +505,7 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "Chris Meagher",
     "sourceUrl": "https://github.com/CMeeg/kentico-contrib/tree/master/src/Meeg.Kentico.ContentComponents",
-    "version": "0.1.0",
+    "version": "0.3.0",
     "kenticoVersions": ["12.0.39"],
     "category": "module",
     "tags": ["content", "content modelling", "page types"]
