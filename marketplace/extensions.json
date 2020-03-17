@@ -701,5 +701,16 @@
 	"kenticoVersions": ["12.0.52"],
 	"category": "utility",
 	"tags": ["image", "compression", "performance", "utility"]
+  },
+  {
+    "name": "CMS Settings Config Builder",
+    "description": "Unify your CMS settings and app configuration settings behind a single configuration API.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "Chris Meagher",
+    "sourceUrl": "https://github.com/CMeeg/kentico-contrib/tree/master/src/Meeg.Kentico.Configuration",
+    "version": "0.1.0",
+    "kenticoVersions": ["12.0.39"],
+    "category": "module",
+    "tags": ["configuration", "configuration builder", "settings"]
   }
 ]
