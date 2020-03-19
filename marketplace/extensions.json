@@ -704,7 +704,7 @@
   },
   {
 	"name": "Slack Integration",
-	"description": "A quick and easy way to setup autmatic slack messaging for Kentico",
+	"description": "A quick and easy way to setup automatic slack messaging for Kentico",
 	"thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/Orange_Wakefly_Logo.png",
 	"author": "Wakefly Inc.",
 	"sourceUrl": "https://bitbucket.org/wakeflyinc/wakefly-slack-integration-marketplace-plugin/src/master/",
