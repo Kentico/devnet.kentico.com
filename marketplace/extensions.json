@@ -1,5 +1,17 @@
 [
-
+{
+    "name": "Avatar/User Picture upload & display",
+    "description": "It upload & display picture of an user. We already have a webpart My Account in which have option to upload & display picture. But don't have individually webpart of it.",
+    "thumbnailUrl": "https://github.com/sunandasoni/Kentico/blob/master/Systematix.png",
+    "author": "Systematix infotech Pvt Ltd.",
+    "sourceUrl": "https://github.com/sunandasoni/Kentico.git",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "11.0.27"
+    ],
+    "category": "Webpart",
+    "tags": ["Webpart", "Avater", "User"]
+  },
 {
     "name": "Registration Form Widget",
     "description": "It displays a form that allows visitors to register on the website as new users.",
