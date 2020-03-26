@@ -1,7 +1,7 @@
 [
 {
     "name": "Avatar/User Picture upload & display",
-    "description": "It upload & display picture of an user. We already have a webpart My Account in which have option to upload & display picture. But don't have individually webpart of it.",
+    "description": "That webpart have functionality to upload & display Avatar/User picture of an user. We already have a webpart My Account in which have option to upload & display picture. But don't have individually webpart of it. So we can use of this webpart.",
     "thumbnailUrl": "https://github.com/sunandasoni/Kentico/blob/master/Systematix.png",
     "author": "Systematix infotech Pvt Ltd.",
     "sourceUrl": "https://github.com/sunandasoni/Kentico.git",
