@@ -723,5 +723,16 @@
     "kenticoVersions": ["12.0.39"],
     "category": "module",
     "tags": ["configuration", "configuration builder", "settings"]
+  },
+  {
+    "name": "Email Marketing Widgets and Templates",
+    "description": "A collection of responsive email marketing widgets and templates for Kentico EMS.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "3 Dgerees North",
+    "sourceUrl": "https://github.com/3dn-services/kentico-email-widgets",
+    "version": "1.0.0",
+    "kenticoVersions": ["12.0.0"],
+    "category": "other",
+    "tags": ["email", "template", "widget", "ems", "marketing"]
   }
 ]
