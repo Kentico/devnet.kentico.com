@@ -723,5 +723,22 @@
     "kenticoVersions": ["12.0.39"],
     "category": "module",
     "tags": ["configuration", "configuration builder", "settings"]
-  }
+  },
+	{
+        "name": "GatherContent Integration",
+        "description": "GatherContent’s Kentico integration allows content editors to import and update content from GatherContent to Kentico.",
+        "thumbnailUrl": "https://assets-global.website-files.com/5c88fc885559811e86314a3b/5db00bb3624900e01fb58ddd_webclip.png",
+        "author": "Brimit",
+        "sourceUrl": "https://github.com/gathercontent/kentico-plugin/tree/release/v12",
+        "version": "12.0.1",
+        "kenticoVersions": [
+            "12.0.29"
+        ],
+        "category": "integration, module",
+        "tags": [
+            "GatherContent",
+            "integration",
+            "module"
+        ]
+    }
 ]
