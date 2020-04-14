@@ -731,14 +731,19 @@
         "author": "Brimit",
         "sourceUrl": "https://github.com/gathercontent/kentico-plugin/tree/release/v12",
         "version": "12.0.1",
-        "kenticoVersions": [
-            "12.0.29"
-        ],
-        "category": "integration, module",
-        "tags": [
-            "GatherContent",
-            "integration",
-            "module"
-        ]
-    }
+        "kenticoVersions": ["12.0.29"],
+        "category": "module",
+        "tags": ["GatherContent", "integration", "module"]
+    },
+  {
+    "name": "Email Marketing Widgets and Templates",
+    "description": "A collection of responsive email marketing widgets and templates for Kentico EMS.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "3 Dgerees North",
+    "sourceUrl": "https://github.com/3dn-services/kentico-email-widgets",
+    "version": "1.0.0",
+    "kenticoVersions": ["12.0.0"],
+    "category": "other",
+    "tags": ["email", "template", "widget", "ems", "marketing"]
+  }
 ]
