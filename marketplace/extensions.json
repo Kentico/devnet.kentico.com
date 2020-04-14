@@ -724,6 +724,17 @@
     "category": "module",
     "tags": ["configuration", "configuration builder", "settings"]
   },
+	{
+        "name": "GatherContent Integration",
+        "description": "GatherContent’s Kentico integration allows content editors to import and update content from GatherContent to Kentico.",
+        "thumbnailUrl": "https://raw.githubusercontent.com/gathercontent/kentico-plugin/release/v12/marketplace/assets/kentico-icon.png",
+        "author": "Brimit",
+        "sourceUrl": "https://github.com/gathercontent/kentico-plugin/tree/release/v12",
+        "version": "12.0.1",
+        "kenticoVersions": ["12.0.29"],
+        "category": "module",
+        "tags": ["GatherContent", "integration", "module"]
+    },
   {
     "name": "Email Marketing Widgets and Templates",
     "description": "A collection of responsive email marketing widgets and templates for Kentico EMS.",
