@@ -727,7 +727,7 @@
 	{
         "name": "GatherContent Integration",
         "description": "GatherContent’s Kentico integration allows content editors to import and update content from GatherContent to Kentico.",
-        "thumbnailUrl": "https://assets-global.website-files.com/5c88fc885559811e86314a3b/5db00bb3624900e01fb58ddd_webclip.png",
+        "thumbnailUrl": "https://raw.githubusercontent.com/gathercontent/kentico-plugin/release/v12/marketplace/assets/kentico-icon.png",
         "author": "Brimit",
         "sourceUrl": "https://github.com/gathercontent/kentico-plugin/tree/release/v12",
         "version": "12.0.1",
