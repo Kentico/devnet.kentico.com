@@ -1,5 +1,15 @@
 [
-
+{
+    "name": "Coronavirus Country Statistics",
+    "description": "Render COVID-19 Corona virus world/country Statistics using https://rapidapi.com/KishCom/api/covid-19-coronavirus-statistics API",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/vasu-rbt/K10Covid19Webparts",
+    "version": "1.0.0",
+    "kenticoVersions": ["10.0.0"],
+    "category": "webpart",
+    "tags": ["COVID-19", "Coronavirus", "Statistics", "Country"]
+  },
 {
     "name": "Registration Form Widget",
     "description": "It displays a form that allows visitors to register on the website as new users.",
@@ -505,7 +515,7 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "Chris Meagher",
     "sourceUrl": "https://github.com/CMeeg/kentico-contrib/tree/master/src/Meeg.Kentico.ContentComponents",
-    "version": "0.1.0",
+    "version": "0.3.0",
     "kenticoVersions": ["12.0.39"],
     "category": "module",
     "tags": ["content", "content modelling", "page types"]
@@ -684,10 +694,10 @@
 	"name": "URL Redirection Module",
 	"description": "A module that adds support for adding and managing URL redirects through the Kentico CMS interface.",
 	"thumbnailUrl": "https://github.com/silvertech/KenticoURLRedirectionModule/blob/master/silvertech-logo.png?raw=true",
-	"author": "SilverTech, Inc.",
+	"author": "SilverTech, Inc. and HBS",
 	"sourceUrl": "https://github.com/silvertech/KenticoURLRedirectionModule",
-	"version": "12.0.2",
-	"kenticoVersions": ["12.0.52"],
+	"version": "12.0.3",
+	"kenticoVersions": ["12.0.29"],
 	"category": "module",
 	"tags": ["url", "redirection", "module"]
   },
@@ -701,5 +711,49 @@
 	"kenticoVersions": ["12.0.52"],
 	"category": "utility",
 	"tags": ["image", "compression", "performance", "utility"]
+  },
+  {
+	"name": "Slack Integration",
+	"description": "A quick and easy way to setup automatic slack messaging for Kentico",
+	"thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/Orange_Wakefly_Logo.png",
+	"author": "Wakefly Inc.",
+	"sourceUrl": "https://bitbucket.org/wakeflyinc/wakefly-slack-integration-marketplace-plugin/src/master/",
+	"version": "1.0.0",
+	"kenticoVersions": ["12.0.29"],
+	"category": "utility",
+	"tags": ["Slack", "messaging", "workflow", "utility"]
+  },
+  {
+    "name": "CMS Settings Config Builder",
+    "description": "Unify your CMS settings and app configuration settings behind a single configuration API.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "Chris Meagher",
+    "sourceUrl": "https://github.com/CMeeg/kentico-contrib/tree/master/src/Meeg.Kentico.Configuration",
+    "version": "0.1.0",
+    "kenticoVersions": ["12.0.39"],
+    "category": "module",
+    "tags": ["configuration", "configuration builder", "settings"]
+  },
+	{
+        "name": "GatherContent Integration",
+        "description": "GatherContent’s Kentico integration allows content editors to import and update content from GatherContent to Kentico.",
+        "thumbnailUrl": "https://raw.githubusercontent.com/gathercontent/kentico-plugin/release/v12/marketplace/assets/kentico-icon.png",
+        "author": "Brimit",
+        "sourceUrl": "https://github.com/gathercontent/kentico-plugin/tree/release/v12",
+        "version": "12.0.1",
+        "kenticoVersions": ["12.0.29"],
+        "category": "module",
+        "tags": ["GatherContent", "integration", "module"]
+    },
+  {
+    "name": "Email Marketing Widgets and Templates",
+    "description": "A collection of responsive email marketing widgets and templates for Kentico EMS.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "3 Degrees North",
+    "sourceUrl": "https://github.com/3dn-services/kentico-email-widgets",
+    "version": "1.0.0",
+    "kenticoVersions": ["12.0.0"],
+    "category": "other",
+    "tags": ["email", "template", "widget", "ems", "marketing"]
   }
 ]
