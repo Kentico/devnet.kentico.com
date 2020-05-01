@@ -1,12 +1,12 @@
 [
 {
-    "name": "Coronavirus Country Statistics",
+    "name": "Coronavirus World/Country Statistics",
     "description": "Render COVID-19 Corona virus world/country Statistics using https://rapidapi.com/KishCom/api/covid-19-coronavirus-statistics API",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
-    "author": "Kentico",
+    "author": "Ray Business Technologies Pvt Ltd.",
     "sourceUrl": "https://github.com/vasu-rbt/K10Covid19Webparts",
     "version": "1.0.0",
-    "kenticoVersions": ["10.0.0"],
+    "kenticoVersions": ["10.0.0", "12.0.29"],
     "category": "webpart",
     "tags": ["COVID-19", "Coronavirus", "Statistics", "Country"]
   },
