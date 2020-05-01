@@ -1,7 +1,7 @@
 [
 {
     "name": "COVID-19 World or Country Statistics",
-    "description": "Render COVID-19 Corona virus world/country statistics using https://rapidapi.com/KishCom/api/covid-19-coronavirus-statistics API.",
+    "description": "Render COVID-19 Corona virus world/country statistics using rapidapi (i.e. https://rapidapi.com/KishCom/api/covid-19-coronavirus-statistics).",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
     "author": "Ray Business Technologies Pvt Ltd.",
     "sourceUrl": "https://github.com/vasu-rbt/K10Covid19Webparts",
