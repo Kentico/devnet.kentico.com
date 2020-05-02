@@ -1,5 +1,16 @@
 [
 {
+    "name": "COVID-19 Country Wise",
+    "description": "Render COVID-19 Corona virus country wise data using rapidapi (i.e. https://rapidapi.com/spamakashrajtech/api/corona-virus-world-and-india-data).",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/K10Covid19Webparts",
+    "version": "1.0.0",
+    "kenticoVersions": ["10.0.0", "12.0.29"],
+    "category": "webpart",
+    "tags": ["COVID-19", "Coronavirus", "Country Wise", "Country"]
+  },
+{
     "name": "COVID-19 Statistics",
     "description": "Render COVID-19 Corona virus world/country statistics using rapidapi (i.e. https://rapidapi.com/KishCom/api/covid-19-coronavirus-statistics).",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
