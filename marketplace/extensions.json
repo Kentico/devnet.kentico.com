@@ -1,4 +1,55 @@
 [
+{
+    "name": "COVID-19 Statistics",
+    "description": "Render COVID-19 Corona virus world/country statistics using rapidapi (i.e. https://rapidapi.com/KishCom/api/covid-19-coronavirus-statistics).",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/K10Covid19Webparts",
+    "version": "1.0.0",
+    "kenticoVersions": ["10.0.0", "12.0.29"],
+    "category": "webpart",
+    "tags": ["COVID-19", "Coronavirus", "Statistics", "Country"]
+  },
+{
+    "name": "Registration Form Widget",
+    "description": "It displays a form that allows visitors to register on the website as new users.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.RegistrationForm",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": ["mvc", "Registration", "Form", "Registration Form","RegistrationForm"]
+  },
+  {
+    "name": "Logon Form Widget",
+    "description": "Displays a Logon form that allows users to log into the website. Authentication requires a valid user name and password.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.LogonForm",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.29"
+    ],
+    "category": "mvc widget",
+    "tags": ["mvc", "Logon", "Form", "Logon Form","LogonForm","Login Form"]
+  },
+ {
+    "name": "Textmetrics for Kentico",
+    "description": "Textmetrics enables organizations to create high quality and SEO friendly content that matches your target audience and complies to your brand and styleguides.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/iNalgiev/devnet.kentico.com/master/marketplace/assets/textmetrics_icon.png",
+    "author": "Textmetrics",
+    "sourceUrl": "https://github.com/iNalgiev/Textmetrics.Kentico",
+    "version": "1.0.0",
+    "kenticoVersions": [
+      "12.0.0"
+    ],
+    "category": "module",
+    "tags": ["cms", "module", "text", "seo", "content", "quality", "optimization", "tool"]
+
+  },
   {
     "name": "Editable Image Widget",
     "description": "It will render the image which can be seleted from media library and allows editors to add class, alt text, dimensions and redirection link to image",
@@ -97,7 +148,7 @@
     "description": "Widget displays a hyperlink to a specified target URL. The link can be rendered in text format.",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
     "author": "Ray Business Technologies Pvt Ltd.",
-    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Kentico.MVC.Widgets/Kentico.MVC.Widgets.LinkButton",
+    "sourceUrl": "https://github.com/vasu-rbt/kentico12-mvc-widgets/tree/master/Raybiztech.Kentico12.MVC.Widgets/Raybiztech.Kentico12.MVC.Widgets.LinkButton",
     "version": "1.0.0",
     "kenticoVersions": ["12.0.0"],
     "category": "mvc widget",
@@ -398,7 +449,7 @@
   {
     "name": "Font Awesome Form Component",
     "description": "Adds the ability for a content editor to select a Font Awesome 5.x icon from a modal popup.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/liamgold/font-awesome-form-component/master/img/netconstruct.png",
     "author": "Liam Goldfinch - NetConstruct",
     "sourceUrl": "https://github.com/liamgold/font-awesome-form-component",
     "version": "12.29.2",
@@ -409,7 +460,7 @@
   {
     "name": "Map Location Form Component",
     "description": "Adds the ability for a content editor to capture a latitude/longitude value by clicking a location on a map.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/liamgold/map-location-form-component/master/img/netconstruct.png",
     "author": "Liam Goldfinch - NetConstruct",
     "sourceUrl": "https://github.com/liamgold/map-location-form-component",
     "version": "12.29.2",
@@ -464,7 +515,7 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "Chris Meagher",
     "sourceUrl": "https://github.com/CMeeg/kentico-contrib/tree/master/src/Meeg.Kentico.ContentComponents",
-    "version": "0.1.0",
+    "version": "0.3.0",
     "kenticoVersions": ["12.0.39"],
     "category": "module",
     "tags": ["content", "content modelling", "page types"]
@@ -643,22 +694,66 @@
 	"name": "URL Redirection Module",
 	"description": "A module that adds support for adding and managing URL redirects through the Kentico CMS interface.",
 	"thumbnailUrl": "https://github.com/silvertech/KenticoURLRedirectionModule/blob/master/silvertech-logo.png?raw=true",
-	"author": "SilverTech, Inc.",
+	"author": "SilverTech, Inc. and HBS",
 	"sourceUrl": "https://github.com/silvertech/KenticoURLRedirectionModule",
-	"version": "12.0.2",
-	"kenticoVersions": ["12.0.52"],
+	"version": "12.0.3",
+	"kenticoVersions": ["12.0.29"],
 	"category": "module",
 	"tags": ["url", "redirection", "module"]
   },
   {
-    "name": "Kentico Authorization",
-    "description": "Kentico Authorization Attribute for Kentico MVC, provides a [KenticoAuthorize] Attribute that you can add to your ActionResult methods that can allows for permissions on: User Authenticated, User Names, User Roles, Page ACL Permissions, Resource/Module Permissions.",
+	"name": "Automated Image Compressor",
+	"description": "A utility to automatically compress images uploaded into a kentico media library.",
+	"thumbnailUrl": "https://raw.githubusercontent.com/QubaDigitalUK/KenticoCMS.Compressor/master/quba.jpg",
+	"author": "Quba",
+	"sourceUrl": "https://github.com/QubaDigitalUK/KenticoCMS.Compressor",
+	"version": "1.0.0",
+	"kenticoVersions": ["12.0.52"],
+	"category": "utility",
+	"tags": ["image", "compression", "performance", "utility"]
+  },
+  {
+	"name": "Slack Integration",
+	"description": "A quick and easy way to setup automatic slack messaging for Kentico",
+	"thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/Orange_Wakefly_Logo.png",
+	"author": "Wakefly Inc.",
+	"sourceUrl": "https://bitbucket.org/wakeflyinc/wakefly-slack-integration-marketplace-plugin/src/master/",
+	"version": "1.0.0",
+	"kenticoVersions": ["12.0.29"],
+	"category": "utility",
+	"tags": ["Slack", "messaging", "workflow", "utility"]
+  },
+  {
+    "name": "CMS Settings Config Builder",
+    "description": "Unify your CMS settings and app configuration settings behind a single configuration API.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
-    "author": "Trevor Fayas -Heartland Business Systems",
-    "sourceUrl": "https://github.com/KenticoDevTrev/KenticoAuthorization",
-    "version": "12.29.0",
-    "kenticoVersions": ["12.0.29"],
-    "category": "utility",
-    "tags": ["authorization", "ACL", "permissions", "dynamic routing"]
+    "author": "Chris Meagher",
+    "sourceUrl": "https://github.com/CMeeg/kentico-contrib/tree/master/src/Meeg.Kentico.Configuration",
+    "version": "0.1.0",
+    "kenticoVersions": ["12.0.39"],
+    "category": "module",
+    "tags": ["configuration", "configuration builder", "settings"]
+  },
+	{
+        "name": "GatherContent Integration",
+        "description": "GatherContent’s Kentico integration allows content editors to import and update content from GatherContent to Kentico.",
+        "thumbnailUrl": "https://raw.githubusercontent.com/gathercontent/kentico-plugin/release/v12/marketplace/assets/kentico-icon.png",
+        "author": "Brimit",
+        "sourceUrl": "https://github.com/gathercontent/kentico-plugin/tree/release/v12",
+        "version": "12.0.1",
+        "kenticoVersions": ["12.0.29"],
+        "category": "module",
+        "tags": ["GatherContent", "integration", "module"]
+    },
+  {
+    "name": "Email Marketing Widgets and Templates",
+    "description": "A collection of responsive email marketing widgets and templates for Kentico EMS.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "3 Degrees North",
+    "sourceUrl": "https://github.com/3dn-services/kentico-email-widgets",
+    "version": "1.0.0",
+    "kenticoVersions": ["12.0.0"],
+    "category": "other",
+    "tags": ["email", "template", "widget", "ems", "marketing"]
   }
 ]
