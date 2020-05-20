@@ -7,7 +7,7 @@
     "sourceUrl": "https://github.com/KenticoDevTrev/KenticoAuthorization",
     "version": "12.29.0",
     "kenticoVersions": ["12.0.29"],
-    "category": "mvc",
+    "category": "utility",
     "tags": ["authorization", "ACL", "permissions", "dynamic routing"]
 },
 {
@@ -18,7 +18,7 @@
     "sourceUrl": "https://github.com/KenticoDevTrev/KenticoLocalizedValidationAttributes",
     "version": "12.29.0",
     "kenticoVersions": ["12.0.29"],
-    "category": "mvc",
+    "category": "utility",
     "tags": ["ValidationAttributes", "Validation", "Localized", "Localization"]
 },
 {
