@@ -1,5 +1,27 @@
 [
 {
+    "name": "Kentico Authorization",
+    "description": "Provides a [KenticoAuthorize] Attribute that limits access by: User Authenticated, User Names, User Roles, Page ACL Permissions, Resource/Module Permissions.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
+    "author": "Trevor Fayas -Heartland Business Systems",
+    "sourceUrl": "https://github.com/KenticoDevTrev/KenticoAuthorization",
+    "version": "12.29.0",
+    "kenticoVersions": ["12.0.29"],
+    "category": "utility",
+    "tags": ["authorization", "ACL", "permissions", "dynamic routing"]
+},
+{
+    "name": "Kentico Localization Attributes",
+    "description": "Localized variations of the default DataAnnotation Attributes that allow your ErrorMessage to contain and resolve Localized macro expressions",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
+    "author": "Trevor Fayas -Heartland Business Systems",
+    "sourceUrl": "https://github.com/KenticoDevTrev/KenticoLocalizedValidationAttributes",
+    "version": "12.29.0",
+    "kenticoVersions": ["12.0.29"],
+    "category": "utility",
+    "tags": ["ValidationAttributes", "Validation", "Localized", "Localization"]
+},
+{
     "name": "COVID-19 Country Wise",
     "description": "Render COVID-19 Corona virus country wise data using rapidapi (i.e. https://rapidapi.com/spamakashrajtech/api/corona-virus-world-and-india-data).",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
