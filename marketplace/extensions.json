@@ -788,5 +788,16 @@
     "kenticoVersions": ["12.0.0"],
     "category": "other",
     "tags": ["email", "template", "widget", "ems", "marketing"]
+  },
+  {
+    "name": "Email Widgets",
+    "description": "A collection of email widgets for Kentico EMS",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "Lukas Bajer",
+    "sourceUrl": "https://github.com/lukas-xb/kentico-email-builder-components",
+    "version": "1.0.0",
+    "kenticoVersions": ["12.0.45"],
+    "category": "other",
+    "tags": ["email", "widget","ems"]
   }
 ]
