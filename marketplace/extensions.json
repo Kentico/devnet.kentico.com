@@ -803,7 +803,7 @@
   {
     "name": "Invisible ReCaptcha",
     "description": "Form Component to utilize Google v3 Recaptcha In Kentico Form Builder",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/CitroDigital/InvisibleRecpatcha/master/assets/logo-icon.png",
     "author": "Josh Kerbaugh - Citro Digital",
     "sourceUrl": "https://github.com/CitroDigital/InvisibleRecpatcha",
     "version": "1.0.0",
