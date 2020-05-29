@@ -799,5 +799,16 @@
     "kenticoVersions": ["12.0.45"],
     "category": "other",
     "tags": ["email", "widget","ems"]
+  },
+  {
+    "name": "Invisible ReCaptcha",
+    "description": "Form Component to utilize Google v3 Recaptcha In Kentico Form Builder",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "author": "Josh Kerbaugh - Citro Digital",
+    "sourceUrl": "https://github.com/CitroDigital/InvisibleRecpatcha",
+    "version": "1.0.0",
+    "kenticoVersions": ["12.0.43"],
+    "category": "mvc form component",
+    "tags": ["recaptcha"]
   }
 ]
