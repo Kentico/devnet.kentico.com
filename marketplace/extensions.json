@@ -166,6 +166,17 @@
     "tags": ["dynamic routing", "routing", "url"]
   },
   {
+    "name": "Dynamic Routing Wildcards",
+    "description": "Extends DynamicRouting.Kentico.MVC to support wildcards in urls which map to properties within Controller actions",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/DynamicRouting.png",
+    "author": "Taylor Smith, Rafe Wilson",
+    "sourceUrl": "https://github.com/taylorjrsmith/kentico-dynamic-routing-wildcards",
+    "version": "12.29.0",
+    "kenticoVersions": ["12.0.29"],
+    "category": "utility",
+    "tags": ["dynamic routing wildcard", "routing", "url"]
+  },
+  {
     "name": "YouTube Video widget",
     "description": "Widget Enables to insert the video from specified YouTube URL location.",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
