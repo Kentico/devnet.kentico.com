@@ -821,5 +821,16 @@
     "kenticoVersions": ["12.0.43"],
     "category": "mvc form component",
     "tags": ["recaptcha"]
-  }
+  },
+  {
+   "name":"Custom Table Macro",
+   "description": "Macro allows to render Custom table field value in transformation",
+   "thumbnailUrl": "https://github.com/dilip-sipl/CustomTableMacro/blob/master/SIPL.png",
+   "author": "Systematix Infotech Pvt. Ltd.",
+   "sourceUrl": "https://github.com/dilip-sipl/CustomTableMacro",
+   "version": "1.0.0",
+   "kenticoVersions": ["11.0.0"],
+   "category": "other",
+   "tags": ["macro","custom-table","transformation","Text/XML","ASCX"]
+ }
 ]
