@@ -821,5 +821,16 @@
    "kenticoVersions": ["11.0.0"],
    "category": "other",
    "tags": ["macro","custom-table","transformation","Text/XML","ASCX"]
- }
+ },
+ {
+    "name": "Image Focuspoint",
+    "description": "Image focuspoint provides helper tool for Kentico CMS and handle image presentation, by ensuring the 'spare' parts of your image (negative space) are cropped out before the important parts.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/drilic/kentico-mvcformcontrol-focuspoint/master/exlrt-logo-clear.png",
+    "author": "Dragoljub Ilic (EXLRT)",
+    "sourceUrl": "https://github.com/drilic/kentico-mvcformcontrol-focuspoint",
+    "version": "1.0.0",
+    "kenticoVersions": ["12.0.77"],
+    "category": "mvc form component",
+    "tags": ["focuspoint", "focus", "image", "form control"]
+  }
 ]
