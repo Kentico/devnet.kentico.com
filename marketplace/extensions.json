@@ -1,6 +1,6 @@
 [
 {
-    "name": "Kentico Authorization",
+    "name": "Kentico Authorization1",
     "description": "Provides a [KenticoAuthorize] Attribute that limits access by: User Authenticated, User Names, User Roles, Page ACL Permissions, Resource/Module Permissions.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
