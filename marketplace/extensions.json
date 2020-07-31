@@ -847,7 +847,7 @@
 {
    "name": "Document Category Widget",
    "description": "Document categories allows you to see the categories assigned to the current page",
-   "thumbnailUrl": "https://github.com/dilip-sipl/Document-categories-widget/blob/master/SIPL.png",
+   "thumbnailUrl": "https://raw.githubusercontent.com/dilip-sipl/Document-categories-widget/master/SIPL.png",
    "author": "Systematix Infotech Pvt. Ltd.",
    "sourceUrl": "https://github.com/dilip-sipl/Document-categories-widget",
    "version": "1.0.0",
