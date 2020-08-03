@@ -843,5 +843,16 @@
     "kenticoVersions": ["12.0.77"],
     "category": "mvc form component",
     "tags": ["focuspoint", "focus", "image", "form control"]
-  }
+  },
+{
+   "name": "Document Category Widget",
+   "description": "Document categories allows you to see the categories assigned to the current page",
+   "thumbnailUrl": "https://raw.githubusercontent.com/dilip-sipl/Document-categories-widget/master/SIPL.png",
+   "author": "Systematix Infotech Pvt. Ltd.",
+   "sourceUrl": "https://github.com/dilip-sipl/Document-categories-widget",
+   "version": "1.0.0",
+   "kenticoVersions": ["12.0.52"],
+   "category": "mvc widget",
+   "tags": ["kentico 12 mvc","mvc widget","categories","current document","separators"]
+ }	
 ]
