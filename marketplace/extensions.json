@@ -856,7 +856,7 @@
    "tags": ["kentico 12 mvc","mvc widget","categories","current document","separators"]
  },
 {
-   "name": Current Page Categories Widget",
+   "name": "Current Page Categories Widget",
    "description": "Page categories widget can be added as an inline widget in editable region or in widget zone, and will display categories of current page with specified separator and design styling which can be configured in widget properties.",
    "thumbnailUrl": "https://raw.githubusercontent.com/dilip-sipl/Current-page-categories/master/SIPL.png",
    "author": "Systematix Infotech Pvt. Ltd.",
