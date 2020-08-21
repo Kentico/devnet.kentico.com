@@ -855,6 +855,17 @@
    "category": "mvc widget",
    "tags": ["kentico 12 mvc","mvc widget","categories","current document","separators"]
  },
+ {
+  "name": "Cookieless Form Handler Module",
+  "description": "Enables using online forms and marketing automation without cookie consent.  Allows responding to forms with marketing automation and marketing emails.",
+  "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/bluemodus-icon.png",
+  "author": "Mike Wills, BlueModus",
+  "sourceUrl": "https://github.com/heywills/CookielessFormHandler",
+  "version": "1.0.0",
+  "kenticoVersions": ["12.0.39"],
+  "category": "module",
+  "tags": ["forms", "online forms", "marketing automation", "email marketing", "cookie consent", "gdpr", "ccpa"]
+  },
   {
     "name": "Category Selector Form Component",
     "description": "A custom Kentico MVC form component that allows editors to select categories from a list of checkboxes in a modal window.",
