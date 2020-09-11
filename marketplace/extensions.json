@@ -855,6 +855,17 @@
    "category": "mvc widget",
    "tags": ["kentico 12 mvc","mvc widget","categories","current document","separators"]
  },
+{
+   "name": "Current Page Categories Widget",
+   "description": "Page categories widget can be added as an inline widget in editable region or in widget zone, and will display categories of current page.",
+   "thumbnailUrl": "https://raw.githubusercontent.com/dilip-sipl/Current-page-categories/master/SIPL.png",
+   "author": "Systematix Infotech Pvt. Ltd.",
+   "sourceUrl": "https://github.com/dilip-sipl/Current-page-categories",
+   "version": "1.0.0",
+   "kenticoVersions": ["11.0.27"],
+   "category": "other",
+   "tags": ["categories","current page","separators","portal","widget"]
+ },
  {
   "name": "Cookieless Form Handler Module",
   "description": "Enables using online forms and marketing automation without cookie consent.  Allows responding to forms with marketing automation and marketing emails.",
