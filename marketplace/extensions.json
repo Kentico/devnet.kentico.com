@@ -887,5 +887,16 @@
     "kenticoVersions": ["12.0.29"],
     "category": "mvc form component",
     "tags": ["kentico","mvc","form","component","category","categories","VisualAntidote"]
-  }
+  },
+{
+   "name": "Current user display Widget",
+   "description": "Widget will display the property value of logged in user based on selected property name in widget configuration",
+   "thumbnailUrl": "https://raw.githubusercontent.com/dilip-sipl/Current-user-display/master/SIPL.png",
+   "author": "Systematix Infotech Pvt. Ltd.",
+   "sourceUrl": "https://github.com/dilip-sipl/Current-user-display",
+   "version": "1.0.0",
+   "kenticoVersions": ["12.0.83"],
+   "category": "mvc widget",
+   "tags": ["current user","user details", "logged in user","mvc", "widget"]
+ }
 ]
