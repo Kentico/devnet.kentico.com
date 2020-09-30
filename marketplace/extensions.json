@@ -865,5 +865,16 @@
   "kenticoVersions": ["12.0.39"],
   "category": "module",
   "tags": ["forms", "online forms", "marketing automation", "email marketing", "cookie consent", "gdpr", "ccpa"]
+  },
+  {
+    "name": "Staging Configuration Module",
+    "description": "Enables configuring Kentico Xperience’s staging module task synchronization, to simplify deployments and prevent human error.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/bluemodus-icon.png",
+    "author": "Mike Wills, BlueModus",
+    "sourceUrl": "https://github.com/heywills/StagingConfigurationModule",
+    "version": "1.0.0",
+    "kenticoVersions": ["12.0.29"],
+    "category": "module",
+    "tags": ["staging", "deployment", "synchronization"]
   }
 ]
