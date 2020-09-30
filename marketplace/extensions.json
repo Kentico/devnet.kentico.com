@@ -738,10 +738,10 @@
 	"name": "URL Redirection Module",
 	"description": "A module that adds support for adding and managing URL redirects through the Kentico CMS interface.",
 	"thumbnailUrl": "https://github.com/silvertech/KenticoURLRedirectionModule/blob/master/silvertech-logo.png?raw=true",
-	"author": "SilverTech, Inc. and HBS",
+	"author": "SilverTech, Inc.",
 	"sourceUrl": "https://github.com/silvertech/KenticoURLRedirectionModule",
-	"version": "12.0.3",
-	"kenticoVersions": ["12.0.29"],
+	"version": "12.0.4",
+	"kenticoVersions": ["12.0.52"],
 	"category": "module",
 	"tags": ["url", "redirection", "module"]
   },
@@ -855,6 +855,17 @@
    "category": "mvc widget",
    "tags": ["kentico 12 mvc","mvc widget","categories","current document","separators"]
  },
+{
+   "name": "Current Page Categories Widget",
+   "description": "Page categories widget can be added as an inline widget in editable region or in widget zone, and will display categories of current page.",
+   "thumbnailUrl": "https://raw.githubusercontent.com/dilip-sipl/Current-page-categories/master/SIPL.png",
+   "author": "Systematix Infotech Pvt. Ltd.",
+   "sourceUrl": "https://github.com/dilip-sipl/Current-page-categories",
+   "version": "1.0.0",
+   "kenticoVersions": ["11.0.27"],
+   "category": "other",
+   "tags": ["categories","current page","separators","portal","widget"]
+ },
  {
   "name": "Cookieless Form Handler Module",
   "description": "Enables using online forms and marketing automation without cookie consent.  Allows responding to forms with marketing automation and marketing emails.",
@@ -876,5 +887,27 @@
     "kenticoVersions": ["12.0.29"],
     "category": "module",
     "tags": ["staging", "deployment", "synchronization"]
-  }
+  },
+  {
+    "name": "Category Selector Form Component",
+    "description": "A custom Kentico MVC form component that allows editors to select categories from a list of checkboxes in a modal window.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/visual-antidote/SharedResources/master/va-kentico-marketplace-logo.png",
+    "author": "Visual Antidote",
+    "sourceUrl": "https://github.com/visual-antidote/Kentico.MVC.FormComponent.CategorySelector",
+    "version": "1.0.1",
+    "kenticoVersions": ["12.0.29"],
+    "category": "mvc form component",
+    "tags": ["kentico","mvc","form","component","category","categories","VisualAntidote"]
+  },
+{
+   "name": "Current user display Widget",
+   "description": "Widget will display the property value of logged in user based on selected property name in widget configuration",
+   "thumbnailUrl": "https://raw.githubusercontent.com/dilip-sipl/Current-user-display/master/SIPL.png",
+   "author": "Systematix Infotech Pvt. Ltd.",
+   "sourceUrl": "https://github.com/dilip-sipl/Current-user-display",
+   "version": "1.0.0",
+   "kenticoVersions": ["12.0.83"],
+   "category": "mvc widget",
+   "tags": ["current user","user details", "logged in user","mvc", "widget"]
+ }
 ]
