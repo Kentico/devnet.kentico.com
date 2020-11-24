@@ -909,5 +909,16 @@
    "kenticoVersions": ["12.0.83"],
    "category": "mvc widget",
    "tags": ["current user","user details", "logged in user","mvc", "widget"]
- }
+  },
+  {
+    "name": "Upsert Alternative Forms Provider",
+    "description": "Xperience provider enables using one alternative form, 'upsert', for each page type, to prevent requiring three, 'insert', 'update', & 'newculture'.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/bluemodus-icon.png",
+    "author": "Mike Wills, BlueModus",
+    "sourceUrl": "https://github.com/heywills/upsert-alternative-forms",
+    "version": "13.0.0",
+    "kenticoVersions": ["11.0.0", "12.0.0", "13.0.0"],
+    "category": "other",
+    "tags": ["page type", "alternative form", "user experience"]
+  }
 ]
