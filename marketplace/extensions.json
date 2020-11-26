@@ -920,5 +920,16 @@
     "kenticoVersions": ["11.0.0", "12.0.0", "13.0.0"],
     "category": "other",
     "tags": ["page type", "alternative form", "user experience"]
+  },
+  {
+    "name": "CTA Button",
+    "description": "A call to action button with 3 colour presets and 3 text presets, or custom text",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/IntegranetLogo-Square.png",
+    "author": "Sam Collins - Integranet Digital",
+    "sourceUrl": "https://github.com/IntegranetSam/K12_Integranet_WebPart_CTAButton",
+    "version": "1.0.0",
+    "kenticoVersions": ["12.0.29"],
+    "category": "web part",
+    "tags": ["cta", "button", "widget", "web part"]
   }
 ]
