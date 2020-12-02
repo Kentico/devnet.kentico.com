@@ -1,5 +1,16 @@
 [
 {
+    "name": ".NET Core Breadcrumbs widget",
+    "description": "Provides a widget and inline code for generating breadcrumbs on an Xperience 13 .NET Core site using content tree based routing.",
+    "thumbnailUrl": "https://github.com/kentico-ericd/devnet.kentico.com/raw/master/marketplace/assets/core-breadcrumbs.png",
+    "author": "Eric Dugre",
+    "sourceUrl": "https://github.com/kentico-ericd/xperience-core-breadcrumbs",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.0"],
+    "category": "other",
+    "tags": ["core", "component", "widget", "breadcrumbs"]
+},
+{
     "name": "Kentico Authorization",
     "description": "Provides a [KenticoAuthorize] Attribute that limits access by: User Authenticated, User Names, User Roles, Page ACL Permissions, Resource/Module Permissions.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
