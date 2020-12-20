@@ -16,8 +16,8 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/KenticoAuthorization",
-    "version": "12.29.0",
-    "kenticoVersions": ["12.0.29"],
+    "version": "13.0.1",
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "utility",
     "tags": ["authorization", "ACL", "permissions", "dynamic routing"]
 },
@@ -333,11 +333,11 @@
   {
     "name": "Relationships Extended",
     "description": "Extends the Relationships to allow usage of Ad-hoc relationships (which allow order by) within the Relationship UI.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/RelationshipsExtended",
-    "version": "12.29.0",
-    "kenticoVersions": ["12.29.0"],
+    "version": "13.0.3",
+    "kenticoVersions": ["12.29.0", "13.0.0"],
     "category": "module",
     "tags": [
       "relationships",
@@ -419,8 +419,8 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/bootstrap-icon.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/BootstrapLayoutTool/blob/master/README.md",
-    "version": "12.29.2",
-    "kenticoVersions": ["12.0.29"],
+    "version": "13.0.0",
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "mvc section",
     "tags": ["section", "bootstrap", "columns"]
   },
@@ -449,11 +449,11 @@
   {
     "name": "Partial Widget Page",
     "description": "Allows you to render a Page Builder page as a partial to be included on another page. Similar to Portal Engine's Page Placeholder.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/PartialWidgetPage",
-    "version": "12.29.2",
-    "kenticoVersions": ["12.0.29"],
+    "version": "13.0.3",
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "utility",
     "tags": ["page placeholder", "page builder", "widgets"]
   },
@@ -471,11 +471,11 @@
   {
     "name": "Page Builder Containers",
     "description": "Adds Page Builder Containers / Html before and after to Kentico MVC (Similar to Webpart Containers in Portal Engine)",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/PageBuilderContainers",
-    "version": "12.29.2",
-    "kenticoVersions": ["12.0.29"],
+    "version": "13.0.3",
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "utility",
     "tags": ["webpart containers", "containers"]
   },
@@ -556,11 +556,11 @@
   {
     "name": "MVC Caching for Kentico",
     "description": "Adds Automated+Manual Data Caching and Rendering Caching for Kentico MVC that is tied in with Kentico's Cache and dependencies.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/MVCCaching",
-    "version": "12.29.0",
-    "kenticoVersions": ["12.0.29"],
+    "version": "13.0.0",
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "utility",
     "tags": ["cache", "caching"]
   },
@@ -600,11 +600,11 @@
   {
     "name": "Automatic Generic User Roles",
     "description": "Restores Kentico 12's generic Roles of _authenticated_ _notauthenticated_ and _everyone_ with code to automatically create and maintain these listings.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/AutomaticGenericUserRoles",
-    "version": "12.29.0",
-    "kenticoVersions": ["12.0.29"],
+    "version": "13.0.0",
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "utility",
     "tags": ["utility", "other"]
   },
