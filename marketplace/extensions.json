@@ -588,12 +588,12 @@
   },
   {
     "name": "Kentico Kontent publishing module",
-    "description": "Synchronizes all published content and assets from a specific site in Kentico EMS to a specific project in Kentico Kontent using the Content Management API.",
+    "description": "Synchronizes all published content and assets from a specific site in Kentico Xperience to a specific project in Kentico Kontent using the Management API.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/ems-module-cloud-publishing",
+    "sourceUrl": "https://github.com/Kentico/xperience-module-kontent-publishing",
     "version": "1.0.0",
-    "kenticoVersions": ["12.0.29"],
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "integration",
     "tags": ["headless", "headless_API", "API", "Kontent"]
   },
