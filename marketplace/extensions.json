@@ -588,7 +588,7 @@
   },
   {
     "name": "Kentico Kontent publishing module",
-    "description": "Synchronizes all published content and assets from a specific site in Kentico Xperience to a specific project in Kentico Kontent using the Content Management API.",
+    "description": "Synchronizes all published content and assets from a specific site in Kentico Xperience to a specific project in Kentico Kontent using the Management API.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-module-kontent-publishing",
