@@ -942,5 +942,27 @@
     "kenticoVersions": ["12.0.29"],
     "category": "webpart",
     "tags": ["cta", "button", "widget", "web part"]
+  },
+  {
+    "name": "Kentico 13 Core Baseline",
+    "description": "A theme-less .net Core 5.0 MVC starting site template with common site elements, tools, and systems to get your site going fast.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
+    "author": "Trevor Fayas -Heartland Business Systems",
+    "sourceUrl": "https://github.com/HBSTech/Kentico13CoreBaseline",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.5"],
+    "category": "website template",
+    "tags": ["baseline", "mvc", "core", "site"]
+  },
+  {
+    "name": "Kentico 12 Baseline",
+    "description": "A theme-less .Net MVC starting site template with common site elements, tools, and systems to get your site going fast.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
+    "author": "Trevor Fayas -Heartland Business Systems",
+    "sourceUrl": "https://github.com/HBSTech/Kentico12Baseline",
+    "version": "1.0.0",
+    "kenticoVersions": ["12.0.79"],
+    "category": "website template",
+    "tags": ["baseline", "mvc", "core", "site"]
   }
 ]
