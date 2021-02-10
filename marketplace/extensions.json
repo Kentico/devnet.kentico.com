@@ -964,5 +964,16 @@
     "kenticoVersions": ["12.0.79"],
     "category": "website template",
     "tags": ["baseline", "mvc", "core", "site"]
+  },
+  {
+    "name": "Page Asset Folder Module",
+    "description": "Xperience module provides configurable, automatic content asset folders for pages in the content tree.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/bluemodus-icon.png",
+    "author": "Mike Wills, BlueModus",
+    "sourceUrl": "https://github.com/heywills/page-asset-folder-module",
+    "version": "13.0.0",
+    "kenticoVersions": ["12.0.0", "13.0.0"],
+    "category": "module",
+    "tags": ["page type", "allowed types", "user experience", "asset folders"]
   }
 ]
