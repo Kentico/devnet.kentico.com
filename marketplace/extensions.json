@@ -1,12 +1,23 @@
 [
 {
+    "name": ".NET Core Breadcrumbs widget",
+    "description": "Provides a widget and inline code for generating breadcrumbs on an Xperience 13 .NET Core site using content tree based routing.",
+    "thumbnailUrl": "https://github.com/kentico-ericd/devnet.kentico.com/raw/master/marketplace/assets/core-breadcrumbs.png",
+    "author": "Eric Dugre",
+    "sourceUrl": "https://github.com/kentico-ericd/xperience-core-breadcrumbs",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.0"],
+    "category": "other",
+    "tags": ["core", "component", "widget", "breadcrumbs"]
+},
+{
     "name": "Kentico Authorization",
     "description": "Provides a [KenticoAuthorize] Attribute that limits access by: User Authenticated, User Names, User Roles, Page ACL Permissions, Resource/Module Permissions.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/KenticoAuthorization",
-    "version": "12.29.0",
-    "kenticoVersions": ["12.0.29"],
+    "version": "13.0.1",
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "utility",
     "tags": ["authorization", "ACL", "permissions", "dynamic routing"]
 },
@@ -203,8 +214,8 @@
     "description": "Widget allowing to select and render a YouTube video on site.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.Widget.Video#video-widget",
-    "version": "1.0.0-beta1",
+    "sourceUrl": "https://github.com/Kentico/xperience-component-samples/tree/master/Kentico.Widget.Video#video-widget",
+    "version": "1.0.0",
     "kenticoVersions": ["12.0.31"],
     "category": "mvc widget",
     "tags": ["mvc", "youtube", "video", "inline-editor"]
@@ -214,22 +225,22 @@
     "description": "The rich text widget allows content editors to edit rich text in a \"WYSIWYG\" manner.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.Widget.RichText#rich-text-widget",
-    "version": "1.0.0-beta1",
-    "kenticoVersions": ["12.0.38"],
+    "sourceUrl": "https://github.com/Kentico/xperience-component-samples/tree/687639b20551d21b70f1966f29624ee88cf22d89/Kentico.Widget.RichText#rich-text-widget",
+    "version": "1.3.0",
+    "kenticoVersions": ["12.0.79"],
     "category": "mvc widget",
-    "tags": ["mvc", "rich-text", "wysiwyg", "froala"]
+    "tags": ["mvc", "rich-text", "wysiwyg", "froala", "rich", "text", "editor"]
   },
   {
     "name": "Rich Text Inline Editor",
     "description": "The rich text inline editor for editing rich text in a \"WYSIWYG\" manner.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/ems-mvc-components/tree/master/Kentico.InlineEditor.RichText#rich-text-inline-editor",
-    "version": "1.0.0-beta1",
-    "kenticoVersions": ["12.0.38"],
+    "sourceUrl": "https://github.com/Kentico/xperience-component-samples/tree/687639b20551d21b70f1966f29624ee88cf22d89/Kentico.InlineEditor.RichText#rich-text-inline-editor",
+    "version": "1.3.0",
+    "kenticoVersions": ["12.0.79"],
     "category": "mvc inline editor",
-    "tags": ["mvc", "rich-text", "wysiwyg", "froala", "inline-editor"]
+    "tags": ["mvc", "rich-text", "wysiwyg", "froala", "rich", "text", "editor"]
   },
   {
     "name": "KInspector",
@@ -322,11 +333,11 @@
   {
     "name": "Relationships Extended",
     "description": "Extends the Relationships to allow usage of Ad-hoc relationships (which allow order by) within the Relationship UI.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/RelationshipsExtended",
-    "version": "12.29.0",
-    "kenticoVersions": ["12.29.0"],
+    "version": "13.0.3",
+    "kenticoVersions": ["12.29.0", "13.0.0"],
     "category": "module",
     "tags": [
       "relationships",
@@ -408,8 +419,8 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/bootstrap-icon.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/BootstrapLayoutTool/blob/master/README.md",
-    "version": "12.29.2",
-    "kenticoVersions": ["12.0.29"],
+    "version": "13.0.0",
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "mvc section",
     "tags": ["section", "bootstrap", "columns"]
   },
@@ -438,11 +449,11 @@
   {
     "name": "Partial Widget Page",
     "description": "Allows you to render a Page Builder page as a partial to be included on another page. Similar to Portal Engine's Page Placeholder.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/PartialWidgetPage",
-    "version": "12.29.2",
-    "kenticoVersions": ["12.0.29"],
+    "version": "13.0.3",
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "utility",
     "tags": ["page placeholder", "page builder", "widgets"]
   },
@@ -460,11 +471,11 @@
   {
     "name": "Page Builder Containers",
     "description": "Adds Page Builder Containers / Html before and after to Kentico MVC (Similar to Webpart Containers in Portal Engine)",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/PageBuilderContainers",
-    "version": "12.29.2",
-    "kenticoVersions": ["12.0.29"],
+    "version": "13.0.3",
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "utility",
     "tags": ["webpart containers", "containers"]
   },
@@ -545,11 +556,11 @@
   {
     "name": "MVC Caching for Kentico",
     "description": "Adds Automated+Manual Data Caching and Rendering Caching for Kentico MVC that is tied in with Kentico's Cache and dependencies.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/MVCCaching",
-    "version": "12.29.0",
-    "kenticoVersions": ["12.0.29"],
+    "version": "13.0.0",
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "utility",
     "tags": ["cache", "caching"]
   },
@@ -577,23 +588,23 @@
   },
   {
     "name": "Kentico Kontent publishing module",
-    "description": "Synchronizes all published content and assets from a specific site in Kentico EMS to a specific project in Kentico Kontent using the Content Management API.",
+    "description": "Synchronizes all published content and assets from a specific site in Kentico Xperience to a specific project in Kentico Kontent using the Management API.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/ems-module-cloud-publishing",
+    "sourceUrl": "https://github.com/Kentico/xperience-module-kontent-publishing",
     "version": "1.0.0",
-    "kenticoVersions": ["12.0.29"],
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "integration",
     "tags": ["headless", "headless_API", "API", "Kontent"]
   },
   {
     "name": "Automatic Generic User Roles",
     "description": "Restores Kentico 12's generic Roles of _authenticated_ _notauthenticated_ and _everyone_ with code to automatically create and maintain these listings.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
     "author": "Trevor Fayas -Heartland Business Systems",
     "sourceUrl": "https://github.com/KenticoDevTrev/AutomaticGenericUserRoles",
-    "version": "12.29.0",
-    "kenticoVersions": ["12.0.29"],
+    "version": "13.0.0",
+    "kenticoVersions": ["12.0.29", "13.0.0"],
     "category": "utility",
     "tags": ["utility", "other"]
   },
@@ -620,17 +631,17 @@
     "tags": ["YouTube", "mvc", "video", "inline", "video search"]
   },
   {
-    "name": "Recombee Product Recommendations",
-    "description": "Product recommendation module integrated with Recombee: AI-powered recommending service.",
+    "name": "Recombee Content Recommendations",
+    "description": "Content recommendation module integrated with Recombee: AI-powered recommending service.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/Recombee.png",
     "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/ems-mvc-module-recombee",
-    "version": "1.0.3",
-    "kenticoVersions": ["12.0.29"],
+    "sourceUrl": "https://github.com/Kentico/xperience-module-recombee",
+    "version": "0.0.1-preview",
+    "kenticoVersions": ["13.0.0"],
     "category": "integration",
     "tags": [
       "Recommendations",
-      "Product_recommendations",
+      "Content_recommendations",
       "AI",
       "Artificial_Recommendations",
       "Recombee",
@@ -920,5 +931,38 @@
     "kenticoVersions": ["11.0.0", "12.0.0", "13.0.0"],
     "category": "other",
     "tags": ["page type", "alternative form", "user experience"]
+  },
+  {
+    "name": "CTA Button",
+    "description": "A call to action button with 3 colour presets and 3 text presets, or custom text",
+    "thumbnailUrl": "https://raw.githubusercontent.com/IntegranetSam/devnet.kentico.com/f62d1cdbca9d3b1ead2939bac425ddd2fcb1a1fb/marketplace/assets/IntegranetLogo-Square.PNG",
+    "author": "Sam Collins - Integranet Digital",
+    "sourceUrl": "https://github.com/IntegranetSam/K12_Integranet_WebPart_CTAButton",
+    "version": "1.0.0",
+    "kenticoVersions": ["12.0.29"],
+    "category": "webpart",
+    "tags": ["cta", "button", "widget", "web part"]
+  },
+  {
+    "name": "Kentico 13 Core Baseline",
+    "description": "A theme-less .net Core 5.0 MVC starting site template with common site elements, tools, and systems to get your site going fast.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
+    "author": "Trevor Fayas -Heartland Business Systems",
+    "sourceUrl": "https://github.com/HBSTech/Kentico13CoreBaseline",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.5"],
+    "category": "website template",
+    "tags": ["baseline", "mvc", "core", "site"]
+  },
+  {
+    "name": "Kentico 12 Baseline",
+    "description": "A theme-less .Net MVC starting site template with common site elements, tools, and systems to get your site going fast.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
+    "author": "Trevor Fayas -Heartland Business Systems",
+    "sourceUrl": "https://github.com/HBSTech/Kentico12Baseline",
+    "version": "1.0.0",
+    "kenticoVersions": ["12.0.79"],
+    "category": "website template",
+    "tags": ["baseline", "mvc", "core", "site"]
   }
 ]
