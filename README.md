@@ -93,4 +93,3 @@ If you have an idea for the MVC widget, MVC inline editor, MVC from component, o
 
 If you release a new version of the extension, submit a pull request with an updated entry in the [`extensions.json`](/marketplace/extensions.json) file and provide a link to the older version in the readme file of the project. We recommend incrementing the major version in `version` when the major version of `kenticoVersion` is incremented.
 
-![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/devnet.kentico.com?pixel)
