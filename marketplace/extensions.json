@@ -975,5 +975,16 @@
     "kenticoVersions": ["12.0.0", "13.0.0"],
     "category": "module",
     "tags": ["page type", "allowed types", "user experience", "asset folders"]
+  },
+  {
+	"name": "URL Redirection Module",
+	"description": "A module that adds support for adding and managing URL redirects through the Kentico CMS interface.",
+	"thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/HBS-Logo.png",
+	"author": "Trevor Fayas -Heartland Business Systems",
+	"sourceUrl": "https://github.com/KenticoDevTrev/KenticoURLRedirectionModule",
+	"version": "13.0.2",
+	"kenticoVersions": ["12.0.29", "13.0.0"],
+	"category": "module",
+	"tags": ["url", "redirection", "module"]
   }
 ]
