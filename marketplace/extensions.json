@@ -975,5 +975,25 @@
     "kenticoVersions": ["12.0.0", "13.0.0"],
     "category": "module",
     "tags": ["page type", "allowed types", "user experience", "asset folders"]
-  }
+  },
+  {
+   "name": "Filter Page Types List By Categories Widget",
+   "description": "Widget displays page types list and categories filter that allowing pages to be filtered by categories",
+   "thumbnailUrl": "https://github.com/mzhokh/FilterByCategoryWidget/blob/main/FilterByCategoryWidget/Example.PNG",
+   "author": "BitsOrchestra",
+   "sourceUrl": "https://github.com/mzhokh/FilterByCategoryWidget/tree/main/FilterByCategoryWidget",
+   "version": "1.0.0",
+   "kenticoVersions": [
+     "12.0.67"
+   ],
+   "category": "mvc widget",
+   "tags": [
+     "mvc",
+     "categories",
+     "images",
+     "cards",
+	 "filter",
+	 "page types"
+   ]
+ }
 ]
