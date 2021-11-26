@@ -1008,5 +1008,16 @@
    "kenticoVersions": ["12.0.67"],
    "category": "mvc widget",
    "tags": ["mvc", "categories", "images", "cards", "filter", "page types" ]
- }
+ },
+ {
+    "name": "Intercom Integration",
+    "description": "Provides contact data synchronization, allows activity logging in Xperience based on the Intercom chat, and simplifies adding of the Intercom scripts on pages.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/intercom-logo.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-module-intercom",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.0"],
+    "category": "integration",
+    "tags": [ "module", "intergration", "Intercom", "chat", "chatbot" ]
+  }
 ]
