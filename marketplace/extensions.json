@@ -1,5 +1,16 @@
 [
 {
+    "name": "Jira Automation",
+    "description": "Provides custom Workflow and Marketing automation actions to integrate Jira issues with Kentico Xperience.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-jira",
+    "version": "1.0.4",
+    "kenticoVersions": ["13.0.0"],
+    "category": "integration",
+    "tags": ["workflow", "marketing automation", "automation", "jira"]
+},
+{
     "name": "Disqus widget",
     "description": "A pagebuilder widget which enables Disqus commenting on your .NET Core website.",
     "thumbnailUrl": "https://github.com/Kentico/xperience-disqus/raw/master/img/icon.png",
