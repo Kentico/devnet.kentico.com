@@ -1,5 +1,16 @@
 [
 {
+    "name": "Disqus widget",
+    "description": "A pagebuilder widget which enables Disqus commenting on your .NET Core website.",
+    "thumbnailUrl": "https://github.com/Kentico/xperience-disqus/raw/master/img/icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-disqus",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.32"],
+    "category": "mvc widget",
+    "tags": ["core", "component", "widget", "disqus", "comments"]
+},
+{
     "name": "Event Calendar",
     "description": "Custom .NET Core ViewComponents meant for displaying calendars of events and enabling event registration using a customizable, modern javascript library.",
     "thumbnailUrl": "https://github.com/Kentico/xperience-core-events/raw/master/img/thumbnail.png",
