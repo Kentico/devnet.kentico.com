@@ -1041,5 +1041,16 @@
     "kenticoVersions": ["13.0.0"],
     "category": "integration",
     "tags": [ "module", "intergration", "Intercom", "chat", "chatbot" ]
+  },
+  {
+    "name": "General Links Form Component",
+    "description": "A custom general links form component for use as a widget property in the page builder.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/BenMurphyUK/BM.GeneralLinksComponent/master/BM.GeneralLinksComponent/icon.png",
+    "author": "Ben Murphy",
+    "sourceUrl": "https://github.com/BenMurphyUK/BM.GeneralLinksComponent",
+    "version": "13.0.52",
+    "kenticoVersions": ["13.0.0"],
+    "category": "mvc form component",
+    "tags": [ "mvc", "component", "link", "widget", "property", "page builder" ]
   }
 ]
