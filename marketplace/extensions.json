@@ -1,5 +1,16 @@
 [
 {
+    "name": "Algolia search",
+    "description": "Enables the creation of Algolia search indexes and the indexing of Xperience content tree pages using a code-first approach.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-algolia",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.16"],
+    "category": "integration",
+    "tags": ["algolia", "search", "faceted search", "personalization", ".net core"]
+},
+{
     "name": "Xperience Community: RSS Feeds",
     "description": "RSS Feed Integration for ASP.NET Core based Kentico Xperience 13.0 applications using Content Tree Routing.",
     "thumbnailUrl": "https://raw.githubusercontent.com/wiredviews/xperience-rss-feeds/main/images/wv-logo.png",
