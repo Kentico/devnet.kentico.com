@@ -1074,5 +1074,16 @@
     "kenticoVersions": ["13.0.0"],
     "category": "mvc form component",
     "tags": [ "mvc", "component", "link", "widget", "property", "page builder" ]
+  },
+  {
+    "name": "Environment Connection String Module",
+    "description": "Enables securing connection strings by enabling ContinuousIntegration.exe to use one from an environment variable instead of the web.config—common in Azure.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/bluemodus-icon.png",
+    "author": "Andrew Coats, BlueModus",
+    "sourceUrl": "https://github.com/bluemodus/KenticoCommunity.ContinuousIntegration",
+    "version": "13.0.5",
+    "kenticoVersions": ["0.0.1"],
+    "category": "module",
+    "tags": ["azure", "deployment", "security"]
   }
 ]
