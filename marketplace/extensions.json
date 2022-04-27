@@ -1085,5 +1085,16 @@
     "kenticoVersions": ["0.0.1"],
     "category": "module",
     "tags": ["azure", "deployment", "security"]
+  },
+  {
+    "name": "Page listing widget",
+    "description": "A page builder widget that enables displaying a customizable list of pages.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-listing-widget",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.52"],
+    "category": "mvc widget",
+    "tags": ["core", "component", "widget", "listing"]
   }
 ]
