@@ -1091,7 +1091,7 @@
     "description": "A page builder widget that enables displaying a customizable list of pages.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
     "author": "Kentico",
-    "sourceUrl": "https://github.com/Kentico/xperience-listing-widget”,
+    "sourceUrl": "https://github.com/Kentico/xperience-listing-widget",
     "version": "1.0.0",
     "kenticoVersions": ["13.0.52"],
     "category": "mvc widget",
