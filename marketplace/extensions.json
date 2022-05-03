@@ -1096,5 +1096,16 @@
     "kenticoVersions": ["13.0.52"],
     "category": "mvc widget",
     "tags": ["core", "component", "widget", "listing"]
+  },
+  {
+    "name": "XTM Connect for Kentico Xperience",
+    "description": "XTM Connect for Kentico CMS is an auxiliary application for both XTM Cloud and XTM Suite.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/xtm-connect/XTM-Connect-for-Kentico-Xperience/main/xtm-international-logo100x100.png",
+    "author": "XTM International",
+    "sourceUrl": "https://github.com/xtm-connect/XTM-Connect-for-Kentico-Xperience",
+    "version": "3.1.0",
+    "kenticoVersions": ["13.0.0"],
+    "category": "integration",
+    "tags": ["XTM", "translation", "integration", "XTM.Cloud"]
   }
 ]
