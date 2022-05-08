@@ -7,7 +7,7 @@
     "sourceUrl": "https://github.com/wiredviews/xperience-page-link-tag-helpers",
     "version": "1.0.0",
     "kenticoVersions": ["13.0.0"],
-    "category": "component",
+    "category": "other",
     "tags": ["link", "content", "tag helper", "asp.net core"]
 },
 {
