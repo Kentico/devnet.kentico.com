@@ -1,6 +1,6 @@
 [
 {
-    "name": "Xperience Community: Page Link Tag Helpers",
+    "name": "Page Link Tag Helpers",
     "description": "Kentico Xperience 13.0 ASP.NET Core Tag Helper that generates links to pages from NodeGUID values.",
     "thumbnailUrl": "https://raw.githubusercontent.com/wiredviews/xperience-page-link-tag-helpers/main/images/wv-logo.png",
     "author": "WiredViews",
