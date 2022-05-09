@@ -1,5 +1,16 @@
 [
 {
+    "name": "Page Link Tag Helpers",
+    "description": "Kentico Xperience 13.0 ASP.NET Core Tag Helper that generates links to pages from NodeGUID values.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/wiredviews/xperience-page-link-tag-helpers/main/images/wv-logo.png",
+    "author": "WiredViews",
+    "sourceUrl": "https://github.com/wiredviews/xperience-page-link-tag-helpers",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.0"],
+    "category": "other",
+    "tags": ["link", "content", "tag helper", "asp.net core"]
+},
+{
     "name": "Algolia search",
     "description": "Enables the creation of Algolia search indexes and the indexing of Xperience content tree pages using a code-first approach.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
