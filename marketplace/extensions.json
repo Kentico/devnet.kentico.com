@@ -2,7 +2,7 @@
 {
     "name": "Page Navigation Redirects",
     "description": "An ASP.NET Core ResourceFilter that can redirect HTTP requests to other URLs, configurable per-Page from the Xperience Administration application.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/wiredviews/xperience-page-navigation-redirects/blob/main/images/wv-logo.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/wv-logo.png",
     "author": "WiredViews",
     "sourceUrl": "https://github.com/wiredviews/xperience-page-navigation-redirects",
     "version": "1.1.0",
@@ -13,7 +13,7 @@
 {
     "name": "SVG Media Dimensions",
     "description": "Sets the width/height of SVG images when uploaded/updated in the Administration application of Kentico Xperience 13 sites.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/wiredviews/xperience-svg-media-dimensions/blob/main/images/wv-logo.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/wv-logo.png",
     "author": "WiredViews",
     "sourceUrl": "https://github.com/wiredviews/xperience-svg-media-dimensions",
     "version": "1.1.0",
@@ -24,7 +24,7 @@
 {
     "name": "Page Template Utilities",
     "description": "Utilities to help quickly create and register MVC Page Templates in Kentico Xperience.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/wiredviews/xperience-page-template-utilities/blob/main/images/wv-logo.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/wv-logo.png",
     "author": "WiredViews",
     "sourceUrl": "https://github.com/wiredviews/xperience-page-template-utilities",
     "version": "1.0.0",
@@ -35,7 +35,7 @@
 {
     "name": "Page Custom Data Control Extender",
     "description": "A Kentico Xperience Form Control Extender that syncs the Form Control value to/from Page CustomData fields.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/wiredviews/xperience-page-custom-data-control-extender/blob/main/images/wv-logo.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/wv-logo.png",
     "author": "WiredViews",
     "sourceUrl": "https://github.com/wiredviews/xperience-page-custom-data-control-extender",
     "version": "1.0.0",
@@ -46,7 +46,7 @@
 {
     "name": "Page Builder Utilities",
     "description": "ASP.NET Core Tag Helpers and abstractions for the Page Builder in Kentico Xperience applications.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/wiredviews/xperience-page-builder-utilities/blob/main/images/wv-logo.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/wv-logo.png",
     "author": "WiredViews",
     "sourceUrl": "https://github.com/wiredviews/xperience-page-builder-utilities",
     "version": "1.1.0",
@@ -57,7 +57,7 @@
 {
     "name": "Page Link Tag Helpers",
     "description": "Kentico Xperience 13.0 ASP.NET Core Tag Helper that generates links to pages from NodeGUID values.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/wiredviews/xperience-page-link-tag-helpers/main/images/wv-logo.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/wv-logo.png",
     "author": "WiredViews",
     "sourceUrl": "https://github.com/wiredviews/xperience-page-link-tag-helpers",
     "version": "1.0.0",
@@ -79,7 +79,7 @@
 {
     "name": "Xperience Community: RSS Feeds",
     "description": "RSS Feed Integration for ASP.NET Core based Kentico Xperience 13.0 applications using Content Tree Routing.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/wiredviews/xperience-rss-feeds/main/images/wv-logo.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/wv-logo.png",
     "author": "WiredViews",
     "sourceUrl": "https://github.com/wiredviews/xperience-rss-feeds",
     "version": "1.0.0",
