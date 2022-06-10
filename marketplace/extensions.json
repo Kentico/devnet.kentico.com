@@ -1,5 +1,27 @@
 [
 {
+    "name": "Dynamics 365",
+    "description": "An integration for synchronizing contacts and activities between Kentico Xperience and Microsoft Dynamics 365.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-dynamics365-sales",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.0"],
+    "category": "integration",
+    "tags": ["dynamics365", "contacts", "activities"]
+},
+{
+    "name": "Google Search Console",
+    "description": "Allows Xperience users to view the indexed status of your Xperience website pages from Google Search Console, and request re-indexing.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-google-searchconsole",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.0"],
+    "category": "integration",
+    "tags": ["google", "google search", "seo"]
+},
+{
     "name": "Page Navigation Redirects",
     "description": "An ASP.NET Core ResourceFilter that can redirect HTTP requests to other URLs, configurable per-Page from the Xperience Administration application.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/wv-logo.png",
