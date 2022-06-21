@@ -1,5 +1,16 @@
 [
 {
+    "name": "SendGrid",
+    "description": "Dispatches Xperience emails using SendGrid's Web API, handles SendGrid events, and provides an interface to manage Xperience and SendGrid suppressions.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-twilio-sendgrid",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.73"],
+    "category": "integration",
+    "tags": ["sendgrid", "email", "email marketing"]
+},
+{
     "name": "Dynamics 365",
     "description": "An integration for synchronizing contacts and activities between Kentico Xperience and Microsoft Dynamics 365.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
