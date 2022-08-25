@@ -28,6 +28,8 @@ To register your project on DevNet, it needs to satisfy the following requiremen
 -   follow [best practices for customization](https://kentico.com/CMSPages/DocLinkMapper.ashx?version=latest&link=customization_best_practices) (if applicable)
 -   (recommended) be hosted on GitHub
 
+> These requirements are automatically checked via [GitHub action](https://github.com/Kentico/devnet.kentico.com/actions/workflows/extensions-check.yml) duirng the pull request pipeline.
+
 ## Registering extensions
 
 If your extension meets the above-mentioned criteria, you can create a pull request in this repository. Projects are located in the [`extensions.json`](/marketplace/extensions.json) file. To add your project, create a new entry in the JSON object.
@@ -93,4 +95,3 @@ If you have an idea for the MVC widget, MVC inline editor, MVC from component, o
 
 If you release a new version of the extension, submit a pull request with an updated entry in the [`extensions.json`](/marketplace/extensions.json) file and provide a link to the older version in the readme file of the project. We recommend incrementing the major version in `version` when the major version of `kenticoVersion` is incremented.
 
-![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/devnet.kentico.com?pixel)
