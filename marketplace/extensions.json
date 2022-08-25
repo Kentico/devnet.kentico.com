@@ -766,5 +766,16 @@
     "kenticoVersions": ["12.0.0"],
     "category": "other",
     "tags": ["email", "template", "widget", "ems", "marketing"]
-  }
+  },
+  {
+    "name": "YouTube Video widget",
+    "description": "Widget Enables to insert the video from specified YouTube URL location.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/RBT-Xperience-Core-Components-YouTube-Video",
+    "version": "1.0.2",
+    "kenticoVersions": ["13.0.73"],
+    "category": "core widget",
+    "tags": ["core", "youtube", "youtue video", "Video","Kentico 13"]
+  },
 ]
