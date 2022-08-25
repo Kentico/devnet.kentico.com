@@ -1215,7 +1215,7 @@
     "sourceUrl": "https://github.com/vasu-rbt/RBT-Xperience-Core-Components-YouTube-Video",
     "version": "1.0.2",
     "kenticoVersions": ["13.0.73"],
-    "category": "core widget",
-    "tags": ["core", "youtube", "youtue video", "Video","Kentico 13"]
+    "category": "mvc widget",
+    "tags": ["core", "youtube", "youtue video", "Video","Kentico 13","Xperience 13"]
 	}
 ]
