@@ -1217,5 +1217,27 @@
     "kenticoVersions": ["13.0.73"],
     "category": "mvc widget",
     "tags": ["core", "youtube", "youtue video", "Video","Kentico 13","Xperience 13"]
+	},
+	  { 
+    "name": "Google Map widget",
+    "description": "It displays map obtained from the Google maps service using Latitude,Longitude and Google API Key.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/RBT-Xperience-Core-Components-Google-Map",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.73"],
+    "category": "mvc widget",
+    "tags": ["core", "google", "google map", "map","Kentico 13","Xperience 13"]
+	},
+	  { 
+    "name": "Editable Image widget",
+    "description": "It will render the image which can be seleted from media library and allows editors to add class, alt text, dimensions and redirection link to image.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/rbt-xperience-core-components-editable-image",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.73"],
+    "category": "mvc widget",
+    "tags": ["core", "Editable", "Editable image", "image","Kentico 13","Xperience 13"]
 	}
 ]
