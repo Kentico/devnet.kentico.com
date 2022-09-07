@@ -1,5 +1,16 @@
 [
 {
+    "name": "Disqus widget",
+    "description": "A pagebuilder widget which enables Disqus commenting on your Xperience by Kentico website.",
+    "thumbnailUrl": "https://github.com/Kentico/xperience-disqus/raw/xbk/img/icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-disqus/tree/xbk",
+    "version": "1.0.0",
+    "kenticoVersions": ["22.0.3"],
+    "category": "integration",
+    "tags": ["core", "component", "widget", "disqus", "comments"]
+},
+{
     "name": "SendGrid",
     "description": "Dispatches Xperience emails using SendGrid's Web API, handles SendGrid events, and provides an interface to manage Xperience and SendGrid suppressions.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
