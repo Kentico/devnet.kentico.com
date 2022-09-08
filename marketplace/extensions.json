@@ -167,7 +167,7 @@
 {
     "name": ".NET Core Breadcrumbs widget",
     "description": "Provides a widget and inline code for generating breadcrumbs on an Xperience 13 .NET Core site using content tree based routing.",
-    "thumbnailUrl": "https://github.com/kentico-ericd/devnet.kentico.com/raw/master/marketplace/assets/core-breadcrumbs.png",
+    "thumbnailUrl": "https://github.com/Kentico/xperience-google-datastudio/raw/master/img/icon.png",
     "author": "Eric Dugre",
     "sourceUrl": "https://github.com/kentico-ericd/xperience-core-breadcrumbs",
     "version": "1.0.0",
