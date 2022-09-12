@@ -1,5 +1,16 @@
 [
 {
+    "name": "hCaptcha",
+    "description": "Kentico Xperience 13.0.66 (or higher) ASP.NET Core 6.0+ Form Component that adds hCaptcha captcha validation to Form Builder forms.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/wv-logo.png",
+    "author": "WiredViews",
+    "sourceUrl": "https://github.com/wiredviews/xperience-hcaptcha",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.66"],
+    "category": "mvc form component",
+    "tags": ["asp.net core", "hcaptcha", "captcha", "component"]
+},
+{
     "name": "Disqus widget",
     "description": "A pagebuilder widget which enables Disqus commenting on your Xperience by Kentico website.",
     "thumbnailUrl": "https://github.com/Kentico/xperience-disqus/raw/xbk/img/icon.png",
