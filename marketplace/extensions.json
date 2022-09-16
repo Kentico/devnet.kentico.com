@@ -557,17 +557,6 @@
     "tags": ["integration"]
   },
   {
-    "name": "CRM Connect 2.0",
-    "description": "CRM Connect for Kentico enables the seamless integration of your digital marketing and sales efforts.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
-    "author": "EMAKINA CEE",
-    "sourceUrl": "http://kentico-emakina.de/crm-connect",
-    "version": "1.0.0",
-    "kenticoVersions": ["10.0.0", "11.0.0"],
-    "category": "integration",
-    "tags": ["integration"]
-  },
-  {
     "name": "Compare for Kentico",
     "description": "Compare for Kentico takes the fear out of deployments by allowing you to visually compare differences between multiple Kentico environments.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
