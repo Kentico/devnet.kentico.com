@@ -809,7 +809,7 @@
   {
     "name": "Recombee Content Recommendations",
     "description": "Content recommendation module integrated with Recombee: AI-powered recommending service.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/Recombee.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/assets/Recombee.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-module-recombee",
     "version": "0.0.1-preview",
