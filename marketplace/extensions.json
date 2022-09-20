@@ -167,7 +167,7 @@
 {
     "name": "Event Calendar",
     "description": "Custom .NET Core ViewComponents meant for displaying calendars of events and enabling event registration using a customizable, modern javascript library.",
-    "thumbnailUrl": "https://github.com/Kentico/xperience-core-events/raw/master/img/thumbnail.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/xperience-icon.png",
     "author": "Eric Dugre",
     "sourceUrl": "https://github.com/Kentico/xperience-core-events",
     "version": "1.0.3",
@@ -178,7 +178,7 @@
 {
     "name": ".NET Core Breadcrumbs widget",
     "description": "Provides a widget and inline code for generating breadcrumbs on an Xperience 13 .NET Core site using content tree based routing.",
-    "thumbnailUrl": "https://github.com/Kentico/xperience-google-datastudio/raw/master/img/icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/xperience-icon.png",
     "author": "Eric Dugre",
     "sourceUrl": "https://github.com/kentico-ericd/xperience-core-breadcrumbs",
     "version": "1.0.0",
