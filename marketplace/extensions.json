@@ -579,17 +579,6 @@
     "tags": ["integration"]
   },
   {
-    "name": "Sage Pay Payment Gateway for Kentico",
-    "description": "Sage Pay is a secure credit card and debit card payment solution. It is used by thousands of online and mail order businesses across the UK and Eire.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
-    "author": "Discover IT",
-    "sourceUrl": "https://www.ecommerce-connect.co.uk/Sage-Pay-Payment-Gateway-for-Kentico.aspx",
-    "version": "1.0.0",
-    "kenticoVersions": ["10.0.0", "11.0.0"],
-    "category": "integration",
-    "tags": ["integration"]
-  },
-  {
     "name": "Bootstrap 4 Layout Tool",
     "description": "Kentico MVC Page Builder Section that allows you to configure the number of columns, sizes, additional classes, etc.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/bootstrap-icon.png",
