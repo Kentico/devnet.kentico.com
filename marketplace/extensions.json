@@ -24,7 +24,7 @@
 {
     "name": "SendGrid",
     "description": "Dispatches Xperience emails using SendGrid's Web API, handles SendGrid events, and provides an interface to manage Xperience and SendGrid suppressions.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-twilio-sendgrid/master/img/icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-twilio-sendgrid",
     "version": "1.0.0",
@@ -35,7 +35,7 @@
 {
     "name": "Dynamics 365",
     "description": "An integration for synchronizing contacts and activities between Kentico Xperience and Microsoft Dynamics 365.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-dynamics365-sales/master/Assets/icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-dynamics365-sales",
     "version": "1.0.0",
@@ -46,7 +46,7 @@
 {
     "name": "Google Search Console",
     "description": "Allows Xperience users to view the indexed status of your Xperience website pages from Google Search Console, and request re-indexing.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-google-searchconsole/master/Assets/icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-google-searchconsole",
     "version": "1.0.0",
@@ -123,7 +123,7 @@
 {
     "name": "Algolia search",
     "description": "Enables the creation of Algolia search indexes and the indexing of Xperience content tree pages using a code-first approach.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-algolia/master/img/icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-algolia",
     "version": "1.0.0",
@@ -145,7 +145,7 @@
 {
     "name": "Jira Automation",
     "description": "Provides custom Workflow and Marketing automation actions to integrate Jira issues with Kentico Xperience.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-jira/master/assets/icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-jira",
     "version": "1.0.4",
@@ -167,7 +167,7 @@
 {
     "name": "Event Calendar",
     "description": "Custom .NET Core ViewComponents meant for displaying calendars of events and enabling event registration using a customizable, modern javascript library.",
-    "thumbnailUrl": "https://github.com/Kentico/xperience-core-events/raw/master/img/thumbnail.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/xperience-icon.png",
     "author": "Eric Dugre",
     "sourceUrl": "https://github.com/Kentico/xperience-core-events",
     "version": "1.0.3",
@@ -178,7 +178,7 @@
 {
     "name": ".NET Core Breadcrumbs widget",
     "description": "Provides a widget and inline code for generating breadcrumbs on an Xperience 13 .NET Core site using content tree based routing.",
-    "thumbnailUrl": "https://github.com/Kentico/xperience-google-datastudio/raw/master/img/icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/xperience-icon.png",
     "author": "Eric Dugre",
     "sourceUrl": "https://github.com/kentico-ericd/xperience-core-breadcrumbs",
     "version": "1.0.0",
@@ -568,17 +568,6 @@
     "tags": ["integration"]
   },
   {
-    "name": "Sage Pay Payment Gateway for Kentico",
-    "description": "Sage Pay is a secure credit card and debit card payment solution. It is used by thousands of online and mail order businesses across the UK and Eire.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
-    "author": "Discover IT",
-    "sourceUrl": "https://www.ecommerce-connect.co.uk/Sage-Pay-Payment-Gateway-for-Kentico.aspx",
-    "version": "1.0.0",
-    "kenticoVersions": ["10.0.0", "11.0.0"],
-    "category": "integration",
-    "tags": ["integration"]
-  },
-  {
     "name": "Bootstrap 4 Layout Tool",
     "description": "Kentico MVC Page Builder Section that allows you to configure the number of columns, sizes, additional classes, etc.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/bootstrap-icon.png",
@@ -798,7 +787,7 @@
   {
     "name": "Recombee Content Recommendations",
     "description": "Content recommendation module integrated with Recombee: AI-powered recommending service.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/Recombee.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/assets/Recombee.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-module-recombee",
     "version": "0.0.1-preview",
