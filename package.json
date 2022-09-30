@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/Kentico/devnet.kentico.com#readme",
   "devDependencies": {
-    "@hapi/joi": "^15.1.0"
+    "@hapi/joi": "^15.1.1"
   }
 }
