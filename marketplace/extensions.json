@@ -11,7 +11,7 @@
     "tags": ["integration", "bynder", "digital asset management", "form component"]
 },
 {
-    "name": "Google Looker Studio (formerly Data Studio)",
+    "name": "Google Looker Studio (Data Studio)",
     "description": "Use data from your Kentico Xperience website in Looker Studio reports.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-google-datastudio/master/img/icon.png",
     "author": "Kentico",
