@@ -809,7 +809,7 @@
   {
     "name": "YouTube Video Selector",
     "description": "Enables the editor to search for videos on YouTube using plain-text to lookup by title or ID. Advanced settings allow for control of the video embed.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/mattnield/kentico-youtube-selector-widget/master/youtube_social_icon_red.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "Matt Nield - Ridgeway",
     "sourceUrl": "https://github.com/mattnield/kentico-youtube-selector-widget",
     "version": "1.0.0",
@@ -1177,7 +1177,7 @@
   {
    "name": "Filter Cards List By Categories Widget",
    "description": "Widget displays page types list and categories filter that allowing pages to be filtered by categories",
-   "thumbnailUrl": "https://github.com/mzhokh/FilterByCategoryWidget/blob/main/FilterByCategoryWidget/bo_logo.png",
+   "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
    "author": "BitsOrchestra",
    "sourceUrl": "https://github.com/mzhokh/FilterByCategoryWidget/tree/main/FilterByCategoryWidget",
    "version": "1.0.0",
