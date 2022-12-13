@@ -1,5 +1,16 @@
 [
 {
+    "name": "Twilio SMS",
+    "description": "Integrates the Twilio SMS API and provides a Marketing Automation action to send messages to your customers.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-twilio-sms/master/img/icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-twilio-sms",
+    "version": "0.0.4",
+    "kenticoVersions": ["13.0.73"],
+    "category": "integration",
+    "tags": ["twilio", "sms", "marketing automation"]
+},
+{
     "name": "Xperience by Kentico Algolia Search",
     "description": "Enables the creation of Algolia search indexes and the indexing of Xperience content tree pages using a code-first approach.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-by-kentico-algolia/master/img/icon.png",
