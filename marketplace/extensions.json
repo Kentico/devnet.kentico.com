@@ -1246,7 +1246,7 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/xtm-connect/XTM-Connect-for-Kentico-Xperience/main/xtm-international-logo100x100.png",
     "author": "XTM International",
     "sourceUrl": "https://github.com/xtm-connect/XTM-Connect-for-Kentico-Xperience",
-    "version": "3.1.0",
+    "version": "3.1.1",
     "kenticoVersions": ["13.0.0"],
     "category": "integration",
     "tags": ["XTM", "translation", "integration", "XTM.Cloud"]
