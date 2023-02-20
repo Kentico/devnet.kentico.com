@@ -634,6 +634,17 @@
     "tags": ["menu", "navigation"]
   },
   {
+    "name": "Multiple Page Selector",
+    "description": "A form control which allows for Multiple Page selection on Page Types and other areas of the Kentico Xeprience 13 administration application",
+    "thumbnailUrl": "https://raw.githubusercontent.com/netconstruct/kentico-xperience-13-multiple-page-selector/main/images/NC-GitHub-Logo.png",
+    "author": "NetConstruct",
+    "sourceUrl": "https://github.com/netconstruct/kentico-xperience-13-multiple-page-selector",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.0"],
+    "category": "other",
+    "tags": ["form component", "page selector", "multiple"]
+  },
+  {
     "name": "Tiny MCE Wysiwyg Editor",
     "description": "Adds TinyMCE 5 wysiwyg editor capabilities for MVC. Includes Editable Text, Rich Text, and the TinyMCE Inline form component.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/tinymce.png",
