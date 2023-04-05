@@ -1294,5 +1294,16 @@
     "kenticoVersions": ["13.0.73"],
     "category": "mvc widget",
     "tags": ["core", "Editable", "Editable image", "image","Kentico 13","Xperience 13"]
-	}
+	},
+  {
+   "name": "TreeNode Selector Form Control",
+   "description": "This Kentico Xperience form control provides a tree-based selector, with configurable page type and path filters.",
+   "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/bluemodus-icon.png",
+   "author": "Mike Wills, BlueModus",
+   "sourceUrl": "https://github.com/heywills/xperience-treenode-selector-form-control",
+   "version": "1.0.2",
+   "kenticoVersions": ["13.0.0"],
+   "category": "other",
+   "tags": ["form control", "content", "web forms", "page types", "selector"]
+  }
 ]
