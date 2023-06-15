@@ -1295,6 +1295,17 @@
     "category": "mvc widget",
     "tags": ["core", "Editable", "Editable image", "image","Kentico 13","Xperience 13"]
 	},
+	  { 
+    "name": "font-awesome-form-component-master",
+    "description": "It will render the image which can be seleted from media library and allows editors to add class, alt text, dimensions and redirection link to image.",
+    "thumbnailUrl": "https://github.com/Tapasyamahor1/font-awesome-form-component-master.git",
+    "author": "Tapasya",
+    "sourceUrl": "https://github.com/Tapasyamahor1/font-awesome-form-component-master.git",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.73"],
+    "category": "mvc widget",
+    "tags": ["core", "Editable", "Editable image", "image","Kentico 13","Xperience 13"]
+	},
   {
    "name": "TreeNode Selector Form Control",
    "description": "This Kentico Xperience form control provides a tree-based selector, with configurable page type and path filters.",
