@@ -655,6 +655,21 @@
     "category": "mvc widget",
     "tags": ["wysiwyg", "tinymce", "rich text", "editable text", "html"]
   },
+
+ {
+    "name": "Add widget in rich taxt  editor in cms containt",
+    "description": "Add widget in rich taxt  editor in cms containt",
+    "thumbnailUrl": "https://github.com/Tapasyamahor1/widgetineditablearea.git",
+    "author": "Tapasya Mahor",
+    "sourceUrl": "https://github.com/Tapasyamahor1/widgetineditablearea.git",
+    "version": "13.0.0",
+    "kenticoVersions": ["13.0.0"],
+    "category": "mvc widget",
+    "tags": ["wysiwyg", "tinymce", "rich text", "editable text", "html"]
+  },
+
+
+	
   {
     "name": "Partial Widget Page",
     "description": "Allows you to render a Page Builder page as a partial to be included on another page. Similar to Portal Engine's Page Placeholder.",
