@@ -1304,7 +1304,7 @@
     "version": "1.0.0",
     "kenticoVersions": ["13.0.73"],
     "category": "mvc widget",
-    "tags": ["core", "Link", "Linkbutton", "button","Kentico 13","Xperience 13"]
+    "tags": ["core", "Link", "Linkbutton", "button","Kentico 13","Xperience 13","Kentico"]
 	},
   {
    "name": "TreeNode Selector Form Control",
