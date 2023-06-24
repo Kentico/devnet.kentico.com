@@ -1,8 +1,74 @@
 [
 {
+    "name": "Twilio SMS",
+    "description": "Integrates the Twilio SMS API and provides a Marketing Automation action to send messages to your customers.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-twilio-sms/master/img/icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-twilio-sms",
+    "version": "0.0.4",
+    "kenticoVersions": ["13.0.73"],
+    "category": "integration",
+    "tags": ["twilio", "sms", "marketing automation"]
+},
+{
+    "name": "Xperience by Kentico Algolia Search",
+    "description": "Enables the creation of Algolia search indexes and the indexing of Xperience content tree pages using a code-first approach.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-by-kentico-algolia/master/img/icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-by-kentico-algolia",
+    "version": "1.0.0",
+    "kenticoVersions": ["22.3.0"],
+    "category": "integration",
+    "tags": ["algolia", "search", "faceted search", "personalization", ".net core"]
+},
+{
+    "name": "Bynder image selector",
+    "description": "Adds the Bynder image selector form control for Xperience administration forms.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/xperience-icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-module-bynder",
+    "version": "0.1.1",
+    "kenticoVersions": ["13.0.0"],
+    "category": "integration",
+    "tags": ["integration", "bynder", "digital asset management", "form component"]
+},
+{
+    "name": "Looker Studio",
+    "description": "Use data from your Kentico Xperience website in Looker Studio reports.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-google-lookerstudio/master/img/icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-google-lookerstudio",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.0"],
+    "category": "integration",
+    "tags": ["data studio", "reporting", "analytics", "looker studio"]
+},
+{
+    "name": "hCaptcha",
+    "description": "Kentico Xperience 13.0.66 (or higher) ASP.NET Core 6.0+ Form Component that adds hCaptcha captcha validation to Form Builder forms.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/wv-logo.png",
+    "author": "WiredViews",
+    "sourceUrl": "https://github.com/wiredviews/xperience-hcaptcha",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.66"],
+    "category": "mvc form component",
+    "tags": ["asp.net core", "hcaptcha", "captcha", "component"]
+},
+{
+    "name": "Disqus widget",
+    "description": "A pagebuilder widget which enables Disqus commenting on your Xperience by Kentico website.",
+    "thumbnailUrl": "https://github.com/Kentico/xperience-disqus/raw/xbk/img/icon.png",
+    "author": "Kentico",
+    "sourceUrl": "https://github.com/Kentico/xperience-disqus/tree/xbk",
+    "version": "1.0.0",
+    "kenticoVersions": ["22.0.3"],
+    "category": "integration",
+    "tags": ["core", "component", "widget", "disqus", "comments"]
+},
+{
     "name": "SendGrid",
     "description": "Dispatches Xperience emails using SendGrid's Web API, handles SendGrid events, and provides an interface to manage Xperience and SendGrid suppressions.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-twilio-sendgrid/master/img/icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-twilio-sendgrid",
     "version": "1.0.0",
@@ -13,7 +79,7 @@
 {
     "name": "Dynamics 365",
     "description": "An integration for synchronizing contacts and activities between Kentico Xperience and Microsoft Dynamics 365.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-dynamics365-sales/master/Assets/icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-dynamics365-sales",
     "version": "1.0.0",
@@ -24,7 +90,7 @@
 {
     "name": "Google Search Console",
     "description": "Allows Xperience users to view the indexed status of your Xperience website pages from Google Search Console, and request re-indexing.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-google-searchconsole/master/Assets/icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-google-searchconsole",
     "version": "1.0.0",
@@ -101,7 +167,7 @@
 {
     "name": "Algolia search",
     "description": "Enables the creation of Algolia search indexes and the indexing of Xperience content tree pages using a code-first approach.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-algolia/master/img/icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-algolia",
     "version": "1.0.0",
@@ -123,7 +189,7 @@
 {
     "name": "Jira Automation",
     "description": "Provides custom Workflow and Marketing automation actions to integrate Jira issues with Kentico Xperience.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/kentico-icon.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-jira/master/assets/icon.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-jira",
     "version": "1.0.4",
@@ -145,7 +211,7 @@
 {
     "name": "Event Calendar",
     "description": "Custom .NET Core ViewComponents meant for displaying calendars of events and enabling event registration using a customizable, modern javascript library.",
-    "thumbnailUrl": "https://github.com/Kentico/xperience-core-events/raw/master/img/thumbnail.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/xperience-icon.png",
     "author": "Eric Dugre",
     "sourceUrl": "https://github.com/Kentico/xperience-core-events",
     "version": "1.0.3",
@@ -156,7 +222,7 @@
 {
     "name": ".NET Core Breadcrumbs widget",
     "description": "Provides a widget and inline code for generating breadcrumbs on an Xperience 13 .NET Core site using content tree based routing.",
-    "thumbnailUrl": "https://github.com/kentico-ericd/devnet.kentico.com/raw/master/marketplace/assets/core-breadcrumbs.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/xperience-icon.png",
     "author": "Eric Dugre",
     "sourceUrl": "https://github.com/kentico-ericd/xperience-core-breadcrumbs",
     "version": "1.0.0",
@@ -535,17 +601,6 @@
     "tags": ["integration"]
   },
   {
-    "name": "CRM Connect 2.0",
-    "description": "CRM Connect for Kentico enables the seamless integration of your digital marketing and sales efforts.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
-    "author": "EMAKINA CEE",
-    "sourceUrl": "http://kentico-emakina.de/crm-connect",
-    "version": "1.0.0",
-    "kenticoVersions": ["10.0.0", "11.0.0"],
-    "category": "integration",
-    "tags": ["integration"]
-  },
-  {
     "name": "Compare for Kentico",
     "description": "Compare for Kentico takes the fear out of deployments by allowing you to visually compare differences between multiple Kentico environments.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
@@ -553,17 +608,6 @@
     "sourceUrl": "https://www.bizstreamtoolkit.com/products/compare",
     "version": "1.0.0",
     "kenticoVersions": ["10.0.0"],
-    "category": "integration",
-    "tags": ["integration"]
-  },
-  {
-    "name": "Sage Pay Payment Gateway for Kentico",
-    "description": "Sage Pay is a secure credit card and debit card payment solution. It is used by thousands of online and mail order businesses across the UK and Eire.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
-    "author": "Discover IT",
-    "sourceUrl": "https://www.ecommerce-connect.co.uk/Sage-Pay-Payment-Gateway-for-Kentico.aspx",
-    "version": "1.0.0",
-    "kenticoVersions": ["10.0.0", "11.0.0"],
     "category": "integration",
     "tags": ["integration"]
   },
@@ -588,6 +632,17 @@
     "kenticoVersions": ["12.0.33"],
     "category": "module",
     "tags": ["menu", "navigation"]
+  },
+  {
+    "name": "Multiple Page Selector",
+    "description": "A form control which allows for Multiple Page selection on Page Types and other areas of the Kentico Xeprience 13 administration application",
+    "thumbnailUrl": "https://raw.githubusercontent.com/netconstruct/kentico-xperience-13-multiple-page-selector/main/images/NC-GitHub-Logo.png",
+    "author": "NetConstruct",
+    "sourceUrl": "https://github.com/netconstruct/kentico-xperience-13-multiple-page-selector",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.0"],
+    "category": "other",
+    "tags": ["form component", "page selector", "multiple"]
   },
   {
     "name": "Tiny MCE Wysiwyg Editor",
@@ -776,7 +831,7 @@
   {
     "name": "YouTube Video Selector",
     "description": "Enables the editor to search for videos on YouTube using plain-text to lookup by title or ID. Advanced settings allow for control of the video embed.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/mattnield/kentico-youtube-selector-widget/master/youtube_social_icon_red.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "Matt Nield - Ridgeway",
     "sourceUrl": "https://github.com/mattnield/kentico-youtube-selector-widget",
     "version": "1.0.0",
@@ -787,7 +842,7 @@
   {
     "name": "Recombee Content Recommendations",
     "description": "Content recommendation module integrated with Recombee: AI-powered recommending service.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/Recombee.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
     "author": "Kentico",
     "sourceUrl": "https://github.com/Kentico/xperience-module-recombee",
     "version": "0.0.1-preview",
@@ -1144,7 +1199,7 @@
   {
    "name": "Filter Cards List By Categories Widget",
    "description": "Widget displays page types list and categories filter that allowing pages to be filtered by categories",
-   "thumbnailUrl": "https://github.com/mzhokh/FilterByCategoryWidget/blob/main/FilterByCategoryWidget/bo_logo.png",
+   "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/generic-integration.png",
    "author": "BitsOrchestra",
    "sourceUrl": "https://github.com/mzhokh/FilterByCategoryWidget/tree/main/FilterByCategoryWidget",
    "version": "1.0.0",
@@ -1202,7 +1257,7 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/xtm-connect/XTM-Connect-for-Kentico-Xperience/main/xtm-international-logo100x100.png",
     "author": "XTM International",
     "sourceUrl": "https://github.com/xtm-connect/XTM-Connect-for-Kentico-Xperience",
-    "version": "3.1.0",
+    "version": "3.1.1",
     "kenticoVersions": ["13.0.0"],
     "category": "integration",
     "tags": ["XTM", "translation", "integration", "XTM.Cloud"]
@@ -1250,5 +1305,16 @@
     "kenticoVersions": ["13.0.73"],
     "category": "mvc widget",
     "tags": ["core", "Link", "Linkbutton", "button","Kentico 13","Xperience 13"]
-	}
+	},
+  {
+   "name": "TreeNode Selector Form Control",
+   "description": "This Kentico Xperience form control provides a tree-based selector, with configurable page type and path filters.",
+   "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/bluemodus-icon.png",
+   "author": "Mike Wills, BlueModus",
+   "sourceUrl": "https://github.com/heywills/xperience-treenode-selector-form-control",
+   "version": "1.0.2",
+   "kenticoVersions": ["13.0.0"],
+   "category": "other",
+   "tags": ["form control", "content", "web forms", "page types", "selector"]
+  }
 ]
