@@ -70,20 +70,18 @@ The [`extensions.json`](/marketplace/extensions.json) file contains details abou
 | name      | string | Name of the extension (max. 40 characters). |
 | description      | string | Description of the extension (max. 160 characters). |
 | thumbnailUrl<sup>1</sup>      | string | Url to the thumbnail image describing the extension, or the author (must be jpg/jpeg/png with 100x100px resolution and accessed using secure HTTPS). |
-| author<sup>2</sup>      | string | Name of the author and/or company (max. 40 characters). |
+| author      | string | Name of the author and/or company (max. 40 characters). |
 | sourceUrl      | string | URL to access the extension (must use secure HTTPS). |
-| version<sup>3</sup>      | string | Latest version of the extension (must follow the [semantic versioning](https://semver.org)). |
-| kenticoVersions<sup>4</sup>      | array of strings | supported Kentico versions (version entries must follow the [semantic versioning](https://semver.org)). |
+| version<sup>2</sup>      | string | Latest version of the extension (must follow the [semantic versioning](https://semver.org)). |
+| kenticoVersions<sup>3</sup>      | array of strings | supported Kentico versions (version entries must follow the [semantic versioning](https://semver.org)). |
 | category      | string | Category of the extension. Use one of the following: `module`, `webpart`, `website template`, `utility`, `mvc widget`, `mvc section`, `mvc form component`, `mvc inline editor`, `mvc personalization condition type`, `integration`, `other`. |
 | tags      | array of strings | List of tags you want to apply to the extension. |
 
-> <sup>1</sup> You can store the icon in the [/marketplace/assets](/marketplace/assets) folder as a part of the pull request and use URL format as showcased in the [example configuration](#example-configuration). [Kentico icon](/marketplace/assets/kentico-icon.png) is reserved for extesnions developed by Kentico.
+> <sup>1</sup> You can store the icon in the [/marketplace/assets](/marketplace/assets) folder as a part of the pull request and use URL format as showcased in the [example configuration](#example-configuration). [Kentico icon](/marketplace/assets/kentico-icon.png) is reserved for extensions developed by Kentico.
 
-> <sup>2</sup> If you want your submissions to count towards the [Kentico Partners program](https://www.kentico.com/partners), you need to provide the company name.
+> <sup>2</sup> It is recommended to start your version numbering from `1.0.0`, but there are no limitations other than the versioning needs to follow the [semantic versioning](https://semver.org). Specified extension version needs to be compatible with the latest specified Kentico version.
 
-> <sup>3</sup> It is recommended to start your version numbering from `1.0.0`, but there are no limitations other than the versioning needs to follow the [semantic versioning](https://semver.org). Specified extension version needs to be compatible with the latest specified Kentico version.
-
-> <sup>4</sup> The version of the Kentico EMS with which the extension is compatible. The array is used to keep track of what Kentico versions were supported in previous extension releases. The latest Kentico version needs to be bound with the `version` property. A recommended approach is to keep a table mapping the extension version to Kentico EMS version in the readme file of the project. Use `12.0.29` for Kentico 12 Service pack.
+> <sup>3</sup> The version of the Kentico EMS with which the extension is compatible. The array is used to keep track of what Kentico versions were supported in previous extension releases. The latest Kentico version needs to be bound with the `version` property. A recommended approach is to keep a table mapping the extension version to Kentico EMS version in the readme file of the project. Use `12.0.29` for Kentico 12 Service pack.
 
 ## Extension Ideas/Suggestions 
 

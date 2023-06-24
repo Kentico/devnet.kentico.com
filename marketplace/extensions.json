@@ -1295,7 +1295,7 @@
     "category": "mvc widget",
     "tags": ["core", "Editable", "Editable image", "image","Kentico 13","Xperience 13"]
 	},
-  	  { 
+  { 
     "name": "Linkbutton widget",
     "description": "Displays a hyperlink to a specified target URL. The link can be rendered in text format.",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
