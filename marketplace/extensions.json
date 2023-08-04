@@ -1307,7 +1307,7 @@
    "tags": ["form control", "content", "web forms", "page types", "selector"]
   },
   {
-    "name": "Bootstrap MultiSelect Dropdown Form Control",
+    "name": "MultiSelect Dropdown Form Control",
     "description": "Multiselect dropdown field in page types allows to select multiple values from a dropdown.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/K2America.png",
     "author": "Nikhila Pocha, K2America",
