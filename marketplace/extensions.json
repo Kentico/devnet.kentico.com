@@ -1305,5 +1305,16 @@
    "kenticoVersions": ["13.0.0"],
    "category": "other",
    "tags": ["form control", "content", "web forms", "page types", "selector"]
+  },
+  {
+    "name": "MultiSelect Dropdown Form Control",
+    "description": "Multiselect dropdown field in page types allows to select multiple values from a dropdown.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/devnet.kentico.com/master/marketplace/assets/K2America.png",
+    "author": "Nikhila Pocha, K2America",
+    "sourceUrl": "https://github.com/k2AmericaLLC/BootstrapMultiselectDropdownFormControl",
+    "version": "1.0.0",
+    "kenticoVersions": [ "13.0.104" ],
+    "category": "other",
+    "tags": [ "core", "form control", "Kentico 13", "Xperience 13" ]
   }
 ]
