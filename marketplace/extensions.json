@@ -1314,7 +1314,7 @@
     "sourceUrl": "https://github.com/k2AmericaLLC/BootstrapMultiselectDropdownFormControl",
     "version": "1.0.0",
     "kenticoVersions": [ "13.0.104" ],
-    "category": "form control",
+    "category": "other",
     "tags": [ "core", "form control", "Kentico 13", "Xperience 13" ]
   }
 ]
