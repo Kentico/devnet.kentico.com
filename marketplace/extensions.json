@@ -1316,5 +1316,16 @@
     "kenticoVersions": [ "13.0.104" ],
     "category": "other",
     "tags": [ "core", "form control", "Kentico 13", "Xperience 13" ]
+  },
+  {
+    "name": "Bootstrap date picker",
+    "description": "Date Picker field in page types allows to select date and time from a calendar.",
+    "thumbnailUrl": "https://github.com/k2AmericaLLC/Utility/blob/main/assets/images/K2America.png",
+    "author": "Nikhila Pocha, K2America",
+    "sourceUrl": "https://github.com/k2AmericaLLC/BootstrapDatePicker",
+    "version": "1.0.0",
+    "kenticoVersions": [ "13.0.104" ],
+    "category": "other",
+    "tags": [ "core", "form control", "Kentico 13", "Xperience 13" ]
   }
 ]
