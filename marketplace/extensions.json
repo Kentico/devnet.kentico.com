@@ -1309,7 +1309,7 @@
   {
     "name": "MultiSelect Dropdown Form Control",
     "description": "Multiselect dropdown field in page types allows to select multiple values from a dropdown.",
-    "thumbnailUrl": "https://github.com/k2AmericaLLC/Utility/blob/main/assets/images/K2America.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/k2AmericaLLC/Utility/main/assets/images/K2America.png",
     "author": "Nikhila Pocha, K2America",
     "sourceUrl": "https://github.com/k2AmericaLLC/BootstrapMultiselectDropdownFormControl",
     "version": "1.0.0",
@@ -1320,7 +1320,7 @@
   {
     "name": "Bootstrap date picker",
     "description": "Date Picker field in page types allows to select date and time from a calendar.",
-    "thumbnailUrl": "https://github.com/k2AmericaLLC/Utility/blob/main/assets/images/K2America.png",
+    "thumbnailUrl": "https://raw.githubusercontent.com/k2AmericaLLC/Utility/main/assets/images/K2America.png",
     "author": "Nikhila Pocha, K2America",
     "sourceUrl": "https://github.com/k2AmericaLLC/BootstrapDatePicker",
     "version": "1.0.0",
