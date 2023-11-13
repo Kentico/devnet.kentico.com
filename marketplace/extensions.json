@@ -823,8 +823,8 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/drilic/kentico-mvcwidget-fullcalendar/master/exlrt-logo-clear.png",
     "author": "Dragoljub Ilic (EXLRT)",
     "sourceUrl": "https://github.com/drilic/kentico-mvcwidget-fullcalendar/",
-    "version": "1.0.0",
-    "kenticoVersions": ["12.0.41"],
+    "version": "2.0.0",
+    "kenticoVersions": ["12.0.41", "13.0.97"],
     "category": "mvc widget",
     "tags": ["mvc", "widget", "calendar", "fullCalendar", "events"]
   },
@@ -1316,5 +1316,27 @@
    "kenticoVersions": ["13.0.0"],
    "category": "other",
    "tags": ["form control", "content", "web forms", "page types", "selector"]
+  },
+  {
+    "name": "MultiSelect Dropdown Form Control",
+    "description": "Multiselect dropdown field in page types allows to select multiple values from a dropdown.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/k2AmericaLLC/Utility/main/assets/images/K2America.png",
+    "author": "Nikhila Pocha, K2America",
+    "sourceUrl": "https://github.com/k2AmericaLLC/BootstrapMultiselectDropdownFormControl",
+    "version": "1.0.0",
+    "kenticoVersions": [ "13.0.104" ],
+    "category": "other",
+    "tags": [ "core", "form control", "Kentico 13", "Xperience 13" ]
+  },
+  {
+    "name": "Bootstrap date picker",
+    "description": "Date Picker field in page types allows to select date and time from a calendar.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/k2AmericaLLC/Utility/main/assets/images/K2America.png",
+    "author": "Nikhila Pocha, K2America",
+    "sourceUrl": "https://github.com/k2AmericaLLC/BootstrapDatePicker",
+    "version": "1.0.0",
+    "kenticoVersions": [ "13.0.104" ],
+    "category": "other",
+    "tags": [ "core", "form control", "Kentico 13", "Xperience 13" ]
   }
 ]
