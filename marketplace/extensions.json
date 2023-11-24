@@ -1338,5 +1338,16 @@
     "kenticoVersions": [ "13.0.104" ],
     "category": "other",
     "tags": [ "core", "form control", "Kentico 13", "Xperience 13" ]
-  }
+  },
+  { 
+    "name": "Reapeter widget",
+    "description": "The Repeater Widget is a flexible tool for automatically organizing lots of content as repeated items in accordions or columns and rows.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/RBT-Xperience-Core-Components-Repeater",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.64"],
+    "category": "mvc widget",
+    "tags": ["core", "Repeater", "widget","Kentico 13","Xperience 13","Kentico", "Core"]
+	}
 ]
