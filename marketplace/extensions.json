@@ -1,5 +1,16 @@
 [
 {
+    "name": "Content Type Depending Field Components",
+    "description": "Adds custom form components to Xperience by Kentico which allows developers to configure depending field functionality in the administration UI.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/Home/main/images/logo_nuget.png",
+    "author": "Eric Dugre",
+    "sourceUrl": "https://github.com/kentico-ericd/xperience-depending-field-components",
+    "version": "1.0.0",
+    "kenticoVersions": ["27.0.0", "28.0.0"],
+    "category": "mvc form component",
+    "tags": ["component", "visibility", "condition"]
+},
+{
     "name": "Twilio SMS",
     "description": "Integrates the Twilio SMS API and provides a Marketing Automation action to send messages to your customers.",
     "thumbnailUrl": "https://raw.githubusercontent.com/Kentico/xperience-twilio-sms/master/img/icon.png",
