@@ -625,8 +625,8 @@
   {
     "name": "Multiple Page Selector",
     "description": "A form control which allows for Multiple Page selection on Page Types and other areas of the Kentico Xeprience 13 administration application",
-    "thumbnailUrl": "https://raw.githubusercontent.com/netconstruct/kentico-xperience-13-multiple-page-selector/main/images/NC-GitHub-Logo.png",
-    "author": "NetConstruct",
+    "thumbnailUrl": "https://raw.githubusercontent.com/netconstruct/kentico-xperience-13-multiple-page-selector/main/images/weareidhl_logo.jpg",
+    "author": "IDHL",
     "sourceUrl": "https://github.com/netconstruct/kentico-xperience-13-multiple-page-selector",
     "version": "1.0.0",
     "kenticoVersions": ["13.0.0"],
