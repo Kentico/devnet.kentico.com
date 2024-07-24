@@ -1262,6 +1262,17 @@
     "category": "mvc widget",
     "tags": ["core", "Editable", "Editable image", "image","Kentico 13","Xperience 13"]
 	},
+  { 
+    "name": "Linkbutton widget",
+    "description": "Displays a hyperlink to a specified target URL. The link can be rendered in text format.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/RBT-Xperience-Core-Components-LinkButton",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.73"],
+    "category": "mvc widget",
+    "tags": ["core", "Link", "Linkbutton", "button","Kentico 13","Xperience 13","Kentico"]
+	},
   {
    "name": "TreeNode Selector Form Control",
    "description": "This Kentico Xperience form control provides a tree-based selector, with configurable page type and path filters.",
@@ -1294,5 +1305,16 @@
     "kenticoVersions": [ "13.0.104" ],
     "category": "other",
     "tags": [ "core", "form control", "Kentico 13", "Xperience 13" ]
-  }
+  },
+  { 
+    "name": "Reapeter widget",
+    "description": "The Repeater Widget is a flexible tool for automatically organizing lots of content as repeated items in accordions or columns and rows.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasu-rbt/devnet.kentico.com/master/marketplace/assets/raybiztech-logo.png",
+    "author": "Ray Business Technologies Pvt Ltd.",
+    "sourceUrl": "https://github.com/vasu-rbt/RBT-Xperience-Core-Components-Repeater",
+    "version": "1.0.0",
+    "kenticoVersions": ["13.0.64"],
+    "category": "mvc widget",
+    "tags": ["core", "Repeater", "widget","Kentico 13","Xperience 13","Kentico", "Core"]
+	}
 ]
