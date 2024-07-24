@@ -623,21 +623,10 @@
     "tags": ["section", "bootstrap", "columns"]
   },
   {
-    "name": "Menus Modules",
-    "description": "This module allows navigation menus to be managed in a central location so that the same menu can be added to multiple pages and updated in one place.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/netconstruct/menus-module/master/assets/NC-GitHub-Logo.png",
-    "author": "NetConstruct",
-    "sourceUrl": "https://github.com/netconstruct/menus-module",
-    "version": "2.0.1",
-    "kenticoVersions": ["12.0.33"],
-    "category": "module",
-    "tags": ["menu", "navigation"]
-  },
-  {
     "name": "Multiple Page Selector",
     "description": "A form control which allows for Multiple Page selection on Page Types and other areas of the Kentico Xeprience 13 administration application",
-    "thumbnailUrl": "https://raw.githubusercontent.com/netconstruct/kentico-xperience-13-multiple-page-selector/main/images/NC-GitHub-Logo.png",
-    "author": "NetConstruct",
+    "thumbnailUrl": "https://raw.githubusercontent.com/netconstruct/kentico-xperience-13-multiple-page-selector/main/images/weareidhl_logo.jpg",
+    "author": "IDHL",
     "sourceUrl": "https://github.com/netconstruct/kentico-xperience-13-multiple-page-selector",
     "version": "1.0.0",
     "kenticoVersions": ["13.0.0"],
@@ -709,28 +698,6 @@
     "kenticoVersions": ["12.0.29"],
     "category": "mvc form component",
     "tags": ["date", "picker", "datetime", "date time"]
-  },
-  {
-    "name": "Font Awesome Form Component",
-    "description": "Adds the ability for a content editor to select a Font Awesome 5.x icon from a modal popup.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/liamgold/font-awesome-form-component/master/img/netconstruct.png",
-    "author": "Liam Goldfinch - NetConstruct",
-    "sourceUrl": "https://github.com/liamgold/font-awesome-form-component",
-    "version": "12.29.2",
-    "kenticoVersions": ["12.0.29"],
-    "category": "mvc form component",
-    "tags": ["icon", "picker", "fontawesome", "font awesome"]
-  },
-  {
-    "name": "Map Location Form Component",
-    "description": "Adds the ability for a content editor to capture a latitude/longitude value by clicking a location on a map.",
-    "thumbnailUrl": "https://raw.githubusercontent.com/liamgold/map-location-form-component/master/img/netconstruct.png",
-    "author": "Liam Goldfinch - NetConstruct",
-    "sourceUrl": "https://github.com/liamgold/map-location-form-component",
-    "version": "12.29.2",
-    "kenticoVersions": ["12.0.29"],
-    "category": "mvc form component",
-    "tags": ["map", "location"]
   },
   {
     "name": "Email Marketing & Surveys",
